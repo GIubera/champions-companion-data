@@ -1511,6 +1511,54 @@
     "contact": false,
     "notes": "Target falls asleep at the end of NEXT turn unless it switches — forces a switch or a sleep (Sylveon filler); reflected by Magic Bounce."
   },
+  "Bug Buzz": {
+    "type": "Bug",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "spread": false,
+    "sound": true,
+    "powder": false,
+    "contact": false,
+    "notes": "Special Bug STAB; sound move, so Soundproof blocks it and Throat Chop disables it."
+  },
+  "Energy Ball": {
+    "type": "Grass",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "spread": false,
+    "sound": false,
+    "powder": false,
+    "contact": false,
+    "notes": "Special Grass STAB; 10% SpD drop; hits Water/Ground/Rock targets."
+  },
+  "Leech Life": {
+    "type": "Bug",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "spread": false,
+    "sound": false,
+    "powder": false,
+    "contact": true,
+    "notes": "Physical Bug STAB that heals the user for half the damage dealt."
+  },
+  "Power Whip": {
+    "type": "Grass",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 85,
+    "priority": 0,
+    "spread": false,
+    "sound": false,
+    "powder": false,
+    "contact": true,
+    "notes": "High-power physical Grass STAB; punishes Water, Ground, and Rock targets but can miss."
+  },
   "Zen Headbutt": {
     "type": "Psychic",
     "category": "physical",

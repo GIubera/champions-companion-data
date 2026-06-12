@@ -231,6 +231,34 @@
     "effect": "Speed DOUBLES when the held item is consumed and stays doubled while the holder remains in — Sneasler's autocombo: Close Combat drops defenses, White Herb restores them and is consumed, Unburden fires. Paralysis ruins the whole plan; the boost is lost on switch-out.",
     "engineFlags": ["doublesSpeedOnItemLoss"]
   },
+  "Berserk": {
+    "effect": "Raises SpA when the holder drops below half HP; Drampa can turn a survived hit into stronger Dragon Pulse/Hyper Voice pressure.",
+    "engineFlags": []
+  },
+  "Solid Rock": {
+    "effect": "Reduces super-effective damage taken; Camerupt-Mega still hates Water ×4, but marginal hits are less clean.",
+    "engineFlags": []
+  },
+  "Frisk": {
+    "effect": "Reveals held items on entry; Gourgeist uses it as scouting value before setting Trick Room.",
+    "engineFlags": []
+  },
+  "Water Bubble": {
+    "effect": "Doubles Water move power and prevents burn; Araquanid turns Liquidation into a serious Trick Room nuke.",
+    "engineFlags": []
+  },
+  "Rock Head": {
+    "effect": "Prevents recoil from recoil moves; Hisuian Arcanine can click Flare Blitz without self-chip.",
+    "engineFlags": []
+  },
+  "Electric Surge": {
+    "effect": "Sets Electric Terrain on entry; Mega Raichu X brings terrain control and boosts grounded Electric attacks.",
+    "engineFlags": ["setsElectricTerrain"]
+  },
+  "No Guard": {
+    "effect": "All moves used by and against the holder hit; Mega Raichu Y turns low-accuracy attacks such as Zap Cannon and Focus Blast into reliable pressure, but also makes incoming attacks unavoidable.",
+    "engineFlags": ["noGuard"]
+  },
   "Zero to Hero": {
     "effect": "Palafin transforms into Hero form (160 Atk) after switching out once — Encore/Taunt the switch cycle to deny or punish the flip.",
     "engineFlags": ["heroFormOnSwitch"]
