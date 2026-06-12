@@ -1,0 +1,162 @@
+{
+  "regulation": "M-A",
+  "updatedAt": "2026-06-12",
+  "archetypes": [
+    {
+      "id": "zardsun",
+      "emoji": "☀️",
+      "name": "ZARDSUN",
+      "prevalence": "The dominant archetype: ~3 out of 8 lists at recent tournaments",
+      "sampleTeam": ["charizard-mega-y", "garchomp", "floette-mega", "sneasler", "whimsicott", "basculegion"],
+      "howItWorks": [
+        "Mega Zard → Drought. Sun = Fire +50%, opposing Water −50%, instant Solar Beam.",
+        "Around it: Chlorophyll (Venusaur) or Unburden (Sneasler) for speed, Whimsicott Tailwind/Encore.",
+        "Scarf Garchomp as a sun-independent physical wing (and Rock Slide for mirror Zards).",
+        "Floette-M as the slow win condition, Basculegion as the cleaner."
+      ],
+      "howToBeat": [
+        "Rock Slide on Zard (Garchomp/Tyranitar/Aerodactyl/Kleavor/Lycanroc).",
+        "WEATHER WAR: bring in your own setter AFTER the Mega (sun lasts 5 turns; the last weather wins).",
+        "Thermal Exchange Baxcalibur (Fire moves pump it up).",
+        "Bulky Waters once the sun is down.",
+        "Taunt the Tailwind setters."
+      ],
+      "notes": "Sun also boosts opposing Fire-types: mirrors become weather-timing races."
+    },
+    {
+      "id": "goodstuff-incineroar",
+      "emoji": "🥊",
+      "name": "Goodstuff / Incineroar Balance",
+      "prevalence": "The style of the Turin winner (Marco Silva, 1st of 941)",
+      "sampleTeam": ["floette-mega", "gengar-mega", "kingambit", "incineroar", "sneasler", "kommo-o"],
+      "howItWorks": [
+        "No weather. Double Mega option (chosen at preview).",
+        "Fake Out + Intimidate + Parting Shot for positioning control.",
+        "Kingambit as the endgame anchor.",
+        "OPTIONAL Perish engine (Gengar + Soundproof Kommo-o): two interchangeable win conditions."
+      ],
+      "howToBeat": [
+        "Punish the passivity (protected setup).",
+        "Fairy ×4 on Kommo-o, Fighting ×4 on Kingambit.",
+        "Keep the tempo high: their advantage grows late-game with Supreme Overlord."
+      ],
+      "notes": "The hybrid is the lesson of the Regional: flexible win conditions beat monolithic plans."
+    },
+    {
+      "id": "rain",
+      "emoji": "🌧️",
+      "name": "Rain",
+      "prevalence": "Third most common archetype (Pelipper/Politoed + abusers)",
+      "sampleTeam": ["dragonite-mega", "archaludon", "basculegion", "pelipper", "sinistcha", "sableye"],
+      "howItWorks": [
+        "Rain = Water +50%, opposing Fire −50%, 100% accurate Hurricane.",
+        "Archaludon's Electro Shot with no charge turn (+1 SpA on every use).",
+        "Adaptability Basculegion is devastating in rain.",
+        "\"Control\" version: dual Tailwind/Trick Room mode (Sinistcha TR + Sableye screens/Quash)."
+      ],
+      "howToBeat": [
+        "Weather war (bring your setter in after theirs).",
+        "Electric ×4 on Pelipper, Grass on Politoed.",
+        "Deny Archaludon tempo: KO it within 2 turns or it snowballs.",
+        "Encore the setters."
+      ],
+      "notes": "Reference list: Cybertron, replica code UBVEGRW250."
+    },
+    {
+      "id": "perish-trap",
+      "emoji": "💀",
+      "name": "Perish Trap (full-trap)",
+      "prevalence": "Polarizing: extremely strong vs the unprepared, weak when counter-picked",
+      "sampleTeam": ["gengar-mega", "politoed", "sinistcha", "incineroar", "tinkaton", "kommo-o"],
+      "howItWorks": [
+        "Mega Gengar = SHADOW TAG: opponents cannot switch.",
+        "Perish Song = a counter of 3 on everything on the field; at 0, faint. YOUR mons reset it by switching, theirs can't.",
+        "Soundproof Kommo-o = immune to its ally's song = a win condition that stays on the field.",
+        "Disable/Encore shut down the answers; Politoed = second singer.",
+        "Counter rule: Gengar switches out on the turn ITS OWN count hits 1 (opponents trapped at move selection stay locked in → they die, it escapes)."
+      ],
+      "howToBeat": [
+        "GHOSTS = immune to trapping (Basculegion, 51% usage!).",
+        "Pivot moves bypass the cage (U-turn/Volt Switch/Flip Turn/Parting Shot) and reset the count.",
+        "Prankster Taunt on the singer.",
+        "Throat Chop (silences sound moves for 2 turns).",
+        "Magic Bounce (Hatterene) REFLECTS the song; Good as Gold is immune.",
+        "The double KO from Perish CHARGES the opponent's Last Respects/Supreme Overlord.",
+        "Counter-pick at preview: the trapper telegraphs the plan → know when to leave Gengar on the bench."
+      ],
+      "notes": "All countermeasures field-tested. Lesson: this is why the winner runs the hybrid (goodstuff-incineroar)."
+    },
+    {
+      "id": "snow-double-mega",
+      "emoji": "❄️",
+      "name": "Snow double-Mega",
+      "prevalence": "5th-6th at the Turin Regional",
+      "sampleTeam": ["froslass-mega", "scovillain-mega", "basculegion", "kingambit", "sneasler", "lycanroc-dusk"],
+      "howItWorks": [
+        "Froslass-M = snow + Aurora Veil (damage halved for 5 turns).",
+        "Behind screens, frail mons (Sneasler/Lycanroc) become sturdy.",
+        "Double Mega option at preview."
+      ],
+      "howToBeat": [
+        "Screens do NOT stop status/Perish/Encore.",
+        "Fire on the Ice-types; Steel/Rock on Froslass; Iron Head ×4 on Ninetales-A (variant).",
+        "Steal the weather."
+      ],
+      "notes": null
+    },
+    {
+      "id": "trick-room",
+      "emoji": "🐌",
+      "name": "Trick Room",
+      "prevalence": "Always present in the meta, rarely full TR",
+      "sampleTeam": null,
+      "howItWorks": [
+        "Typical setters: Hatterene (Magic Bounce!), Indeedee-F (blocks priority + Follow Me), Oranguru (Instruct too), Farigiraf (Armor Tail, can't be Faked Out), Sinistcha.",
+        "Typical abusers: Ursaluna, Torkoal (Eruption), Golurk-M, Steelix-M, Snorlax, Mr. Rime."
+      ],
+      "howToBeat": [
+        "Taunt BEFORE the setup (but: Magic Bounce reflects it, Armor Tail blocks priority Taunts).",
+        "Fake Out the setter (but Indeedee/Farigiraf neutralize it).",
+        "Encore the Trick Room.",
+        "Survive the 5 turns with Protect/switches.",
+        "Remember: TR does NOT change priority (priority brackets still go first)."
+      ],
+      "notes": null
+    },
+    {
+      "id": "minor",
+      "emoji": "🧪",
+      "name": "Minor archetypes",
+      "prevalence": "Seen sporadically",
+      "sampleTeam": null,
+      "howItWorks": [
+        "Baton Pass (Speed Boost Espathra → passes the boosts) — fragile to Taunt/phazing.",
+        "Hybrid Perish-rain.",
+        "Delphox-M goodstuff (2nd-3rd at Turin).",
+        "Sand (Tyranitar-M + Sand Rush Excadrill)."
+      ],
+      "howToBeat": [],
+      "notes": null
+    }
+  ],
+  "microCores": [
+    { "name": "Fake Out + setter", "pieces": ["Incineroar/Sneasler/Tinkaton/Meowscarada", "setter (Tailwind/TR/Mega)"], "how": "Fake Out covers the setup turn.", "counters": ["Armor Tail", "Psychic Terrain", "Ghosts (immune to Fake Out)"] },
+    { "name": "Helping Hand + nuke", "pieces": ["Politoed", "Palafin"], "how": "Boosted Jet Punch = OHKO even on neutral targets.", "counters": ["Protect on the target", "redirection"] },
+    { "name": "Prankster Tailwind + frail hitters", "pieces": ["Whimsicott", "fast frail attackers"], "how": "Prankster = guaranteed Tailwind on turn one.", "counters": ["Armor Tail", "Psychic Terrain", "faster Taunt (another Prankster)"] },
+    { "name": "Intimidate-cycling", "pieces": ["Incineroar"], "how": "Parting Shot → comes back in → fresh Intimidate, on a loop.", "counters": ["Defiant (Kingambit +2!)", "Competitive (Milotic +2 SpA!)", "Clear Amulet (if in the pool: unconfirmed)"] },
+    { "name": "Unburden + consumable item", "pieces": ["Sneasler (White Herb)", "berry users"], "how": "Item consumed → Speed ×2 permanently while on the field. CC drops its defenses → White Herb restores them and is consumed → automatic combo.", "counters": ["Paralysis (negates the boost)", "forcing the switch"] },
+    { "name": "Last Respects engine", "pieces": ["Basculegion"], "how": "Save it for last: each fallen ally = +50 power (at 2 fallen = 150, devastating with Adaptability).", "counters": ["Don't give up free KOs", "Ghost/Dark priority", "win before the late game"] },
+    { "name": "Supreme Overlord anchor", "pieces": ["Kingambit"], "how": "ALWAYS the last of the 4: +20% Atk per fallen ally.", "counters": ["Fighting ×4 (Chople blocks just ONE)", "deny it tempo"] },
+    { "name": "Instruct", "pieces": ["Oranguru", "partner with a nuke"], "how": "The partner immediately repeats its attack = 2 hits/turn (e.g. double Brave Bird).", "counters": ["KO the orchestrator"] },
+    { "name": "Quash + attacker", "pieces": ["Sableye"], "how": "The opposing redirector/threat acts last that turn (anti-redirect tech).", "counters": ["spread moves", "double targeting"] },
+    { "name": "Double Perish singer", "pieces": ["Gengar-M", "Politoed"], "how": "A single Throat Chop/Taunt can't silence both.", "counters": ["Soundproof", "Magic Bounce", "offensive pressure"] },
+    { "name": "Redirect + setup", "pieces": ["Sinistcha/Amoonguss/Maushold", "setter"], "how": "Rage Powder/Follow Me protect the setter on the key turn.", "counters": ["spread moves", "Grass-types (immune to powders)", "Stalwart/Propeller Tail", "Quash"] }
+  ],
+  "teambuildingPrinciples": [
+    "Every competitive team has: a speed engine (weather ability/Tailwind/TR) + glue (Fake Out/Intimidate/redirection) + a late-game anchor + an answer to Basculegion + a plan for Fairies.",
+    "ONE identity only: \"split\" teams (half fast, half slow) sabotage themselves.",
+    "Pick the Mega for the missing ROLE, not for damage: the real constraint is the Mega slot.",
+    "Item clause (each item once per team) → distribute Sash/berries by frailty priority.",
+    "The signal piece visible at preview warps the opponent's picks: it provides value even from the bench."
+  ]
+}

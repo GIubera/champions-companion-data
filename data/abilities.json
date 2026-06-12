@@ -1,0 +1,238 @@
+{
+  "Adaptability": {
+    "effect": "STAB becomes x2 instead of x1.5 — Basculegion's Wave Crash and a charged Last Respects hit absurdly hard, even more so in rain.",
+    "engineFlags": ["adaptability"]
+  },
+  "Aerilate": {
+    "effect": "Normal-type moves become Flying-type with a power boost — Salamence-Mega's Double-Edge becomes a boosted Flying attack.",
+    "engineFlags": ["aerilate"]
+  },
+  "Armor Tail": {
+    "effect": "Blocks priority moves aimed at the holder or its ally (Fake Out, Sucker Punch, Extreme Speed, Prankster status). Does NOT block normal-bracket moves or sleep — a slow Taunt still shuts Farigiraf down.",
+    "engineFlags": ["blocksPriorityTargeting"]
+  },
+  "Chlorophyll": {
+    "effect": "Doubles Speed in sun (Venusaur, Scovillain-Mega) — the speed engine of sun teams; useless once the weather is stolen.",
+    "engineFlags": ["doublesSpeedInSun"]
+  },
+  "Clear Body": {
+    "effect": "Opposing effects cannot lower its stats — Dragapult ignores Intimidate and Snarl/Icy Wind drops.",
+    "engineFlags": ["clearBody"]
+  },
+  "Competitive": {
+    "effect": "+2 SpA whenever an opponent lowers its stats — Intimidate (or Parting Shot) against Milotic is a gift. Never cycle Intimidate into it.",
+    "engineFlags": ["boostsOnStatDrop"]
+  },
+  "Compound Eyes": {
+    "effect": "Boosts accuracy ~30% — Vivillon's Sleep Powder lands at 97%.",
+    "engineFlags": ["compoundEyes"]
+  },
+  "Cursed Body": {
+    "effect": "May disable a move that hits the holder. Gengar and Froslass run this only pre-Mega — it is replaced (Shadow Tag / Snow Warning) once they Mega Evolve.",
+    "engineFlags": ["cursedBody"]
+  },
+  "Defiant": {
+    "effect": "+2 Atk whenever an opponent lowers its stats — Kingambit turns Intimidate and Parting Shot into a free snowball. The common Champions tournament ability on Kingambit (Supreme Overlord seen on some).",
+    "engineFlags": ["boostsOnStatDrop"]
+  },
+  "Disguise": {
+    "effect": "Mimikyu: the first hit it takes is nullified (the disguise busts instead of taking damage).",
+    "engineFlags": ["disguise"]
+  },
+  "Drizzle": {
+    "effect": "Sets rain on entry for 5 turns (Pelipper, Politoed): Water +50%, Fire -50%, Hurricane/Thunder 100%, Electro Shot instant. Weather wars: the LAST setter to enter wins — re-switching the setter re-sets the rain.",
+    "engineFlags": ["setsRain"]
+  },
+  "Drought": {
+    "effect": "Sets sun on entry for 5 turns (Charizard-Mega-Y, Torkoal): Fire +50%, Water -50%, instant Solar Beam. It boosts EVERYONE's Fire, enemy included; the last weather setter to enter wins.",
+    "engineFlags": ["setsSun"]
+  },
+  "Flower Veil": {
+    "effect": "Protects Grass-type allies (Floette-Mega's ability) from stat drops and status conditions.",
+    "engineFlags": ["flowerVeil"]
+  },
+  "Friend Guard": {
+    "effect": "Reduces damage taken by the ally (Maushold) — stacks with its Follow Me/Helping Hand support kit.",
+    "engineFlags": ["friendGuard"]
+  },
+  "Gale Wings": {
+    "effect": "At full HP the holder's Flying moves gain priority — Talonflame fires Brave Bird and Tailwind first; stops working once it is chipped (recoil included).",
+    "engineFlags": ["priorityToFlying"]
+  },
+  "Good as Gold": {
+    "effect": "Immune to status moves aimed at the holder — Taunt, Spore, Will-O-Wisp and Perish Song all fail against it.",
+    "engineFlags": ["statusMoveImmune"]
+  },
+  "Grassy Surge": {
+    "effect": "Sets Grassy Terrain on entry (Rillaboom) — enables priority Grassy Glide for grounded users.",
+    "engineFlags": ["setsGrassyTerrain"]
+  },
+  "Guts": {
+    "effect": "+50% Attack when statused — Ursaluna WANTS the burn/poison and Facade doubles on top of it.",
+    "engineFlags": ["guts"]
+  },
+  "Hospitality": {
+    "effect": "Heals its ally a bit on entry (Sinistcha) — passive value on every redirect pivot.",
+    "engineFlags": ["hospitality"]
+  },
+  "Huge Power": {
+    "effect": "Doubles Attack — Azumarill and Mawile-Mega hit monstrously despite low base stats; Mawile compensates the low Speed with Sucker Punch.",
+    "engineFlags": ["hugePower"]
+  },
+  "Illusion": {
+    "effect": "Zoroark enters disguised as the LAST mon in the team; the illusion breaks at the first damage taken — spread moves unmask it for free.",
+    "engineFlags": ["illusion"]
+  },
+  "Inner Focus": {
+    "effect": "Cannot flinch (Dragonite pre-Mega) — immune to Fake Out's flinch on the turn before Mega Evolving.",
+    "engineFlags": ["flinchImmune"]
+  },
+  "Intimidate": {
+    "effect": "-1 Atk to both opponents on EVERY entry — Incineroar cycles it with Parting Shot for compounding drops. Backfires hard into Defiant (Kingambit +2 Atk) and Competitive (Milotic +2 SpA); Clear Body ignores it.",
+    "engineFlags": ["intimidatesOnEntry"]
+  },
+  "Levitate": {
+    "effect": "Immune to Ground moves — it is why Rotom-Wash has no x4 weakness and only fears Grass.",
+    "engineFlags": ["groundImmune"]
+  },
+  "Magic Bounce": {
+    "effect": "REFLECTS status moves back at the user — Taunt, Spore, Will-O-Wisp and even Perish Song bounce off Hatterene, making her the safest Trick Room setter.",
+    "engineFlags": ["reflectsStatusMoves"]
+  },
+  "Magic Guard": {
+    "effect": "Takes no indirect damage (hazards, weather, Leech Seed, recoil-style chip) — but direct attacks still hurt Clefable, and Perish Song still KOs through it.",
+    "engineFlags": ["magicGuard"]
+  },
+  "Magnet Pull": {
+    "effect": "Traps opposing Steel-types — Kingambit, Tinkaton and Aegislash cannot switch out while Magnezone is in.",
+    "engineFlags": ["trapsSteel"]
+  },
+  "Mega Launcher": {
+    "effect": "Boosts pulse/aura moves (Blastoise-Mega: Dark Pulse, Dragon Pulse, Aura Sphere).",
+    "engineFlags": ["megaLauncher"]
+  },
+  "Mold Breaker": {
+    "effect": "The holder's moves ignore the target's ability (Tinkaton) — hits through Levitate, Multiscale and friends.",
+    "engineFlags": ["moldBreaker"]
+  },
+  "Multiscale": {
+    "effect": "Halves damage taken at full HP — Dragonite-Mega survives one big hit from full; chip it or use spread/multi-hit moves to break the scale first.",
+    "engineFlags": ["multiscale"]
+  },
+  "Overcoat": {
+    "effect": "Immune to powder moves (Spore, Sleep Powder, Rage Powder) and weather chip — same powder immunity Grass-types get for free.",
+    "engineFlags": ["powderImmune"]
+  },
+  "Parental Bond": {
+    "effect": "Every move hits twice, the second hit weaker (Kangaskhan-Mega) — double hits break Focus Sash, Multiscale and Disguise.",
+    "engineFlags": ["parentalBond"]
+  },
+  "Pixilate": {
+    "effect": "Normal moves become Fairy-type with a power boost — Sylveon's Hyper Voice becomes a spread Fairy nuke that also ignores redirection (sound + spread). Soundproof still blocks it.",
+    "engineFlags": ["pixilate"]
+  },
+  "Prankster": {
+    "effect": "Status moves gain +1 priority (Whimsicott Tailwind/Encore, Sableye Taunt/Quash/screens, Grimmsnarl, Klefki). Blocked by Armor Tail and Psychic Terrain; Prankster-boosted status fails against Dark-types.",
+    "engineFlags": ["prankster"]
+  },
+  "Propeller Tail": {
+    "effect": "Ignores redirection — Barraskewda hits the chosen target straight through Follow Me/Rage Powder.",
+    "engineFlags": ["ignoresRedirect"]
+  },
+  "Protean": {
+    "effect": "Changes the user's type to the move it is about to use (Meowscarada) — every attack gets STAB.",
+    "engineFlags": ["protean"]
+  },
+  "Psychic Surge": {
+    "effect": "Sets Psychic Terrain on entry (Indeedee): blocks ALL priority moves against grounded targets (Fake Out, Sucker Punch, Jet Punch, Extreme Speed, Prankster) and boosts Psychic moves.",
+    "engineFlags": ["setsPsychicTerrain"]
+  },
+  "Regenerator": {
+    "effect": "Heals about a third of max HP on switch-out — Amoonguss keeps coming back to redirect again.",
+    "engineFlags": ["regenerator"]
+  },
+  "Rough Skin": {
+    "effect": "Contact attackers take chip damage (Garchomp) — punishes Fake Out, U-turn and multi-hit contact moves.",
+    "engineFlags": ["contactDamage"]
+  },
+  "Sand Rush": {
+    "effect": "Doubles Speed in sandstorm (Excadrill, partnered with Tyranitar-Mega/Hippowdon); mid-slow outside the sand.",
+    "engineFlags": ["doublesSpeedInSand"]
+  },
+  "Sand Stream": {
+    "effect": "Sets sandstorm on entry (Tyranitar-Mega, Hippowdon): chip damage + Sand Rush enabler + Rock SpD boost. Weather wars: the last setter to enter wins.",
+    "engineFlags": ["setsSand"]
+  },
+  "Scrappy": {
+    "effect": "The holder's Normal and Fighting moves HIT Ghost-types — Lopunny-Mega's Fake Out and High Jump Kick connect on Gengar/Basculegion/Sinistcha.",
+    "engineFlags": ["hitsGhosts"]
+  },
+  "Shadow Tag": {
+    "effect": "Opponents cannot switch out — Gengar-Mega's Perish Trap engine (active only AFTER Mega Evolving; pre-Mega it is Cursed Body). Ghost-types are immune, and pivot moves (U-turn/Volt Switch/Flip Turn/Parting Shot/Teleport) still escape.",
+    "engineFlags": ["trapsNonGhost"]
+  },
+  "Snow Warning": {
+    "effect": "Sets snow on entry (Froslass-Mega once evolved, Ninetales-Alola): enables Aurora Veil, +50% Def to Ice-types, Blizzard 100%. Last weather setter wins.",
+    "engineFlags": ["setsSnow"]
+  },
+  "Soundproof": {
+    "effect": "Immune to sound moves INCLUDING allied ones — Kommo-o ignores its own team's Perish Song and stays on the field as the trap win-condition; also blanks Hyper Voice and Snarl.",
+    "engineFlags": ["soundImmune"]
+  },
+  "Speed Boost": {
+    "effect": "+1 Speed at the end of every turn (Espathra) — Baton Pass ships the accumulated boosts to a teammate; fragile to Taunt and phazing.",
+    "engineFlags": ["speedBoost"]
+  },
+  "Spicy Spray": {
+    "effect": "UNVERIFIED: reported in the source as Scovillain-Mega's custom Champions ability with an explicit 'to verify in-game' flag — effect unknown, treat as unconfirmed data.",
+    "engineFlags": []
+  },
+  "Stalwart": {
+    "effect": "Ignores redirection — Archaludon and Mega Skarmory (custom Champions Mega ability) always hit the chosen target straight through Follow Me/Rage Powder/Sinistcha.",
+    "engineFlags": ["ignoresRedirect"]
+  },
+  "Stamina": {
+    "effect": "+1 Defense every time it is hit — Archaludon becomes a growing wall and its Body Press scales with every hit taken. KO it within 2 turns or it snowballs.",
+    "engineFlags": ["boostsDefWhenHit"]
+  },
+  "Stance Change": {
+    "effect": "Aegislash stays in tanky Shield form until it attacks (then flips to frail, hard-hitting Blade form); King's Shield flips it back to Shield.",
+    "engineFlags": ["stanceChange"]
+  },
+  "Supreme Overlord": {
+    "effect": "Attack boosted for each fainted ally (source claims ~+20% per KO; mainline is +10% Atk/SpA — unverified in Champions) — Kingambit is brought as the LAST of the 4; fast-KO plans (Perish included) charge it for the opponent.",
+    "engineFlags": ["boostsPerFaintedAlly"]
+  },
+  "Swift Swim": {
+    "effect": "Doubles Speed in rain (Barraskewda) — near dead weight without the weather.",
+    "engineFlags": ["doublesSpeedInRain"]
+  },
+  "Thermal Exchange": {
+    "effect": "Fire moves feed Baxcalibur +1 Attack instead of meaningful damage, and it cannot be burned — the rising anti-sun tech; hitting it with Fire is worse than useless.",
+    "engineFlags": ["fireAbsorbToAtk"]
+  },
+  "Toxic Debris": {
+    "effect": "Scatters Toxic Spikes on the attacker's side when hit by physical moves (Glimmora's hazard-lead engine; its Mega ability is a custom Champions variant).",
+    "engineFlags": ["setsToxicSpikesWhenHit"]
+  },
+  "Tough Claws": {
+    "effect": "Boosts contact moves ~30% (Aerodactyl-Mega, Metagross-Mega).",
+    "engineFlags": ["toughClaws"]
+  },
+  "Trace": {
+    "effect": "Copies an opponent's ability on entry (Gardevoir).",
+    "engineFlags": ["copiesAbility"]
+  },
+  "Unaware": {
+    "effect": "Ignores the opponent's stat changes when taking and dealing damage — setup sweepers cannot out-boost Dondozo/Clefable. Note: Perish Song ignores Unaware right back.",
+    "engineFlags": ["unaware"]
+  },
+  "Unburden": {
+    "effect": "Speed DOUBLES when the held item is consumed and stays doubled while the holder remains in — Sneasler's autocombo: Close Combat drops defenses, White Herb restores them and is consumed, Unburden fires. Paralysis ruins the whole plan; the boost is lost on switch-out.",
+    "engineFlags": ["doublesSpeedOnItemLoss"]
+  },
+  "Zero to Hero": {
+    "effect": "Palafin transforms into Hero form (160 Atk) after switching out once — Encore/Taunt the switch cycle to deny or punish the flip.",
+    "engineFlags": ["heroFormOnSwitch"]
+  }
+}

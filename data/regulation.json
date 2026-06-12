@@ -1,0 +1,30 @@
+{
+  "current": "M-A",
+  "validUntil": "2026-06-17",
+  "format": "VGC-style doubles: bring 6, field 4 (2+2 on the field). Flat level 50. Mega Evolution instead of Terastal. No legendaries/paradox mons.",
+  "next": {
+    "name": "M-B",
+    "startsAt": "2026-06-17",
+    "knownChanges": [
+      "Mega Raichu added (Raichunite X and Y as a mobile login gift until 1/09/2026)",
+      "Mobile launch with Switch↔mobile cross-save: wave of new players, usage in flux",
+      "The entire usage/set database needs re-verifying against the sources"
+    ]
+  },
+  "updatedAt": "2026-06-12",
+  "usageSources": [
+    "https://www.pikalytics.com/champions",
+    "https://championsmeta.io/meta",
+    "https://championslab.xyz/meta",
+    "Game8 Top-20 Champions",
+    "victoryroad.pro (tournament results)"
+  ],
+  "replicaCodes": [
+    { "code": "U4WWLDUT0J", "team": "Italian Zard (#1 ranked, ZARDSUN archetype)", "verifiedAt": "2026-06" },
+    { "code": "FSF72724QG", "team": "Alexis sun", "verifiedAt": "2026-06" },
+    { "code": "UBVEGRW250", "team": "Cybertron rain", "verifiedAt": "2026-06" },
+    { "code": "7NVYM331JA", "team": "Tinkaton Perish trap", "verifiedAt": "2026-06" },
+    { "code": "JNLJW321F7", "team": "Tinkaton Perish trap (variant)", "verifiedAt": "2026-06" }
+  ],
+  "replicaCodesNote": "Codes die if the creator edits/deletes the team: always show the verification date in the app."
+}

@@ -1,0 +1,92 @@
+{
+  "regulation": "M-A",
+  "updatedAt": "2026-06-12",
+  "rankedFormat": {
+    "battleStyle": "Doubles (VGC-style): bring 6, field 4 (2+2 on the field)",
+    "teamPreview": "~90 seconds: you see species and TYPES of the opposing 6 (the type icons are the reliable information for identification)",
+    "level": "Flat 50 in ranked",
+    "rankLadder": "Ball ladder (…Ultra Ball → Master Ball = top tier, then an internal numeric rating). Below Master Ball you win off opponents' mistakes; within Master Ball, teams and margins decide."
+  },
+  "statSystem": {
+    "ivs": "DO NOT EXIST",
+    "statPoints": "\"EVs\" are called Stat Points: 66 total points, max 32 per stat (typical offensive spread: 32/32/2; bulk: 32HP/32Def)",
+    "statAlignment": "Equivalent to natures: +10% to one stat, −10% to another",
+    "retraining": "Everything can be re-allocated with training tickets (no grinding/breeding)",
+    "warning": "Replica codes also transfer the spreads, but ALWAYS verify the stats screen after replicating (some unexpected spreads are deliberate builds, e.g. bulky Zard-Y 28HP/14Def/23Spe)"
+  },
+  "megaEvolution": {
+    "rules": [
+      "Only 1 Mega per battle; the stone is an ITEM (occupies the item slot)",
+      "You can bring MORE than one stone among your 6 (double Mega option, you choose in battle which one to evolve)",
+      "The pre-Mega ability applies until you evolve (e.g. Gengar = Cursed Body, as Mega = Shadow Tag: the trapping kicks in ONLY after the Mega)"
+    ],
+    "championsExclusives": "Champions INVENTS Megas that don't exist in the main games, with NEW ABILITIES. Seen in the meta so far: Mega Floette, Mega Scovillain, Mega Glimmora, Mega Delphox, Mega Golurk, Mega Meganium, Mega Starmie, Mega Skarmory (ability: STALWART — ignores redirection!), Mega Dragonite, Mega Froslass. Full new-Mega list per Serebii also includes: Victreebel, Clefable, Feraligatr, Chimecho, Emboar, Excadrill, Audino, Chandelure, Chesnaught, Greninja, Meowstic, Hawlucha, Crabominable, Drampa — plus Mega Raichu arriving with Reg M-B (17/06). Roster flags: see roster.json megaAvailable.",
+    "newAbilitiesSource": "pokeos.com/p/champions/new-mega-evolution-abilities",
+    "debugRule": "When an interaction looks impossible under the classic rules → ask yourself \"was it Mega? what's its ability in Champions?\"",
+    "cost": "Mega Stone = 2,000 VP at the Frontier Shop; some free from tutorial/Battle Pass"
+  },
+  "itemSystem": {
+    "itemClause": "Each item at most ONCE per team (unlike mainline VGC)",
+    "poolSize": "~30 non-berry items at launch + berries + type boosters + Mega Stones",
+    "confirmedPresent": ["Choice Scarf", "Focus Sash", "Leftovers", "Sitrus Berry", "Lum Berry", "Mental Herb", "Chople Berry", "Passho Berry", "Roseli Berry", "Kasib Berry", "Shuca Berry", "White Herb", "Quick Claw", "Mystic Water", "Black Glasses", "Fairy Feather", "Sharp Beak"],
+    "confirmedAbsent": ["Safety Goggles", "Rocky Helmet"],
+    "unconfirmed": ["Eject Button", "Covert Cloak", "Assault Vest", "Clear Amulet", "Choice Band/Specs"],
+    "movepoolNote": "Movepools differ from mainline: e.g. Incineroar WITHOUT Knock Off and U-turn in M-A"
+  },
+  "economy": {
+    "vp": "Victory Points: the main currency, earned by battling. Mega Stone 2,000 VP; replica/training per Pokémon ~95–1,500 VP depending on how far it is from the target set",
+    "recruitRanch": "Pokémon recruitment with tickets, RNG outcome (you don't choose who comes out) → missing pieces are long-term goals, not purchases",
+    "trainingTickets": "Change moves/stats/abilities of Pokémon you own",
+    "replicaTeams": "Enter a Team ID (10 characters) → you see the full preview and copy the SETS onto Pokémon YOU OWN, paying per mon. Codes die if the creator edits/deletes the team."
+  },
+  "fieldMechanics": {
+    "weatherDuration": "5 turns",
+    "weatherWar": "The LAST setter to enter wins (abilities trigger on entry → re-switching your setter re-sets the weather)",
+    "sun": "Fire +50% (for EVERYONE), Water −50% (for EVERYONE), Solar Beam without charging",
+    "rain": "Water +50%, Fire −50%, Hurricane/Thunder 100%, Electro Shot without charging",
+    "sand": "Chip damage + Sand Rush Speed ×2 + Rock-types' SpD +50%",
+    "snow": "Aurora Veil enabled, Ice-types' Def +50%, Blizzard 100%",
+    "psychicTerrain": "Blocks ALL priority moves against grounded targets (Fake Out, Sucker Punch, Jet Punch, Extreme Speed, Prankster…) + boosts Psychic",
+    "trickRoom": "5 turns, reverses the order WITHIN each priority bracket (priority moves still go first)"
+  },
+  "gotchas": [
+    { "id": 1, "title": "Fake Out", "text": "Works ONLY on the turn of entry; it's Normal → 0 on Ghosts." },
+    { "id": 2, "title": "Armor Tail", "text": "Blocks PRIORITY moves aimed at Farigiraf or its ally (Fake Out, Sucker, Prankster Taunt…). Does NOT block normal moves or sleep." },
+    { "id": 3, "title": "Taunt vs Encore", "text": "Taunt only blocks status moves (a Taunted mon can still attack). Encore locks in the last move used for 3 turns — applied BEFORE the target acts, it OVERRIDES the move it picked that turn (the faster mon gets its Encore off first). Switching cures Encore; a mon that just switched in can't be Encored." },
+    { "id": 4, "title": "Powders", "text": "Spore, Sleep Powder, Rage Powder…: GRASS-types and Overcoat are IMMUNE." },
+    { "id": 5, "title": "Rage Powder / Follow Me", "text": "Last ONE turn; only redirect single-target moves; the redirect dies if the redirector switches out/faints mid-turn; do NOT redirect spread/sound moves; bypassed by Stalwart (Mega Skarmory, Archaludon) and Propeller Tail (Barraskewda)." },
+    { "id": 6, "title": "Trapping (Shadow Tag)", "text": "GHOSTS are immune; pivot moves (U-turn/Volt Switch/Flip Turn/Parting Shot/Teleport) still let you leave; whoever is caged at move selection stays caged that turn." },
+    { "id": 7, "title": "Perish Song", "text": "Counter of 3 on EVERYONE present when it's sung (including the singer); −1 at end of turn; KO at 0; switching resets the counter; Soundproof is immune; Magic Bounce REFLECTS it; Good as Gold is immune; singing again does NOT refresh existing counters; ignores boosts, Sash, screens, Unaware, Magic Guard." },
+    { "id": 8, "title": "Throat Chop", "text": "The target can't use SOUND moves for 2 turns (Perish Song, Hyper Voice, Clanging Scales, Clangorous Soul); switching clears the silence." },
+    { "id": 9, "title": "Quash", "text": "The target acts LAST that turn (\"soft\" anti-redirect/anti-priority)." },
+    { "id": 10, "title": "Instruct", "text": "Oranguru: the partner immediately repeats its last move = 2 attacks/turn." },
+    { "id": 11, "title": "Sucker Punch", "text": "Fails if the target isn't using an attacking move (Protect/status/switch)." },
+    { "id": 12, "title": "Scrappy", "text": "Lopunny-M, Kangaskhan: their Normal/Fighting moves HIT Ghosts." },
+    { "id": 13, "title": "Normals immune to Ghost", "text": "Shadow Ball = 0 on Lopunny/Kangaskhan/Ursaluna/Snorlax/Maushold and on the part-Normals (Farigiraf, Indeedee) — Ghost attackers struggle." },
+    { "id": 14, "title": "Thermal Exchange", "text": "Baxcalibur: Fire hits give it +1 Attack and it can't be burned — anti-sun tech." },
+    { "id": 15, "title": "Defiant / Competitive", "text": "Competitive (Milotic): +2 SpA when its stats drop → Intimidate is a GIFT. Defiant (Kingambit): +2 Atk, same story." },
+    { "id": 16, "title": "Unburden", "text": "Speed ×2 when the item is consumed (White Herb after Close Combat = auto-combo); paralysis negates it all." },
+    { "id": 17, "title": "Last Respects / Supreme Overlord", "text": "Last Respects: 50 + 50 × fallen allies. Supreme Overlord: +20% Atk per fallen ally. \"Lots of fast KOs\" plans (Perish included) CHARGE both of these." },
+    { "id": 18, "title": "Moves with constraints", "text": "Gigaton Hammer: can't be used twice in a row. Solar Beam: never without sun (charges; also halved in rain). Electro Shot: charges without rain." },
+    { "id": 19, "title": "Illusion / Disguise", "text": "Zoroark enters looking like the last mon in the party; revealed on first damage; spread moves unmask it. Mimikyu (Disguise): negates the first hit." },
+    { "id": 20, "title": "Stance Change", "text": "Aegislash: Shield form until it attacks; King's Shield to return to Shield; Poltergeist fails if the target holds no item." },
+    { "id": 21, "title": "Wide Guard", "text": "Stops spread moves (Heat Wave/Rock Slide/EQ/Hyper Voice…), not single-target ones. In the Italian UI it appears as \"Bodyguard\"." },
+    { "id": 22, "title": "Switching cures", "text": "Encore, Taunt, Throat Chop silence, perish count, stat drops, Disable." },
+    { "id": 23, "title": "Opposing Intimidate-cycling", "text": "It exists against you too: every Incineroar re-entry = −1 to your physical attackers." }
+  ],
+  "localization": {
+    "note": "IT/EN move/item names differ: a mapping table is needed if the app reads Italian screenshots. To be expanded.",
+    "movesItToEn": {
+      "Bodyguard": "Wide Guard",
+      "Monito": "Parting Shot"
+    },
+    "itemsItToEn": {
+      "Baccarosmel": "Chople Berry"
+    }
+  },
+  "assets": {
+    "spriteUrlPattern": "https://play.pokemonshowdown.com/sprites/home/{name}.png",
+    "spriteNamingExamples": ["ninetales-alola", "rotom-wash", "lycanroc-dusk", "indeedee-f", "gengar-mega"],
+    "licenseWarning": "For a PUBLIC/monetized app the Showdown sprite license is a gray area: consider custom icons or no images at all. The scan database will store only HASHES (numbers), never the assets."
+  }
+}

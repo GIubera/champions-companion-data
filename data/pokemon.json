@@ -1,0 +1,2356 @@
+{
+  "$schema": "vedi CLAUDE.md",
+  "regulation": "M-A",
+  "updatedAt": "2026-06-12",
+  "entries": [
+    {
+      "id": "basculegion",
+      "name": "Basculegion",
+      "types": ["Water", "Ghost"],
+      "isMega": false,
+      "usageRank": 1,
+      "usagePercent": 51.5,
+      "torinoTop8Count": 6,
+      "tagline": "THE Pokémon of the format",
+      "role": "late-game sweeper/cleaner: Last Respects scales with fallen allies",
+      "speedTier": "blazing",
+      "speedNote": "Choice Scarf (base 78)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Wave Crash", "Liquidation"], ["Last Respects"], ["Aqua Jet"], ["Protect", "Flip Turn"]],
+        "items": ["Choice Scarf", "Focus Sash", "Mystic Water"],
+        "abilities": ["Adaptability"],
+        "nature": "Adamant/Jolly",
+        "spread": "32Atk/32Spe",
+        "setNotes": null
+      },
+      "strengths": [
+        "Last Respects = 50 + 50 for EVERY fallen ally (150 with 2 down), devastating with Adaptability",
+        "Aqua Jet cleans up with priority",
+        "Ghost: can't be trapped and immune to Fake Out",
+        "threatens anything that doesn't resist Water/Ghost, especially late game with teammates down",
+        "monstrous in rain"
+      ],
+      "counters": [
+        "priority Ghost moves (Shadow Sneak)",
+        "Dark ×2 (Sucker Punch/Kowtow Cleave)",
+        "Grass ×2 and Grassy Glide",
+        "Electric ×2",
+        "sun halves its Water moves",
+        "don't give it free KOs: every fallen ally charges up Last Respects"
+      ],
+      "notes": ["Fighting does 0 to it (it's a Ghost)"],
+      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+    },
+    {
+      "id": "kingambit",
+      "name": "Kingambit",
+      "types": ["Dark", "Steel"],
+      "isMega": false,
+      "usageRank": 2,
+      "usagePercent": 40.7,
+      "torinoTop8Count": 7,
+      "tagline": "the anchor",
+      "role": "late-game anchor: comes in last and punishes Intimidate",
+      "speedTier": "slow",
+      "speedNote": "base 50",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Kowtow Cleave"], ["Sucker Punch"], ["Iron Head"], ["Low Kick", "Swords Dance", "Protect"]],
+        "items": ["Chople Berry", "Black Glasses"],
+        "abilities": ["Defiant", "Supreme Overlord"],
+        "nature": "Adamant",
+        "spread": "32Atk/32HP",
+        "setNotes": null
+      },
+      "strengths": [
+        "Supreme Overlord: more fallen allies = more damage",
+        "Defiant punishes Intimidate (+2 Atk)",
+        "Sucker Punch: priority against anything attacking (mind game)",
+        "Dark ×2 on Ghosts/Psychics and frail targets",
+        "immune to Psychic: walls Hatterene/Gardevoir/Delphox/Indeedee/Espathra/Oranguru"
+      ],
+      "counters": [
+        "Fighting ×4: Close Combat/Aura Sphere/Low Kick = death (Chople Berry blocks ONE)",
+        "Ground ×2",
+        "Fire ×2",
+        "Sucker Punch fails against Protect/status/switches",
+        "Body Press ×4 (Archaludon/Corviknight)"
+      ],
+      "notes": [],
+      "uncertain": ["Supreme Overlord as a variant: Champions tournament sets showed Defiant, with Supreme Overlord on some"]
+    },
+    {
+      "id": "garchomp",
+      "name": "Garchomp",
+      "types": ["Dragon", "Ground"],
+      "isMega": false,
+      "usageRank": 3,
+      "usagePercent": 40.5,
+      "torinoTop8Count": 4,
+      "tagline": "the physical wing",
+      "role": "Scarf revenge killer + spread Earthquake/Rock Slide",
+      "speedTier": "blazing",
+      "speedNote": "Choice Scarf (base 102)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Earthquake"], ["Rock Slide"], ["Dragon Claw"], ["Stomping Tantrum", "Protect"]],
+        "items": ["Choice Scarf"],
+        "abilities": ["Rough Skin"],
+        "nature": "Adamant/Jolly",
+        "spread": "32Atk/32Spe",
+        "setNotes": null
+      },
+      "strengths": [
+        "punishes Charizard with Rock Slide",
+        "punishes Steels with Earthquake",
+        "revenge killer with Choice Scarf"
+      ],
+      "counters": [
+        "Fairy ×2 (Moonblast)",
+        "Ice ×4 (Icy Wind/Blizzard!)",
+        "Grass ×2 (Giga Drain)",
+        "Intimidate",
+        "Pelipper/Dragonite and Flying-types are immune to Earthquake"
+      ],
+      "notes": [],
+      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+    },
+    {
+      "id": "charizard-mega-y",
+      "name": "Charizard-Mega-Y",
+      "types": ["Fire", "Flying"],
+      "isMega": true,
+      "usageRank": 4,
+      "usagePercent": 31.8,
+      "torinoTop8Count": 2,
+      "tagline": "the sun",
+      "role": "weather engine + special spread nuke",
+      "speedTier": "fast",
+      "speedNote": "base 100; the bulky spread plays under Tailwind",
+      "baseSpeed": 100,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Heat Wave"], ["Weather Ball"], ["Solar Beam"], ["Protect"]],
+        "items": ["Charizardite Y"],
+        "abilities": ["Drought (Mega)"],
+        "nature": "Modest",
+        "spread": "28HP/14Def/23Spe/1SpA",
+        "setNotes": "BULKY tournament spread: survives Rock Slide, plays under Tailwind"
+      },
+      "strengths": [
+        "instant Solar Beam in sun surprises Water-types",
+        "special spread nuke (Heat Wave + Weather Ball in sun)"
+      ],
+      "counters": [
+        "ROCK ×2: Rock Slide everywhere is its executioner",
+        "Electric ×2",
+        "steal its weather by bringing in your own setter AFTER it",
+        "Thermal Exchange (Baxcalibur) gets pumped up by its Fire moves"
+      ],
+      "notes": ["in rain Solar Beam needs a charge turn and its Fire moves do −50%"],
+      "uncertain": []
+    },
+    {
+      "id": "sneasler",
+      "name": "Sneasler",
+      "types": ["Fighting", "Poison"],
+      "isMega": false,
+      "usageRank": 5,
+      "usagePercent": 28.6,
+      "torinoTop8Count": 5,
+      "tagline": "the cleaner",
+      "role": "Unburden cleaner: Close Combat + White Herb trigger the Speed double",
+      "speedTier": "blazing",
+      "speedNote": "Unburden doubles it (base 120)",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Dire Claw"], ["Close Combat"], ["Fake Out"], ["Protect"]],
+        "items": ["White Herb"],
+        "abilities": ["Unburden"],
+        "nature": "Adamant",
+        "spread": "32Atk/32Spe",
+        "setNotes": null
+      },
+      "strengths": [
+        "Close Combat drops its defenses → White Herb restores them and gets consumed → Unburden DOUBLES its Speed",
+        "Dire Claw: 50% poison/paralysis/sleep",
+        "Fake Out on top"
+      ],
+      "counters": [
+        "PSYCHIC ×2: it dies",
+        "Flying ×2 (Brave Bird)",
+        "Ground ×2",
+        "paralysis ruins Unburden",
+        "Close Combat and Fake Out do 0 to Ghosts",
+        "extremely frail: punish it when it's left exposed"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "incineroar",
+      "name": "Incineroar",
+      "types": ["Fire", "Dark"],
+      "isMega": false,
+      "usageRank": 6,
+      "usagePercent": 25.9,
+      "torinoTop8Count": 7,
+      "tagline": "the #1 support",
+      "role": "glue support: Intimidate on every switch-in, Fake Out, Parting Shot pivot",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Fake Out"], ["Parting Shot"], ["Flare Blitz"], ["Protect", "Throat Chop", "Snarl"]],
+        "items": ["Sitrus Berry", "Passho Berry", "Lum Berry"],
+        "abilities": ["Intimidate"],
+        "nature": "Relaxed",
+        "spread": "32HP/32Def",
+        "setNotes": "variants: Throat Chop as anti-sound, Snarl"
+      },
+      "strengths": [
+        "Intimidate on every switch-in",
+        "Parting Shot: debuff + pivot, BYPASSES trapping",
+        "wins positioning, not trades (almost zero direct damage)"
+      ],
+      "counters": [
+        "ignore it and beat the rest of the team",
+        "Water/Fighting/Ground/Rock ×2",
+        "an Incineroar as the last mon is nearly harmless",
+        "Encore on the Fake Out locks it down",
+        "its OWN Fake Out does 0 to Ghosts"
+      ],
+      "notes": ["in Reg M-A it does NOT have Knock Off or U-turn (removed in Champions)"],
+      "uncertain": []
+    },
+    {
+      "id": "floette-mega",
+      "name": "Floette-Mega",
+      "types": ["Fairy"],
+      "isMega": true,
+      "usageRank": 7,
+      "usagePercent": 23.9,
+      "torinoTop8Count": 6,
+      "tagline": "the slow win condition",
+      "role": "late-game special tank/sweeper",
+      "speedTier": "slow",
+      "speedNote": null,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Light of Ruin"], ["Moonblast"], ["Dazzling Gleam"], ["Protect"]],
+        "items": ["Floettite"],
+        "abilities": ["Flower Veil"],
+        "nature": "Timid",
+        "spread": null,
+        "setNotes": "CALM MIND variant (+SpA/+SpD setup)"
+      },
+      "strengths": ["after Calm Mind, SPECIAL hits bounce right off it"],
+      "counters": [
+        "ONLY physical attacks (Calm Mind doesn't raise physical Defense): Iron Head ×2, Sludge Bomb/Dire Claw ×2, Gigaton Hammer",
+        "double-target it before it stacks boosts",
+        "the Perish timer ignores boosts"
+      ],
+      "notes": [],
+      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+    },
+    {
+      "id": "sinistcha",
+      "name": "Sinistcha",
+      "types": ["Grass", "Ghost"],
+      "isMega": false,
+      "usageRank": 8,
+      "usagePercent": 20.4,
+      "torinoTop8Count": 4,
+      "tagline": "the redirector",
+      "role": "redirects single-target hits with Rage Powder, heals, optional Trick Room",
+      "speedTier": "medium",
+      "speedNote": "base 70",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Matcha Gotcha"], ["Rage Powder"], ["Life Dew", "Trick Room"], ["Protect"]],
+        "items": ["Sitrus Berry", "Kasib Berry"],
+        "abilities": ["Hospitality"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Rage Powder redirects single-target hits",
+        "Matcha Gotcha heals",
+        "immune to Fake Out (it's a Ghost)"
+      ],
+      "counters": [
+        "SPREAD moves (they ignore the redirect)",
+        "Fire ×2",
+        "Flying/Ice/Dark/Ghost ×2",
+        "Grass-types ignore its Rage Powder"
+      ],
+      "notes": ["Fighting does 0 to it (it's a Ghost)"],
+      "uncertain": []
+    },
+    {
+      "id": "sylveon",
+      "name": "Sylveon",
+      "types": ["Fairy"],
+      "isMega": false,
+      "usageRank": 9,
+      "usagePercent": 17.9,
+      "torinoTop8Count": null,
+      "tagline": "the spread nuke",
+      "role": "special spread nuke: Pixilate Hyper Voice ignores redirection",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Hyper Voice"], ["Moonblast"], ["Mystical Fire", "Quick Attack", "Yawn"], ["Protect", "Detect"]],
+        "items": ["Fairy Feather"],
+        "abilities": ["Pixilate"],
+        "nature": "Modest",
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Hyper Voice = Fairy spread (Pixilate) that ignores redirection (sound + spread)"],
+      "counters": [
+        "PHYSICAL Steel/Poison: Iron Head, Bullet Punch, Sludge, Dire Claw (low physical Defense)",
+        "Soundproof blocks Hyper Voice"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "whimsicott",
+      "name": "Whimsicott",
+      "types": ["Grass", "Fairy"],
+      "isMega": false,
+      "usageRank": 10,
+      "usagePercent": 17.7,
+      "torinoTop8Count": null,
+      "tagline": "the Prankster",
+      "role": "priority speed control + Encore/Taunt",
+      "speedTier": "fast",
+      "speedNote": "base 116; Prankster gives its status moves priority",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Tailwind"], ["Moonblast"], ["Encore"], ["Protect", "Taunt"]],
+        "items": ["Focus Sash"],
+        "abilities": ["Prankster"],
+        "nature": "Timid",
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "priority Tailwind (Prankster)",
+        "Encore: locks targets into Protect/setup",
+        "Taunt",
+        "as a Grass-type it's immune to opposing powder moves"
+      ],
+      "counters": [
+        "Fire/Ice/Steel/Poison/Flying ×2 (frail, the Sash blocks 1)",
+        "Armor Tail blocks its priority"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "archaludon",
+      "name": "Archaludon",
+      "types": ["Steel", "Dragon"],
+      "isMega": false,
+      "usageRank": 11,
+      "usagePercent": 17.4,
+      "torinoTop8Count": null,
+      "tagline": "the wall that shoots back",
+      "role": "snowballing wall (Stamina) + Electro Shot cannon in rain",
+      "speedTier": "medium",
+      "speedNote": "base 85",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Electro Shot"], ["Dragon Pulse"], ["Flash Cannon", "Body Press"], ["Protect"]],
+        "items": ["Leftovers", "Chople Berry"],
+        "abilities": ["Stamina", "Stalwart"],
+        "nature": "Modest",
+        "spread": null,
+        "setNotes": "Stamina = +1 Def when hit; Stalwart ignores redirection"
+      },
+      "strengths": [
+        "in RAIN Electro Shot fires instantly (+1 SpA on every use)",
+        "with Stamina it becomes an ever-growing wall",
+        "Stalwart ignores redirection",
+        "Body Press ×4 on Kingambit/Corviknight"
+      ],
+      "counters": [
+        "Fighting ×2 (Close Combat/Low Kick)",
+        "Ground ×2",
+        "WITHOUT rain Electro Shot needs a charge turn (sun cripples it)",
+        "kill it within 2 turns or it snowballs"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "farigiraf",
+      "name": "Farigiraf",
+      "types": ["Normal", "Psychic"],
+      "isMega": false,
+      "usageRank": 12,
+      "usagePercent": 16.1,
+      "torinoTop8Count": null,
+      "tagline": "the anti-priority glue",
+      "role": "Armor Tail blocks all enemy priority; TR setter that can't be Fake Outed",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Psychic"], ["Thunderbolt"], ["Trick Room"], ["Ally Switch", "Helping Hand"]],
+        "items": ["Sitrus Berry"],
+        "abilities": ["Armor Tail"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "ARMOR TAIL blocks ALL enemy priority (Fake Out, Sucker Punch, Extreme Speed, Prankster)",
+        "TR setter that can't be Fake Outed",
+        "Thunderbolt for Water-/Flying-types"
+      ],
+      "counters": [
+        "Dark ×2 with NON-priority moves: Kowtow Cleave/Crunch yes, Sucker Punch no (it's priority → blocked by Armor Tail)",
+        "Bug ×2",
+        "a non-priority Taunt shuts it up"
+      ],
+      "notes": ["immune to Ghost moves (it's Normal)"],
+      "uncertain": []
+    },
+    {
+      "id": "aerodactyl-mega",
+      "name": "Aerodactyl-Mega",
+      "types": ["Rock", "Flying"],
+      "isMega": true,
+      "usageRank": 13,
+      "usagePercent": 12.2,
+      "torinoTop8Count": null,
+      "tagline": "the fast Tailwind",
+      "role": "the fastest Tailwind setter in the game + Rock Slide flinches",
+      "speedTier": "blazing",
+      "speedNote": "base 150: faster than Mega Gengar (and everything else)",
+      "baseSpeed": 150,
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Rock Slide"], ["Dual Wingbeat"], ["Tailwind"], ["Wide Guard"]],
+        "items": ["Aerodactylite"],
+        "abilities": ["Tough Claws"],
+        "nature": "Jolly",
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "the fastest Tailwind setter in the game",
+        "Rock Slide flinches",
+        "Wide Guard blocks spread moves",
+        "designated Charizard-Y killer"
+      ],
+      "counters": [
+        "Water/Electric/Ice/Rock/Steel ×2",
+        "frail"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "pelipper",
+      "name": "Pelipper",
+      "types": ["Water", "Flying"],
+      "isMega": false,
+      "usageRank": 14,
+      "usagePercent": 12.2,
+      "torinoTop8Count": null,
+      "tagline": "the rain setter",
+      "role": "rain setter with Tailwind and Wide Guard",
+      "speedTier": "slow",
+      "speedNote": "base 65",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Hurricane"], ["Weather Ball"], ["Tailwind"], ["Wide Guard", "Protect"]],
+        "items": ["Sitrus Berry", "Focus Sash"],
+        "abilities": ["Drizzle"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Drizzle sets rain on switch-in"],
+      "counters": [
+        "Electric ×4 (Thunderbolt = death)",
+        "Rock ×2",
+        "frail",
+        "steals/loses the weather on every switch-in (setter war)"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "sableye",
+      "name": "Sableye",
+      "types": ["Dark", "Ghost"],
+      "isMega": false,
+      "usageRank": 15,
+      "usagePercent": 8.8,
+      "torinoTop8Count": null,
+      "tagline": "the disruptor",
+      "role": "Prankster disruption: priority Taunt/Quash/screens",
+      "speedTier": "slow",
+      "speedNote": "base 50; Prankster: priority status moves",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Will-O-Wisp"], ["Taunt", "Quash"], ["Reflect", "Light Screen"], ["Rain Dance"]],
+        "items": ["Roseli Berry"],
+        "abilities": ["Prankster"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "set seen in Champions: Reflect/Light Screen/Quash/Rain Dance @ Roseli"
+      },
+      "strengths": [
+        "Prankster: priority Taunt/Quash/screens",
+        "QUASH: the target moves last (anti-redirect tech)"
+      ],
+      "counters": [
+        "Fairy ×2 is the only weakness that hits it (Moonblast)",
+        "passive: ignore it or Moonblast it"
+      ],
+      "notes": ["Fighting and Normal do 0 to it (it's Ghost); Psychic does 0 to it (it's Dark)"],
+      "uncertain": ["Fake Out in the set: doubtful in the source (ellipsis); the Champions set observed doesn't include it"]
+    },
+    {
+      "id": "dragonite-mega",
+      "name": "Dragonite-Mega",
+      "types": ["Dragon", "Flying"],
+      "isMega": true,
+      "usageRank": 16,
+      "usagePercent": 7.9,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "do-it-all Mega pivot with Multiscale",
+      "speedTier": "medium",
+      "speedNote": "base 80",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Draco Meteor"], ["Flamethrower"], ["Hurricane"], ["Tailwind", "Protect", "Extreme Speed"]],
+        "items": ["Dragoninite"],
+        "abilities": ["Inner Focus (pre-Mega)", "Multiscale (Mega)"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Multiscale tanks one hit from full HP",
+        "Hurricane has 100% accuracy in rain",
+        "do-it-all pivot"
+      ],
+      "counters": [
+        "Ice ×4!",
+        "Rock/Dragon/Fairy ×2 (Moonblast)",
+        "spread moves to break Multiscale"
+      ],
+      "notes": [],
+      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+    },
+    {
+      "id": "maushold",
+      "name": "Maushold",
+      "types": ["Normal"],
+      "isMega": false,
+      "usageRank": 17,
+      "usagePercent": 7.9,
+      "torinoTop8Count": null,
+      "tagline": "the Friend Guard",
+      "role": "redirector support: Follow Me + Friend Guard + Helping Hand",
+      "speedTier": "fast",
+      "speedNote": "base 111",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Follow Me"], ["Helping Hand"], ["Population Bomb"], ["Protect"]],
+        "items": ["Focus Sash"],
+        "abilities": ["Friend Guard"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Friend Guard reduces damage to its ally", "Follow Me redirects single-target hits"],
+      "counters": [
+        "Fighting ×2",
+        "its Population Bomb does 0 to Ghosts",
+        "Follow Me doesn't redirect spread or sound moves"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "aegislash",
+      "name": "Aegislash",
+      "types": ["Steel", "Ghost"],
+      "isMega": false,
+      "usageRank": 18,
+      "usagePercent": 7.5,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Ghost attacker with Stance Change: tanky in Shield form until it attacks",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Poltergeist"], ["Shadow Sneak"], ["Sacred Sword"], ["King's Shield"]],
+        "items": ["Focus Sash", "Colbur Berry"],
+        "abilities": ["Stance Change"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Shield form stays tanky until it attacks",
+        "Sacred Sword ×4 on Kingambit/Tyranitar",
+        "priority Shadow Sneak"
+      ],
+      "counters": [
+        "Fire/Ground/Dark/Ghost ×2 (it's frail in Blade form)",
+        "Poltergeist fails against itemless targets"
+      ],
+      "notes": ["Fighting and Normal do 0 to it (it's a Ghost)"],
+      "uncertain": []
+    },
+    {
+      "id": "blastoise-mega",
+      "name": "Blastoise-Mega",
+      "types": ["Water"],
+      "isMega": true,
+      "usageRank": 19,
+      "usagePercent": 7.45,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "special setup sweeper with Shell Smash",
+      "speedTier": "medium",
+      "speedNote": "base 78; Shell Smash raises its Speed",
+      "baseSpeed": 78,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Water Spout", "Hydro Pump"], ["Dark Pulse"], ["Shell Smash"], ["Protect"]],
+        "items": ["Blastoisinite"],
+        "abilities": ["Mega Launcher"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["after a Shell Smash it becomes a sweep threat"],
+      "counters": [
+        "Electric/Grass ×2",
+        "Encore the Shell Smash",
+        "kill it before it sets up"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "rotom-wash",
+      "name": "Rotom-Wash",
+      "types": ["Electric", "Water"],
+      "isMega": false,
+      "usageRank": 20,
+      "usagePercent": 7.4,
+      "torinoTop8Count": null,
+      "tagline": "the annoyer",
+      "role": "annoyer with no ×4 weaknesses: burns physical attackers",
+      "speedTier": "medium",
+      "speedNote": "base 86",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Hydro Pump"], ["Thunderbolt"], ["Will-O-Wisp"], ["Protect"]],
+        "items": ["Leftovers", "Sitrus Berry"],
+        "abilities": ["Levitate"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "no ×4 weaknesses",
+        "Will-O-Wisp burns physical attackers",
+        "Volt Switch pivot in some builds"
+      ],
+      "counters": [
+        "ONLY Grass ×2 (Giga Drain!)",
+        "no Grass on your team: neutral chip and ignore it"
+      ],
+      "notes": ["immune to Ground (Levitate)"],
+      "uncertain": []
+    },
+    {
+      "id": "glimmora",
+      "name": "Glimmora",
+      "types": ["Rock", "Poison"],
+      "isMega": false,
+      "usageRank": 21,
+      "usagePercent": 6.8,
+      "torinoTop8Count": null,
+      "tagline": "hazard lead",
+      "role": "hazard lead with Toxic Debris",
+      "speedTier": "medium",
+      "speedNote": "base 86",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Power Gem"], ["Sludge Bomb", "Earth Power"], ["Spiky Shield", "Protect"]],
+        "items": ["Focus Sash"],
+        "abilities": ["Toxic Debris"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "can Mega Evolve; the Mega's ability is a Champions custom"
+      },
+      "strengths": ["Toxic Debris scatters hazards when it gets hit"],
+      "counters": [
+        "Water/Ground ×2",
+        "Steel ×2 (Iron Head)",
+        "Psychic ×2",
+        "Earth Power ×4 from a special Ground attacker"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "aerodactyl",
+      "name": "Aerodactyl",
+      "types": ["Rock", "Flying"],
+      "isMega": false,
+      "usageRank": 22,
+      "usagePercent": 6.7,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "non-Mega variant seen on the ladder; no dedicated entry in the source",
+      "speedTier": "blazing",
+      "speedNote": "base 130",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": [
+        "Water/Electric/Ice/Rock/Steel ×2 (from the type chart, Rock/Flying)",
+        "frail: see the Aerodactyl-Mega entry (rank 13) for the full plan"
+      ],
+      "notes": ["no dedicated entry in the source: see Aerodactyl-Mega (rank 13)"],
+      "uncertain": []
+    },
+    {
+      "id": "talonflame",
+      "name": "Talonflame",
+      "types": ["Fire", "Flying"],
+      "isMega": false,
+      "usageRank": 23,
+      "usagePercent": 6.2,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "offensive Tailwind setter with Flying priority (Gale Wings)",
+      "speedTier": "blazing",
+      "speedNote": "base 126; Gale Wings: Flying priority at full HP",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Brave Bird"], ["Flare Blitz", "Heat Wave"], ["Tailwind"], ["Protect"]],
+        "items": ["Sharp Beak", "Focus Sash"],
+        "abilities": ["Gale Wings"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Gale Wings: priority Brave Bird and Tailwind at full HP"],
+      "counters": [
+        "Rock ×4!",
+        "Water/Electric ×2",
+        "frail, kills itself with recoil"
+      ],
+      "notes": [],
+      "uncertain": ["Heat Wave in the set: doubtful in the source ('Flare Blitz/Heat Wave?')"]
+    },
+    {
+      "id": "froslass-mega",
+      "name": "Froslass-Mega",
+      "types": ["Ice", "Ghost"],
+      "isMega": true,
+      "usageRank": 24,
+      "usagePercent": 6.1,
+      "torinoTop8Count": null,
+      "tagline": "the snow",
+      "role": "snow setter + Aurora Veil",
+      "speedTier": "fast",
+      "speedNote": "base 110, fast",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Blizzard"], ["Shadow Ball"], ["Aurora Veil"]],
+        "items": ["Froslassite"],
+        "abilities": ["Cursed Body (pre-Mega)", "Snow Warning (Mega)"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "fourth slot not specified in the source"
+      },
+      "strengths": ["SNOW + Aurora Veil: damage halved for 5 turns", "fast"],
+      "counters": [
+        "Fire/Steel/Rock/Ghost/Dark ×2",
+        "screens do NOT stop status or Perish",
+        "steal its weather"
+      ],
+      "notes": [],
+      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+    },
+    {
+      "id": "scovillain-mega",
+      "name": "Scovillain-Mega",
+      "types": ["Grass", "Fire"],
+      "isMega": true,
+      "usageRank": 25,
+      "usagePercent": 6.0,
+      "torinoTop8Count": null,
+      "tagline": "the pepper",
+      "role": "redirect+drain or dual Grass/Fire STAB; Chlorophyll speeds it up in sun",
+      "speedTier": "blazing",
+      "speedNote": "Chlorophyll: doubles in sun (base 75 outside it)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Flamethrower", "Overheat"], ["Leech Seed"], ["Rage Powder"], ["Protect"]],
+        "items": ["Scovillainite"],
+        "abilities": ["Chlorophyll"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "tournament set; in the source 'Vampata' = Overheat (130 BP, −2 SpA)"
+      },
+      "strengths": [
+        "redirect (Rage Powder) + drain (Leech Seed)",
+        "dual Grass/Fire STAB",
+        "Chlorophyll speeds it up in sun"
+      ],
+      "counters": [
+        "Flying ×2 (Hurricane)",
+        "Rock ×2",
+        "Poison ×2",
+        "Dire Claw ×2"
+      ],
+      "notes": [],
+      "uncertain": ["Mega ability 'Spicy Spray': to be verified in-game", "Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+    },
+    {
+      "id": "amoonguss",
+      "name": "Amoonguss",
+      "types": ["Grass", "Poison"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "redirector with Spore and Regenerator",
+      "speedTier": "slow",
+      "speedNote": "base 30",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Spore"], ["Rage Powder"], ["Pollen Puff", "Sludge Bomb"], ["Protect"]],
+        "items": ["Sitrus Berry"],
+        "abilities": ["Regenerator"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Spore puts targets to sleep", "Rage Powder redirects", "Regenerator restores HP on switch-out"],
+      "counters": [
+        "spread moves (they ignore the redirect)",
+        "Fire/Ice/Flying/Psychic ×2",
+        "Grass-types are immune to Spore/Rage Powder",
+        "Lum Berry blocks the Spore"
+      ],
+      "notes": ["Safety Goggles do NOT exist in Champions: Lum Berry is the only protection"],
+      "uncertain": []
+    },
+    {
+      "id": "annihilape",
+      "name": "Annihilape",
+      "types": ["Fighting", "Ghost"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "the Fighting-types",
+      "role": "snowballer: Rage Fist scales with hits taken",
+      "speedTier": "medium",
+      "speedNote": "base 90",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Rage Fist"], ["Drain Punch", "Close Combat"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Rage Fist scales with hits TAKEN",
+        "can't be trapped (it's a Ghost)",
+        "Aura Sphere and Close Combat do 0 to it (Fighting → 0 on Ghosts)"
+      ],
+      "counters": [
+        "Fairy/Flying/Psychic ×2",
+        "kill it fast, never chip it (every hit charges Rage Fist)"
+      ],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "azumarill",
+      "name": "Azumarill",
+      "types": ["Water", "Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Huge Power attacker with priority Aqua Jet",
+      "speedTier": "slow",
+      "speedNote": "base 50; priority Aqua Jet",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Aqua Jet"], ["Play Rough"]],
+        "items": [],
+        "abilities": ["Huge Power"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Huge Power doubles its Attack", "priority Aqua Jet"],
+      "counters": ["Grass/Electric/Poison ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "barraskewda",
+      "name": "Barraskewda",
+      "types": ["Water"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "rain sweeper: Swift Swim + Propeller Tail",
+      "speedTier": "blazing",
+      "speedNote": "base 136; Swift Swim doubles it in rain",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Liquidation", "Wave Crash"], ["Aqua Jet", "Flip Turn"], ["Close Combat"], ["Protect"]],
+        "items": [],
+        "abilities": ["Swift Swim", "Propeller Tail"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Propeller Tail ignores redirection"],
+      "counters": [
+        "Grass/Electric ×2",
+        "useless without rain"
+      ],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "baxcalibur",
+      "name": "Baxcalibur",
+      "types": ["Dragon", "Ice"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "rising anti-sun tech",
+      "role": "anti-sun: Thermal Exchange converts Fire hits into +1 Attack",
+      "speedTier": "medium",
+      "speedNote": "base 87",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Glaive Rush"], ["Icicle Spear"], ["Earthquake"]],
+        "items": [],
+        "abilities": ["Thermal Exchange"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "THERMAL EXCHANGE: FIRE hits give it +1 Attack instead of full damage, and it can't be burned",
+        "physical attacker: Glaive Rush/Icicle Spear/Earthquake"
+      ],
+      "counters": [
+        "Fairy/Steel/Fighting/Rock/Dragon ×2",
+        "NEVER hit it with Fire (it powers it up)"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "clefable",
+      "name": "Clefable",
+      "types": ["Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Follow Me support or Calm Mind setup",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Follow Me", "Calm Mind"], ["Moonblast"]],
+        "items": [],
+        "abilities": ["Magic Guard", "Unaware"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Magic Guard ignores indirect damage", "Unaware ignores opposing boosts"],
+      "counters": ["Steel/Poison ×2 — Magic Guard doesn't block direct attacks"],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "delphox-mega",
+      "name": "Delphox-Mega",
+      "types": ["Fire", "Psychic"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": 2,
+      "tagline": null,
+      "role": "Fire/Psychic special attacker",
+      "speedTier": "fast",
+      "speedNote": "base 104",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Heat Wave"], ["Expanding Force", "Psychic"], ["Protect"]],
+        "items": ["Delphoxite"],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": "partial set in the source; Delphoxite is a Champions custom item"
+      },
+      "strengths": ["spread Heat Wave", "Expanding Force"],
+      "counters": [
+        "Dark ×2 (and Dark is immune to its Psychic)",
+        "Water/Ground/Rock/Ghost ×2"
+      ],
+      "notes": [],
+      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+    },
+    {
+      "id": "dondozo",
+      "name": "Dondozo",
+      "types": ["Water"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "enormous wall with Unaware",
+      "speedTier": "slow",
+      "speedNote": "base 35",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [],
+        "items": [],
+        "abilities": ["Unaware"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Unaware ignores opposing boosts: an enormous wall"],
+      "counters": [
+        "Grass ×2",
+        "Electric ×2",
+        "Low Kick hits 120 BP at its weight"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "dragapult",
+      "name": "Dragapult",
+      "types": ["Dragon", "Ghost"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "blazing-fast attacker with Dragon Darts",
+      "speedTier": "blazing",
+      "speedNote": "base 142",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Dragon Darts"], ["Phantom Force", "Shadow Ball"], ["U-turn"], ["Protect"]],
+        "items": [],
+        "abilities": ["Clear Body"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "item not specified in the source"
+      },
+      "strengths": ["blazing fast (base 142)", "Dragon Darts hits both targets"],
+      "counters": [
+        "Fairy ×2 and immune to Dragon: Tinkaton walls it",
+        "Dark ×2 (Sucker Punch)",
+        "Ice ×2"
+      ],
+      "notes": ["Fighting and Normal do 0 to it (it's a Ghost)"],
+      "uncertain": ["U-turn in the set: doubtful in the source ('U-turn?')"]
+    },
+    {
+      "id": "espathra",
+      "name": "Espathra",
+      "types": ["Psychic"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "setup: Speed Boost + Baton Pass + Lumina Crash",
+      "speedTier": "blazing",
+      "speedNote": "Speed Boost: +1 Speed at the end of each turn (base 105)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Lumina Crash"], ["Baton Pass"]],
+        "items": [],
+        "abilities": ["Speed Boost"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Speed Boost stacks Speed every turn",
+        "Baton Pass hands off the boosts",
+        "Lumina Crash drops the target's SpD"
+      ],
+      "counters": [
+        "Bug/Ghost/Dark ×2",
+        "Dark is immune to its Psychic"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "excadrill",
+      "name": "Excadrill",
+      "types": ["Ground", "Steel"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Sand Rush physical attacker",
+      "speedTier": "blazing",
+      "speedNote": "Sand Rush: doubles in sand (base 88; mid-slow outside of sand)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Earthquake"], ["Iron Head"], ["Rock Slide"], ["Protect"]],
+        "items": ["Focus Sash", "Clear Amulet"],
+        "abilities": ["Sand Rush"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["in sand, Sand Rush makes it blazing fast"],
+      "counters": [
+        "Fire/Fighting/Ground/Water ×2",
+        "mid-slow outside of sand"
+      ],
+      "notes": [],
+      "uncertain": ["Clear Amulet: doubtful in the source ('Clear Amulet?')"]
+    },
+    {
+      "id": "gardevoir",
+      "name": "Gardevoir",
+      "types": ["Psychic", "Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "special attacker with Trace",
+      "speedTier": "medium",
+      "speedNote": "base 80",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Moonblast"], ["Psychic"], ["Dazzling Gleam", "Trick Room"], ["Protect"]],
+        "items": [],
+        "abilities": ["Trace"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Trace copies the opposing ability"],
+      "counters": [
+        "Ghost/Steel/Poison ×2",
+        "Kingambit walls it (immune to Psychic)"
+      ],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "gengar-mega",
+      "name": "Gengar-Mega",
+      "types": ["Ghost", "Poison"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "the trapper",
+      "role": "trapper: Shadow Tag stops enemies from switching; Perish Trap",
+      "speedTier": "blazing",
+      "speedNote": "base 130: faster than almost everything",
+      "baseSpeed": 130,
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Shadow Ball"], ["Sludge Bomb", "Perish Song"], ["Disable"], ["Protect"]],
+        "items": ["Gengarite"],
+        "abilities": ["Cursed Body (pre-Mega)", "Shadow Tag (Mega)"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "once Mega, enemies canNOT switch out (Shadow Tag)",
+        "Perish Trap"
+      ],
+      "counters": [
+        "Dark/Ghost/Ground/Psychic ×2 into its paper-thin body",
+        "Taunt shuts it down",
+        "enemy Ghosts can still switch; pivot moves bypass the trapping"
+      ],
+      "notes": ["Fake Out doesn't work on it (it's a Ghost)"],
+      "uncertain": []
+    },
+    {
+      "id": "golurk-mega",
+      "name": "Golurk-Mega",
+      "types": ["Ground", "Ghost"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Trick Room nuke",
+      "speedTier": "slow",
+      "speedNote": "base 55",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Poltergeist"], ["Earthquake", "Stomping Tantrum"], ["Protect"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["physical nuke under Trick Room"],
+      "counters": ["Water/Grass/Ice/Ghost/Dark ×2"],
+      "notes": ["Fighting and Normal do 0 to it (it's a Ghost)"],
+      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed", "set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "grimmsnarl",
+      "name": "Grimmsnarl",
+      "types": ["Dark", "Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Prankster support: screens, Taunt, Spirit Break",
+      "speedTier": "slow",
+      "speedNote": "base 60; Prankster: priority status moves",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Reflect", "Light Screen"], ["Taunt"], ["Spirit Break"]],
+        "items": [],
+        "abilities": ["Prankster"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["priority screens and Taunt (Prankster)", "Spirit Break drops SpA"],
+      "counters": ["Steel ×2", "Poison ×2", "Fairy ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "gyarados-mega",
+      "name": "Gyarados-Mega",
+      "types": ["Water", "Dark"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Intimidate + Dragon Dance setup",
+      "speedTier": "medium",
+      "speedNote": "base 81; Dragon Dance raises its Speed",
+      "baseSpeed": 81,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Dragon Dance"]],
+        "items": [],
+        "abilities": ["Intimidate (pre-Mega)"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Intimidate on switch-in", "Dragon Dance setup"],
+      "counters": ["Fairy/Fighting/Bug/Grass/Electric ×2"],
+      "notes": ["as a Mega (Water/Dark) it loses the ×4 Electric weakness"],
+      "uncertain": []
+    },
+    {
+      "id": "hatterene",
+      "name": "Hatterene",
+      "types": ["Psychic", "Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "TR setter with Magic Bounce: reflects status moves",
+      "speedTier": "slow",
+      "speedNote": "base 29",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Expanding Force", "Psychic"], ["Dazzling Gleam"], ["Trick Room"], ["Protect"]],
+        "items": [],
+        "abilities": ["Magic Bounce"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "item not specified in the source"
+      },
+      "strengths": ["MAGIC BOUNCE reflects status moves (Taunt, Perish Song, Spore...)"],
+      "counters": [
+        "Steel/Poison/Ghost ×2 with PHYSICAL attacks",
+        "Kingambit walls it (immune to Psychic)"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "hippowdon",
+      "name": "Hippowdon",
+      "types": ["Ground"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "defensive sand",
+      "role": "defensive sand setter",
+      "speedTier": "slow",
+      "speedNote": "base 47",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Earthquake"], ["Yawn"], ["Slack Off"], ["Protect"]],
+        "items": [],
+        "abilities": ["Sand Stream"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": [
+        "Water/Grass/Ice ×2",
+        "passive: Encore it"
+      ],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "hydreigon",
+      "name": "Hydreigon",
+      "types": ["Dark", "Dragon"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "special attacker",
+      "speedTier": "fast",
+      "speedNote": "base 98",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Dark Pulse"], ["Draco Meteor"], ["Flamethrower", "Heat Wave"], ["Protect"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": [
+        "FAIRY ×4!",
+        "Fighting/Ice/Dragon/Bug ×2"
+      ],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "indeedee-f",
+      "name": "Indeedee-F",
+      "types": ["Psychic", "Normal"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "support: Psychic Surge + Follow Me",
+      "speedTier": "medium",
+      "speedNote": "base 85",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Follow Me"]],
+        "items": [],
+        "abilities": ["Psychic Surge"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Psychic Surge: the Terrain BLOCKS ALL priority + boosts Psychic moves",
+        "Follow Me redirects"
+      ],
+      "counters": [
+        "Dark ×2 (and Dark is immune to its Psychic STAB)",
+        "Bug ×2"
+      ],
+      "notes": ["immune to Ghost moves (it's Normal)"],
+      "uncertain": []
+    },
+    {
+      "id": "kangaskhan-mega",
+      "name": "Kangaskhan-Mega",
+      "types": ["Normal"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "the Fighting-types",
+      "role": "Parental Bond attacker with Fake Out",
+      "speedTier": "fast",
+      "speedNote": "base 100",
+      "baseSpeed": 100,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Fake Out"], ["Low Kick"]],
+        "items": [],
+        "abilities": ["Scrappy (pre-Mega)", "Parental Bond (Mega)"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Parental Bond: every move hits twice",
+        "Scrappy: Fake Out and Normal/Fighting moves hit Ghosts",
+        "Low Kick ×4 on heavy Steels"
+      ],
+      "counters": ["Fighting ×2"],
+      "notes": ["it's Normal: Ghost moves do 0 to it"],
+      "uncertain": []
+    },
+    {
+      "id": "kleavor",
+      "name": "Kleavor",
+      "types": ["Bug", "Rock"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Scarf attacker with Stone Axe",
+      "speedTier": "blazing",
+      "speedNote": "Choice Scarf (base 85)",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Stone Axe"]],
+        "items": ["Choice Scarf"],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Stone Axe off a Scarf"],
+      "counters": ["Water/Rock/Steel ×2"],
+      "notes": [],
+      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+    },
+    {
+      "id": "klefki",
+      "name": "Klefki",
+      "types": ["Steel", "Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Prankster support: screens + Thunder Wave",
+      "speedTier": "medium",
+      "speedNote": "base 75; Prankster: priority status moves",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Reflect", "Light Screen"], ["Thunder Wave"]],
+        "items": [],
+        "abilities": ["Prankster"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["priority screens and Thunder Wave (Prankster)"],
+      "counters": ["Fire ×2", "Ground ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "kommo-o",
+      "name": "Kommo-o",
+      "types": ["Dragon", "Fighting"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "setup sweeper: Clangorous Soul gives +1 to everything",
+      "speedTier": "medium",
+      "speedNote": "base 85; Clangorous Soul raises Speed too",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Clangorous Soul"], ["Clanging Scales"], ["Aura Sphere"], ["Protect"]],
+        "items": ["Leftovers"],
+        "abilities": ["Soundproof"],
+        "nature": "Modest",
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Clangorous Soul: +1 to all stats (at the cost of 33% of its HP)",
+        "Clanging Scales: 110 BP spread (−1 to its own Def)",
+        "SOUNDPROOF: immune to Perish Song/Hyper Voice, even from allies"
+      ],
+      "counters": [
+        "FAIRY ×4! (Moonblast/Spirit Break/Play Rough = death)",
+        "Psychic/Ice/Dragon/Flying ×2",
+        "Throat Chop shuts it down (Soul and Scales are sound moves)",
+        "punish it on the Soul turn (−33% HP)"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "lopunny-mega",
+      "name": "Lopunny-Mega",
+      "types": ["Normal", "Fighting"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "the Fighting-types",
+      "role": "blazing-fast attacker with Scrappy",
+      "speedTier": "blazing",
+      "speedNote": "base 135, blazing fast",
+      "baseSpeed": 135,
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Fake Out"], ["High Jump Kick"]],
+        "items": [],
+        "abilities": ["Scrappy"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "SCRAPPY: hits Ghosts with Fake Out and High Jump Kick",
+        "blazing fast"
+      ],
+      "counters": [
+        "Fighting/Flying/Psychic/Fairy ×2",
+        "frail"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "lucario",
+      "name": "Lucario",
+      "types": ["Fighting", "Steel"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "the Fighting-types",
+      "role": "mixed attacker with priority Bullet Punch",
+      "speedTier": "medium",
+      "speedNote": "base 90; priority Bullet Punch",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Close Combat", "Aura Sphere"], ["Bullet Punch"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "priority Bullet Punch",
+        "mixed attacker",
+        "its Fighting moves hit Kingambit ×4"
+      ],
+      "counters": ["Fire/Fighting/Ground ×2"],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "lycanroc-dusk",
+      "name": "Lycanroc-Dusk",
+      "types": ["Rock"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "attacker with priority Accelerock",
+      "speedTier": "fast",
+      "speedNote": "base 110; priority Accelerock",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Accelerock"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["priority Accelerock"],
+      "counters": [
+        "Fighting/Water/Grass/Ground/Steel ×2",
+        "frail"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "magnezone",
+      "name": "Magnezone",
+      "types": ["Electric", "Steel"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Steel trapper with Magnet Pull",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Thunderbolt"], ["Flash Cannon"], ["Volt Switch"], ["Protect"]],
+        "items": [],
+        "abilities": ["Magnet Pull"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["MAGNET PULL: TRAPS opposing Steels (Kingambit/Tinkaton/Aegislash!)"],
+      "counters": [
+        "Ground ×4!",
+        "Fire/Fighting ×2"
+      ],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "mamoswine",
+      "name": "Mamoswine",
+      "types": ["Ice", "Ground"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Earthquake/Icicle physical attacker",
+      "speedTier": "medium",
+      "speedNote": "base 80",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Earthquake"], ["Icicle Crash", "Icicle Spear"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": "the source just says 'Icicle' without specifying the move"
+      },
+      "strengths": [],
+      "counters": ["Fire/Fighting/Grass/Water/Steel ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "mawile-mega",
+      "name": "Mawile-Mega",
+      "types": ["Steel", "Fairy"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Huge Power physical attacker, slow",
+      "speedTier": "slow",
+      "speedNote": "base 50",
+      "baseSpeed": 50,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Sucker Punch"], ["Play Rough"], ["Iron Head"]],
+        "items": [],
+        "abilities": ["Huge Power"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Huge Power = monstrous Attack", "Sucker Punch makes up for the low Speed"],
+      "counters": [
+        "Fire ×2 (nuke it)",
+        "Ground ×2"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "meganium-mega",
+      "name": "Meganium-Mega",
+      "types": ["Grass"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Champions custom Mega",
+      "speedTier": "medium",
+      "speedNote": "base 80",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": ["Fire/Ice/Flying/Bug/Poison ×2"],
+      "notes": ["Champions custom Mega"],
+      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+    },
+    {
+      "id": "meowscarada",
+      "name": "Meowscarada",
+      "types": ["Grass", "Dark"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Protean attacker: Flower Trick always crits",
+      "speedTier": "blazing",
+      "speedNote": "base 123",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Flower Trick"], ["Knock Off"], ["Fake Out"]],
+        "items": [],
+        "abilities": ["Protean"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Flower Trick: a guaranteed crit every time",
+        "Protean changes its type to match the move used",
+        "utility Fake Out and Knock Off"
+      ],
+      "counters": ["Fire/Fairy/Fighting/Bug ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "metagross-mega",
+      "name": "Metagross-Mega",
+      "types": ["Steel", "Psychic"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Tough Claws physical attacker",
+      "speedTier": "fast",
+      "speedNote": "base 110",
+      "baseSpeed": 110,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Bullet Punch"], ["Zen Headbutt"]],
+        "items": [],
+        "abilities": ["Tough Claws"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Tough Claws boosts contact moves", "priority Bullet Punch"],
+      "counters": [
+        "Fire/Ground/Ghost/Dark ×2",
+        "Dark is immune to its Psychic"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "milotic",
+      "name": "Milotic",
+      "types": ["Water"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "special tank with Competitive",
+      "speedTier": "medium",
+      "speedNote": "base 81",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [],
+        "items": [],
+        "abilities": ["Competitive"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["COMPETITIVE: +2 SpA when its stats get lowered — do NOT use Intimidate against it"],
+      "counters": ["Grass/Electric ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "mr-rime",
+      "name": "Mr. Rime",
+      "types": ["Ice", "Psychic"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "TR",
+      "role": "Trick Room",
+      "speedTier": "slow",
+      "speedNote": "base 70, the source lists it as slow (TR candidate)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Fake Out"], ["Trick Room"], ["Psychic"], ["Helping Hand", "Protect"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": [
+        "Fire/Steel ×2",
+        "Dark ×2"
+      ],
+      "notes": ["no relevant immunities"],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "ninetales-alola",
+      "name": "Ninetales-Alola",
+      "types": ["Ice", "Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "snow #2",
+      "role": "snow setter with Aurora Veil and Freeze-Dry",
+      "speedTier": "fast",
+      "speedNote": "base 109",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Aurora Veil"], ["Freeze-Dry"]],
+        "items": [],
+        "abilities": ["Snow Warning"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Snow Warning + Aurora Veil",
+        "Freeze-Dry hits Water-types ×2!"
+      ],
+      "counters": [
+        "Steel ×4 (Iron Head!)",
+        "Fire ×2"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "oranguru",
+      "name": "Oranguru",
+      "types": ["Normal", "Psychic"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Instruct support + Trick Room",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Instruct"], ["Trick Room"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["INSTRUCT: the partner repeats its attack = 2 hits per turn"],
+      "counters": ["Dark ×2"],
+      "notes": ["immune to Ghost moves (it's Normal)"],
+      "uncertain": []
+    },
+    {
+      "id": "palafin",
+      "name": "Palafin",
+      "types": ["Water"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Zero to Hero: after one switch it becomes Hero form (160 Atk)",
+      "speedTier": "fast",
+      "speedNote": "base 100; priority Jet Punch",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Jet Punch"], ["Close Combat"], ["Wave Crash"], ["Flip Turn"]],
+        "items": [],
+        "abilities": ["Zero to Hero"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Zero to Hero: after 1 switch it becomes Hero with 160 Atk",
+        "priority Jet Punch",
+        "Flip Turn pivot"
+      ],
+      "counters": [
+        "Grass/Electric ×2",
+        "sun halves its Water moves (−50%)",
+        "Encore/Taunt during the switch cycle"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "politoed",
+      "name": "Politoed",
+      "types": ["Water"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "the second rain setter",
+      "role": "rain + utility: Encore, Helping Hand, backup Perish",
+      "speedTier": "medium",
+      "speedNote": "base 70",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Weather Ball"], ["Encore"], ["Perish Song", "Helping Hand", "Icy Wind"], ["Protect"]],
+        "items": ["Leftovers", "Lum Berry"],
+        "abilities": ["Drizzle"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "tankier than Pelipper",
+        "Encore!",
+        "backup Perish Song"
+      ],
+      "counters": ["Grass/Electric ×2 (Grassy Glide!)"],
+      "notes": ["no Tailwind (unlike Pelipper)"],
+      "uncertain": []
+    },
+    {
+      "id": "primarina",
+      "name": "Primarina",
+      "types": ["Water", "Fairy"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "bulky special attacker",
+      "speedTier": "slow",
+      "speedNote": "base 60",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Moonblast"], ["Hydro Pump"], ["Icy Wind"], ["Protect"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": ["Electric/Poison/Grass ×2"],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "rillaboom",
+      "name": "Rillaboom",
+      "types": ["Grass"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "priority Grassy Glide in its own Grassy Terrain + Fake Out",
+      "speedTier": "medium",
+      "speedNote": "base 85; Grassy Glide has priority in the Terrain",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Grassy Glide"], ["Fake Out"]],
+        "items": [],
+        "abilities": ["Grassy Surge"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["priority Grassy Glide in Grassy Terrain", "Fake Out"],
+      "counters": ["Fire/Flying/Ice/Poison/Bug ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "salamence-mega",
+      "name": "Salamence-Mega",
+      "types": ["Dragon", "Flying"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "physical spread: Aerilate Double-Edge",
+      "speedTier": "blazing",
+      "speedNote": "base 120",
+      "baseSpeed": 120,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Double-Edge"]],
+        "items": [],
+        "abilities": ["Intimidate (pre-Mega)", "Aerilate (Mega)"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Aerilate: Double-Edge becomes a Flying spread move",
+        "Intimidate on switch-in (pre-Mega)"
+      ],
+      "counters": [
+        "Ice ×4",
+        "Fairy/Rock/Dragon ×2",
+        "Tinkaton walls it"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "skarmory-mega",
+      "name": "Skarmory-Mega",
+      "types": ["Steel", "Flying"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "offensive support that ignores redirection (Stalwart)",
+      "speedTier": "medium",
+      "speedNote": "base 70",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Brave Bird"], ["Iron Head"], ["Whirlwind"], ["Tailwind"]],
+        "items": [],
+        "abilities": ["Stalwart"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["STALWART: ignores redirection"],
+      "counters": ["Fire/Electric ×2"],
+      "notes": [],
+      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+    },
+    {
+      "id": "snorlax",
+      "name": "Snorlax",
+      "types": ["Normal"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "bulky Trick Room attacker",
+      "speedTier": "slow",
+      "speedNote": "base 30",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Double-Edge"], ["Crunch"], ["Yawn"], ["Protect"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": ["Fighting ×2"],
+      "notes": ["immune to Ghost moves (it's Normal)"],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    },
+    {
+      "id": "steelix-mega",
+      "name": "Steelix-Mega",
+      "types": ["Steel", "Ground"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "TR wall",
+      "role": "physical Trick Room wall",
+      "speedTier": "slow",
+      "speedNote": "base 30, extremely slow",
+      "baseSpeed": 30,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Earthquake"], ["Rock Slide"], ["Iron Head"]],
+        "items": [],
+        "abilities": [],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [],
+      "counters": ["Fire/Water/Fighting/Ground ×2 (special attacks work best)"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "tinkaton",
+      "name": "Tinkaton",
+      "types": ["Fairy", "Steel"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "hybrid utility with Gigaton Hammer",
+      "speedTier": "medium",
+      "speedNote": "base 94",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Gigaton Hammer"], ["Fake Out"], ["Encore"], ["Protect"]],
+        "items": ["berry (unspecified in the source)"],
+        "abilities": ["Mold Breaker"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "massive Gigaton Hammer",
+        "resists 9 types",
+        "immune to Dragon and Poison"
+      ],
+      "counters": ["Fire ×2 and Ground ×2 (its only weaknesses)"],
+      "notes": ["Gigaton Hammer canNOT be used twice in a row"],
+      "uncertain": []
+    },
+    {
+      "id": "torkoal",
+      "name": "Torkoal",
+      "types": ["Fire"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "sun setter with Eruption under Trick Room",
+      "speedTier": "slow",
+      "speedNote": "base 20",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Eruption"]],
+        "items": [],
+        "abilities": ["Drought"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Drought + Eruption under Trick Room"],
+      "counters": ["Water/Ground/Rock ×2"],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "tyranitar-mega",
+      "name": "Tyranitar-Mega",
+      "types": ["Rock", "Dark"],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "the sand",
+      "role": "offensive sand setter",
+      "speedTier": "medium",
+      "speedNote": "base 71",
+      "baseSpeed": 71,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Rock Slide"], ["Crunch"], ["Low Kick"], ["Protect"]],
+        "items": ["Tyranitarite"],
+        "abilities": ["Sand Stream"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Sand Stream sets sand on switch-in"],
+      "counters": [
+        "FIGHTING ×4! (Low Kick at 120 BP given its weight, Close Combat, Aura Sphere)",
+        "Ground/Steel/Fairy/Grass/Water/Bug ×2"
+      ],
+      "notes": ["weather setter war: it steals the weather on entry, the last one in wins"],
+      "uncertain": ["Low Kick in the set: doubtful in the source ('Low Kick?')"]
+    },
+    {
+      "id": "ursaluna",
+      "name": "Ursaluna",
+      "types": ["Ground", "Normal"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "physical Trick Room nuke with Guts",
+      "speedTier": "slow",
+      "speedNote": "base 50, extremely slow",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Facade"], ["Headlong Rush"]],
+        "items": [],
+        "abilities": ["Guts"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["Guts + Facade: status powers it up"],
+      "counters": ["Fighting/Water/Grass/Ice ×2"],
+      "notes": ["immune to Ghost moves (it's Normal); its Facade does 0 to Ghosts"],
+      "uncertain": []
+    },
+    {
+      "id": "venusaur",
+      "name": "Venusaur",
+      "types": ["Grass", "Poison"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": "sun abuser",
+      "role": "sun abuser: Chlorophyll doubles its Speed in sun",
+      "speedTier": "blazing",
+      "speedNote": "Chlorophyll: ×2 in sun (base 80 outside it)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Giga Drain"], ["Sludge Bomb"], ["Earth Power", "Sleep Powder"], ["Protect"]],
+        "items": ["Lum Berry", "Venusaurite"],
+        "abilities": ["Chlorophyll"],
+        "nature": "Modest",
+        "spread": "32SpA/32Spe",
+        "setNotes": "a Mega exists (Venusaurite)"
+      },
+      "strengths": ["Chlorophyll doubles its Speed in sun", "as a Grass-type it's immune to powder moves"],
+      "counters": [
+        "Fire ×2 (very bad for it in sun)",
+        "Flying/Ice/Psychic ×2"
+      ],
+      "notes": [],
+      "uncertain": []
+    },
+    {
+      "id": "vivillon",
+      "name": "Vivillon",
+      "types": ["Bug", "Flying"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "sleep support: Compound Eyes Sleep Powder at 97%",
+      "speedTier": "blazing",
+      "speedNote": "Choice Scarf assumed from export 1 §4 (base 89)",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Sleep Powder"], ["Rage Powder"], ["Hurricane"]],
+        "items": ["Choice Scarf"],
+        "abilities": ["Compound Eyes"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": [
+        "Sleep Powder at 97% accuracy with Compound Eyes",
+        "Rage Powder redirects",
+        "Hurricane"
+      ],
+      "counters": [
+        "Rock ×4",
+        "Fire/Electric/Ice/Flying ×2"
+      ],
+      "notes": [],
+      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+    },
+    {
+      "id": "zoroark",
+      "name": "Zoroark",
+      "types": ["Dark"],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "torinoTop8Count": null,
+      "tagline": null,
+      "role": "Illusion: comes in disguised as the team's last mon",
+      "speedTier": "fast",
+      "speedNote": "base 105",
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [["Dark Pulse"], ["Flamethrower"], ["U-turn"], ["Protect"]],
+        "items": [],
+        "abilities": ["Illusion"],
+        "nature": null,
+        "spread": null,
+        "setNotes": null
+      },
+      "strengths": ["comes in disguised as the team's last mon; revealed by the first hit it takes"],
+      "counters": [
+        "Fighting/Bug/Fairy ×2",
+        "frail",
+        "spread moves unmask it for free"
+      ],
+      "notes": [],
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
+    }
+  ]
+}
