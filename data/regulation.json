@@ -20,14 +20,54 @@
     "victoryroad.pro (tournament results)"
   ],
   "replicaCodes": [
-    { "code": "U4WWLDUT0J", "team": "Luixen Aerodactyl Charizard Champion / Italian Zard", "verifiedAt": "2026-06-12", "sourceUrl": "https://pokemonchampionsreplicateams.com/teams/luixen-s-aerodactyl-charizard-champion-u4wwldut0j" },
-    { "code": "FSF72724QG", "team": "Alexis sun", "verifiedAt": "2026-06", "verificationStatus": "public-source-not-found-2026-06-12" },
-    { "code": "UBVEGRW250", "team": "Cybertron rain", "verifiedAt": "2026-06-12", "sourceUrl": "https://pokebase.app/pokemon-champions/team-builder?team=69f73986981137113cdbe3aa" },
-    { "code": "7NVYM331JA", "team": "LenVGC Tinkaton Perish trap", "verifiedAt": "2026-06-12", "sourceUrl": "https://op.gg/pokemon-champions/replica-teams/7NVYM331JA" },
-    { "code": "JNLJW321F7", "team": "Dave Tinkaton Perish trap variant", "verifiedAt": "2026-06-12", "sourceUrl": "https://op.gg/pokemon-champions/replica-teams/JNLJW321F7" },
-    { "code": "QGYAG5WE3C", "team": "LenVGC Mega Charizard Y sun", "verifiedAt": "2026-06-12", "sourceUrl": "https://games.gg/pokemon-champions/guides/pokemon-champions-best-replica-teams-codes/" },
-    { "code": "HH3MF048VV", "team": "Its_WDMichael Mega Golurk Trick Room", "verifiedAt": "2026-06-12", "sourceUrl": "https://devoncorp.press/resources/38-teams-for-pokemon-champions-regulation-m-a" },
-    { "code": "K5N29KPU9T", "team": "NatusPKMN Mega Meganium rain", "verifiedAt": "2026-06-12", "sourceUrl": "https://games.gg/pokemon-champions/guides/pokemon-champions-best-replica-teams-codes/" }
+    {
+      "code": "U4WWLDUT0J",
+      "team": "Luixen Aerodactyl Charizard Champion / Italian Zard",
+      "verifiedAt": "2026-06-12",
+      "sourceUrl": "https://pokemonchampionsreplicateams.com/teams/luixen-s-aerodactyl-charizard-champion-u4wwldut0j"
+    },
+    {
+      "code": "FSF72724QG",
+      "team": "Alexis sun",
+      "verifiedAt": "2026-06",
+      "verificationStatus": "public-source-not-found-2026-06-12"
+    },
+    {
+      "code": "UBVEGRW250",
+      "team": "Cybertron rain",
+      "verifiedAt": "2026-06-12",
+      "sourceUrl": "https://pokebase.app/pokemon-champions/team-builder?team=69f73986981137113cdbe3aa"
+    },
+    {
+      "code": "7NVYM331JA",
+      "team": "LenVGC Tinkaton Perish trap",
+      "verifiedAt": "2026-06-12",
+      "sourceUrl": "https://op.gg/pokemon-champions/replica-teams/7NVYM331JA"
+    },
+    {
+      "code": "JNLJW321F7",
+      "team": "Dave Tinkaton Perish trap variant",
+      "verifiedAt": "2026-06-12",
+      "sourceUrl": "https://op.gg/pokemon-champions/replica-teams/JNLJW321F7"
+    },
+    {
+      "code": "QGYAG5WE3C",
+      "team": "LenVGC Mega Charizard Y sun",
+      "verifiedAt": "2026-06-12",
+      "sourceUrl": "https://games.gg/pokemon-champions/guides/pokemon-champions-best-replica-teams-codes/"
+    },
+    {
+      "code": "HH3MF048VV",
+      "team": "Its_WDMichael Mega Golurk Trick Room",
+      "verifiedAt": "2026-06-12",
+      "sourceUrl": "https://devoncorp.press/resources/38-teams-for-pokemon-champions-regulation-m-a"
+    },
+    {
+      "code": "K5N29KPU9T",
+      "team": "NatusPKMN Mega Meganium rain",
+      "verifiedAt": "2026-06-12",
+      "sourceUrl": "https://games.gg/pokemon-champions/guides/pokemon-champions-best-replica-teams-codes/"
+    }
   ],
   "replicaCodesNote": "Codes die if the creator edits/deletes the team: always show the verification date in the app."
 }
