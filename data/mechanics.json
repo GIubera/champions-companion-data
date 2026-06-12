@@ -29,8 +29,8 @@
     "itemClause": "Each item at most ONCE per team (unlike mainline VGC)",
     "poolSize": "~30 non-berry items at launch + berries + type boosters + Mega Stones",
     "confirmedPresent": ["Choice Scarf", "Focus Sash", "Leftovers", "Sitrus Berry", "Lum Berry", "Mental Herb", "Chople Berry", "Passho Berry", "Roseli Berry", "Kasib Berry", "Shuca Berry", "White Herb", "Quick Claw", "Mystic Water", "Black Glasses", "Fairy Feather", "Sharp Beak"],
-    "confirmedAbsent": ["Safety Goggles", "Rocky Helmet"],
-    "unconfirmed": ["Eject Button", "Covert Cloak", "Assault Vest", "Clear Amulet", "Choice Band/Specs"],
+    "confirmedAbsent": ["Safety Goggles", "Rocky Helmet", "Eject Button", "Covert Cloak", "Assault Vest", "Clear Amulet", "Choice Band", "Choice Specs"],
+    "unconfirmed": [],
     "movepoolNote": "Movepools differ from mainline: e.g. Incineroar WITHOUT Knock Off and U-turn in M-A"
   },
   "economy": {

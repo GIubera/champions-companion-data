@@ -40,7 +40,7 @@
         "don't give it free KOs: every fallen ally charges up Last Respects"
       ],
       "notes": ["Fighting does 0 to it (it's a Ghost)"],
-      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+      "uncertain": []
     },
     {
       "id": "kingambit",
@@ -78,7 +78,7 @@
         "Body Press ×4 (Archaludon/Corviknight)"
       ],
       "notes": [],
-      "uncertain": ["Supreme Overlord as a variant: Champions tournament sets showed Defiant, with Supreme Overlord on some"]
+      "uncertain": []
     },
     {
       "id": "garchomp",
@@ -114,7 +114,7 @@
         "Pelipper/Dragonite and Flying-types are immune to Earthquake"
       ],
       "notes": [],
-      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+      "uncertain": []
     },
     {
       "id": "charizard-mega-y",
@@ -235,7 +235,8 @@
       "tagline": "the slow win condition",
       "role": "late-game special tank/sweeper",
       "speedTier": "slow",
-      "speedNote": null,
+      "speedNote": "base 102 (PokéBase Champions statline); kept slow in the engine heuristic until matchup sheets are revalidated",
+      "baseSpeed": 102,
       "bulk": "medium",
       "set": {
         "moveOptions": [["Light of Ruin"], ["Moonblast"], ["Dazzling Gleam"], ["Protect"]],
@@ -252,7 +253,7 @@
         "the Perish timer ignores boosts"
       ],
       "notes": [],
-      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+      "uncertain": []
     },
     {
       "id": "sinistcha",
@@ -518,7 +519,7 @@
         "passive: ignore it or Moonblast it"
       ],
       "notes": ["Fighting and Normal do 0 to it (it's Ghost); Psychic does 0 to it (it's Dark)"],
-      "uncertain": ["Fake Out in the set: doubtful in the source (ellipsis); the Champions set observed doesn't include it"]
+      "uncertain": []
     },
     {
       "id": "dragonite-mega",
@@ -530,8 +531,9 @@
       "torinoTop8Count": null,
       "tagline": null,
       "role": "do-it-all Mega pivot with Multiscale",
-      "speedTier": "medium",
-      "speedNote": "base 80",
+      "speedTier": "fast",
+      "speedNote": "base 100 (PokéBase Champions statline)",
+      "baseSpeed": 100,
       "bulk": "medium",
       "set": {
         "moveOptions": [["Draco Meteor"], ["Flamethrower"], ["Hurricane"], ["Tailwind", "Protect", "Extreme Speed"]],
@@ -552,7 +554,7 @@
         "spread moves to break Multiscale"
       ],
       "notes": [],
-      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+      "uncertain": []
     },
     {
       "id": "maushold",
@@ -769,7 +771,7 @@
         "frail, kills itself with recoil"
       ],
       "notes": [],
-      "uncertain": ["Heat Wave in the set: doubtful in the source ('Flare Blitz/Heat Wave?')"]
+      "uncertain": []
     },
     {
       "id": "froslass-mega",
@@ -781,8 +783,9 @@
       "torinoTop8Count": null,
       "tagline": "the snow",
       "role": "snow setter + Aurora Veil",
-      "speedTier": "fast",
-      "speedNote": "base 110, fast",
+      "speedTier": "blazing",
+      "speedNote": "base 120 (PokéBase Champions statline)",
+      "baseSpeed": 120,
       "bulk": "medium",
       "set": {
         "moveOptions": [["Blizzard"], ["Shadow Ball"], ["Aurora Veil"]],
@@ -799,7 +802,7 @@
         "steal its weather"
       ],
       "notes": [],
-      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+      "uncertain": []
     },
     {
       "id": "scovillain-mega",
@@ -811,13 +814,14 @@
       "torinoTop8Count": null,
       "tagline": "the pepper",
       "role": "redirect+drain or dual Grass/Fire STAB; Chlorophyll speeds it up in sun",
-      "speedTier": "blazing",
-      "speedNote": "Chlorophyll: doubles in sun (base 75 outside it)",
+      "speedTier": "medium",
+      "speedNote": "base 75 (PokéBase Champions statline)",
+      "baseSpeed": 75,
       "bulk": "medium",
       "set": {
         "moveOptions": [["Flamethrower", "Overheat"], ["Leech Seed"], ["Rage Powder"], ["Protect"]],
         "items": ["Scovillainite"],
-        "abilities": ["Chlorophyll"],
+        "abilities": ["Spicy Spray"],
         "nature": null,
         "spread": null,
         "setNotes": "tournament set; in the source 'Vampata' = Overheat (130 BP, −2 SpA)"
@@ -834,7 +838,7 @@
         "Dire Claw ×2"
       ],
       "notes": [],
-      "uncertain": ["Mega ability 'Spicy Spray': to be verified in-game", "Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+      "uncertain": []
     },
     {
       "id": "amoonguss",
@@ -1023,8 +1027,9 @@
       "torinoTop8Count": 2,
       "tagline": null,
       "role": "Fire/Psychic special attacker",
-      "speedTier": "fast",
-      "speedNote": "base 104",
+      "speedTier": "blazing",
+      "speedNote": "base 134 (PokéBase Champions statline)",
+      "baseSpeed": 134,
       "bulk": "medium",
       "set": {
         "moveOptions": [["Heat Wave"], ["Expanding Force", "Psychic"], ["Protect"]],
@@ -1040,7 +1045,7 @@
         "Water/Ground/Rock/Ghost ×2"
       ],
       "notes": [],
-      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+      "uncertain": []
     },
     {
       "id": "dondozo",
@@ -1150,7 +1155,7 @@
       "bulk": "medium",
       "set": {
         "moveOptions": [["Earthquake"], ["Iron Head"], ["Rock Slide"], ["Protect"]],
-        "items": ["Focus Sash", "Clear Amulet"],
+        "items": ["Focus Sash"],
         "abilities": ["Sand Rush"],
         "nature": null,
         "spread": null,
@@ -1162,7 +1167,7 @@
         "mid-slow outside of sand"
       ],
       "notes": [],
-      "uncertain": ["Clear Amulet: doubtful in the source ('Clear Amulet?')"]
+      "uncertain": []
     },
     {
       "id": "gardevoir",
@@ -1238,7 +1243,8 @@
       "tagline": null,
       "role": "Trick Room nuke",
       "speedTier": "slow",
-      "speedNote": "base 55",
+      "speedNote": "base 55 (PokéBase Champions statline)",
+      "baseSpeed": 55,
       "bulk": "medium",
       "set": {
         "moveOptions": [["Poltergeist"], ["Earthquake", "Stomping Tantrum"], ["Protect"]],
@@ -1251,7 +1257,7 @@
       "strengths": ["physical nuke under Trick Room"],
       "counters": ["Water/Grass/Ice/Ghost/Dark ×2"],
       "notes": ["Fighting and Normal do 0 to it (it's a Ghost)"],
-      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed", "set backfilled from standard competitive knowledge, not source-verified"]
+      "uncertain": ["set backfilled from standard competitive knowledge, not source-verified"]
     },
     {
       "id": "grimmsnarl",
@@ -1480,7 +1486,7 @@
       "strengths": ["Stone Axe off a Scarf"],
       "counters": ["Water/Rock/Steel ×2"],
       "notes": [],
-      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+      "uncertain": []
     },
     {
       "id": "klefki",
@@ -1731,7 +1737,8 @@
       "tagline": null,
       "role": "Champions custom Mega",
       "speedTier": "medium",
-      "speedNote": "base 80",
+      "speedNote": "base 80 (PokéBase Champions statline)",
+      "baseSpeed": 80,
       "bulk": "medium",
       "set": {
         "moveOptions": [],
@@ -1744,7 +1751,7 @@
       "strengths": [],
       "counters": ["Fire/Ice/Flying/Bug/Poison ×2"],
       "notes": ["Champions custom Mega"],
-      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+      "uncertain": []
     },
     {
       "id": "meowscarada",
@@ -2080,7 +2087,8 @@
       "tagline": null,
       "role": "offensive support that ignores redirection (Stalwart)",
       "speedTier": "medium",
-      "speedNote": "base 70",
+      "speedNote": "base 110 (PokéBase Champions statline); kept medium in the engine heuristic until matchup sheets are revalidated",
+      "baseSpeed": 110,
       "bulk": "medium",
       "set": {
         "moveOptions": [["Brave Bird"], ["Iron Head"], ["Whirlwind"], ["Tailwind"]],
@@ -2093,7 +2101,7 @@
       "strengths": ["STALWART: ignores redirection"],
       "counters": ["Fire/Electric ×2"],
       "notes": [],
-      "uncertain": ["Champions-invented mega: no mainline base speed exists; engine falls back to the base species roster speed"]
+      "uncertain": []
     },
     {
       "id": "snorlax",
@@ -2232,7 +2240,7 @@
         "Ground/Steel/Fairy/Grass/Water/Bug ×2"
       ],
       "notes": ["weather setter war: it steals the weather on entry, the last one in wins"],
-      "uncertain": ["Low Kick in the set: doubtful in the source ('Low Kick?')"]
+      "uncertain": []
     },
     {
       "id": "ursaluna",
@@ -2320,7 +2328,7 @@
         "Fire/Electric/Ice/Flying ×2"
       ],
       "notes": [],
-      "uncertain": ["Choice item +50%: to be verified in the pool (export 1 §4)"]
+      "uncertain": []
     },
     {
       "id": "zoroark",

@@ -184,7 +184,7 @@
     "engineFlags": ["speedBoost"]
   },
   "Spicy Spray": {
-    "effect": "UNVERIFIED: reported in the source as Scovillain-Mega's custom Champions ability with an explicit 'to verify in-game' flag — effect unknown, treat as unconfirmed data.",
+    "effect": "When the Pokemon takes damage from a move, it burns the attacker.",
     "engineFlags": []
   },
   "Stalwart": {
