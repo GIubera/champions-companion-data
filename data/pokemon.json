@@ -94,7 +94,7 @@
       "speedNote": "Choice Scarf (base 102)",
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Earthquake"], ["Rock Slide"], ["Dragon Claw"], ["Stomping Tantrum", "Protect"]],
+        "moveOptions": [["Earthquake"], ["Rock Slide", "Rock Tomb"], ["Dragon Claw", "Scale Shot"], ["Stomping Tantrum", "Poison Jab", "Protect"]],
         "items": ["Choice Scarf"],
         "abilities": ["Rough Skin"],
         "nature": "Adamant/Jolly",
@@ -131,7 +131,7 @@
       "baseSpeed": 100,
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Heat Wave"], ["Weather Ball"], ["Solar Beam"], ["Protect"]],
+        "moveOptions": [["Heat Wave"], ["Weather Ball"], ["Solar Beam", "Air Slash"], ["Protect"]],
         "items": ["Charizardite Y"],
         "abilities": ["Drought (Mega)"],
         "nature": "Modest",
@@ -165,7 +165,7 @@
       "speedNote": "Unburden doubles it (base 120)",
       "bulk": "fragile",
       "set": {
-        "moveOptions": [["Dire Claw"], ["Close Combat"], ["Fake Out"], ["Protect"]],
+        "moveOptions": [["Dire Claw"], ["Close Combat"], ["Fake Out"], ["Protect", "Coaching"]],
         "items": ["White Herb"],
         "abilities": ["Unburden"],
         "nature": "Adamant",
@@ -202,7 +202,7 @@
       "speedNote": "base 60",
       "bulk": "bulky",
       "set": {
-        "moveOptions": [["Fake Out"], ["Parting Shot"], ["Flare Blitz"], ["Protect", "Throat Chop", "Snarl"]],
+        "moveOptions": [["Fake Out"], ["Parting Shot"], ["Flare Blitz"], ["Protect", "Throat Chop", "Snarl", "Darkest Lariat", "Helping Hand"]],
         "items": ["Sitrus Berry", "Passho Berry", "Lum Berry"],
         "abilities": ["Intimidate"],
         "nature": "Relaxed",
@@ -239,7 +239,7 @@
       "baseSpeed": 102,
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Light of Ruin"], ["Moonblast"], ["Dazzling Gleam"], ["Protect"]],
+        "moveOptions": [["Light of Ruin"], ["Moonblast", "Draining Kiss"], ["Dazzling Gleam", "Calm Mind"], ["Protect"]],
         "items": ["Floettite"],
         "abilities": ["Flower Veil"],
         "nature": "Timid",
@@ -269,7 +269,7 @@
       "speedNote": "base 70",
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Matcha Gotcha"], ["Rage Powder"], ["Life Dew", "Trick Room"], ["Protect"]],
+        "moveOptions": [["Matcha Gotcha"], ["Rage Powder"], ["Life Dew", "Trick Room", "Shadow Ball"], ["Protect"]],
         "items": ["Sitrus Berry", "Kasib Berry"],
         "abilities": ["Hospitality"],
         "nature": null,
@@ -304,7 +304,7 @@
       "speedNote": "base 60",
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Hyper Voice"], ["Moonblast"], ["Mystical Fire", "Quick Attack", "Yawn"], ["Protect", "Detect"]],
+        "moveOptions": [["Hyper Voice", "Hyper Beam"], ["Moonblast"], ["Mystical Fire", "Quick Attack", "Yawn", "Calm Mind"], ["Protect", "Detect"]],
         "items": ["Fairy Feather"],
         "abilities": ["Pixilate"],
         "nature": "Modest",
@@ -333,7 +333,7 @@
       "speedNote": "base 116; Prankster gives its status moves priority",
       "bulk": "fragile",
       "set": {
-        "moveOptions": [["Tailwind"], ["Moonblast"], ["Encore"], ["Protect", "Taunt"]],
+        "moveOptions": [["Tailwind"], ["Moonblast"], ["Encore"], ["Protect", "Taunt", "Sunny Day"]],
         "items": ["Focus Sash"],
         "abilities": ["Prankster"],
         "nature": "Timid",
@@ -367,7 +367,7 @@
       "speedNote": "base 85",
       "bulk": "bulky",
       "set": {
-        "moveOptions": [["Electro Shot"], ["Dragon Pulse"], ["Flash Cannon", "Body Press"], ["Protect"]],
+        "moveOptions": [["Electro Shot"], ["Dragon Pulse", "Draco Meteor"], ["Flash Cannon", "Body Press", "Aura Sphere"], ["Protect"]],
         "items": ["Leftovers", "Chople Berry"],
         "abilities": ["Stamina", "Stalwart"],
         "nature": "Modest",
@@ -403,7 +403,7 @@
       "speedNote": "base 60",
       "bulk": "bulky",
       "set": {
-        "moveOptions": [["Psychic"], ["Thunderbolt"], ["Trick Room"], ["Ally Switch", "Helping Hand"]],
+        "moveOptions": [["Psychic", "Twin Beam", "Hyper Voice"], ["Thunderbolt", "Foul Play"], ["Trick Room", "Imprison"], ["Ally Switch", "Helping Hand", "Protect", "Rain Dance"]],
         "items": ["Sitrus Berry"],
         "abilities": ["Armor Tail"],
         "nature": null,
@@ -438,7 +438,7 @@
       "baseSpeed": 150,
       "bulk": "fragile",
       "set": {
-        "moveOptions": [["Rock Slide"], ["Dual Wingbeat"], ["Tailwind"], ["Wide Guard"]],
+        "moveOptions": [["Rock Slide"], ["Dual Wingbeat", "Ice Fang"], ["Tailwind"], ["Wide Guard", "Protect"]],
         "items": ["Aerodactylite"],
         "abilities": ["Tough Claws"],
         "nature": "Jolly",
@@ -503,7 +503,7 @@
       "speedNote": "base 50; Prankster: priority status moves",
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Will-O-Wisp"], ["Taunt", "Quash"], ["Reflect", "Light Screen"], ["Rain Dance"]],
+        "moveOptions": [["Will-O-Wisp"], ["Taunt", "Quash", "Encore", "Disable", "Thunder Wave"], ["Reflect", "Light Screen", "Foul Play"], ["Rain Dance", "Fake Out"]],
         "items": ["Roseli Berry"],
         "abilities": ["Prankster"],
         "nature": null,
@@ -570,7 +570,7 @@
       "speedNote": "base 111",
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Follow Me"], ["Helping Hand"], ["Population Bomb"], ["Protect"]],
+        "moveOptions": [["Follow Me"], ["Helping Hand", "Super Fang"], ["Population Bomb", "Feint"], ["Protect", "Taunt", "Encore", "Rain Dance"]],
         "items": ["Focus Sash"],
         "abilities": ["Friend Guard"],
         "nature": null,
@@ -600,7 +600,7 @@
       "speedNote": "base 60",
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Poltergeist"], ["Shadow Sneak"], ["Sacred Sword"], ["King's Shield"]],
+        "moveOptions": [["Poltergeist"], ["Shadow Sneak", "Shadow Ball"], ["Sacred Sword", "Close Combat", "Iron Head"], ["King's Shield", "Wide Guard"]],
         "items": ["Focus Sash", "Colbur Berry"],
         "abilities": ["Stance Change"],
         "nature": null,
@@ -664,7 +664,7 @@
       "speedNote": "base 86",
       "bulk": "medium",
       "set": {
-        "moveOptions": [["Hydro Pump"], ["Thunderbolt"], ["Will-O-Wisp"], ["Protect"]],
+        "moveOptions": [["Hydro Pump"], ["Thunderbolt", "Volt Switch", "Electroweb"], ["Will-O-Wisp"], ["Protect", "Light Screen"]],
         "items": ["Leftovers", "Sitrus Berry"],
         "abilities": ["Levitate"],
         "nature": null,
@@ -728,7 +728,7 @@
       "speedNote": "base 130",
       "bulk": "fragile",
       "set": {
-        "moveOptions": [],
+        "moveOptions": [["Rock Slide"], ["Dual Wingbeat"], ["Tailwind"], ["Wide Guard", "Protect", "Sunny Day"]],
         "items": [],
         "abilities": [],
         "nature": null,
@@ -757,7 +757,7 @@
       "speedNote": "base 126; Gale Wings: Flying priority at full HP",
       "bulk": "fragile",
       "set": {
-        "moveOptions": [["Brave Bird"], ["Flare Blitz", "Heat Wave"], ["Tailwind"], ["Protect"]],
+        "moveOptions": [["Brave Bird", "Acrobatics", "Dual Wingbeat"], ["Flare Blitz", "Heat Wave", "Will-O-Wisp"], ["Tailwind"], ["Protect", "Quick Guard", "Taunt"]],
         "items": ["Sharp Beak", "Focus Sash"],
         "abilities": ["Gale Wings"],
         "nature": null,
@@ -2517,6 +2517,110 @@
       "counters": ["Wave Crash ×4", "Hydro Pump ×4", "Earthquake ×4", "Close Combat ×2", "Rock Slide ×2"],
       "notes": [],
       "uncertain": ["Top-cut presence verified from one Pikalytics tournament team; aggregate usage below the displayed top-25 cutoff or not source-visible."]
+    },
+    {
+      "id": "corviknight",
+      "name": "Corviknight",
+      "types": ["Flying", "Steel"],
+      "isMega": false,
+      "usageRank": 22,
+      "usagePercent": 7.0,
+      "torinoTop8Count": null,
+      "tagline": "ladder Tailwind steel bird",
+      "role": "bulky Tailwind support that can snowball with Bulk Up or pressure with Brave Bird",
+      "speedTier": "slow",
+      "speedNote": "base 67; usually plays support speed control",
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [["Brave Bird"], ["Tailwind"], ["Bulk Up", "Body Press", "Iron Head"], ["Roost", "Protect"]],
+        "items": [],
+        "abilities": ["Mirror Armor"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "Pikalytics Champions preview/tournament pages show Brave Bird + Tailwind as the core."
+      },
+      "strengths": ["Tailwind support on a naturally bulky Steel/Flying body", "Mirror Armor can punish stat drops", "Bulk Up + Roost variants can become hard to remove"],
+      "counters": ["Thunderbolt ×2", "Overheat ×2", "Heat Wave ×2", "Flare Blitz ×2", "Will-O-Wisp cripples Brave Bird/Bulk Up sets"],
+      "notes": [],
+      "uncertain": ["Item not source-verified from the public aggregate pages."]
+    },
+    {
+      "id": "scizor",
+      "name": "Scizor",
+      "types": ["Bug", "Steel"],
+      "isMega": false,
+      "usageRank": 26,
+      "usagePercent": 6.6,
+      "torinoTop8Count": null,
+      "tagline": "Bullet Punch cleaner",
+      "role": "Technician priority attacker with Swords Dance pressure",
+      "speedTier": "slow",
+      "speedNote": "base 65; relies on Bullet Punch priority",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Bullet Punch"], ["Bug Bite"], ["Swords Dance"], ["Protect", "Close Combat", "U-turn"]],
+        "items": [],
+        "abilities": ["Technician"],
+        "nature": "Adamant",
+        "spread": "32Atk/32Spe",
+        "setNotes": "Pikalytics Champions tournament pages show Bullet Punch / Protect / Swords Dance / Bug Bite as the dominant shell."
+      },
+      "strengths": ["Technician Bullet Punch gives immediate priority cleanup", "Swords Dance punishes passive turns", "Bug/Steel typing gives many useful resistances"],
+      "counters": ["Heat Wave ×4", "Flare Blitz ×4", "Overheat ×4", "Will-O-Wisp halves its physical pressure", "Armor Tail/Psychic Terrain block Bullet Punch priority"],
+      "notes": [],
+      "uncertain": ["Aggregate sources mix regular Scizor and Mega Scizor contexts; held item/form split not source-verified."]
+    },
+    {
+      "id": "rotom-heat",
+      "name": "Rotom-Heat",
+      "types": ["Electric", "Fire"],
+      "isMega": false,
+      "usageRank": 43,
+      "usagePercent": 2.9,
+      "torinoTop8Count": null,
+      "tagline": "ladder heat appliance",
+      "role": "Levitate pivot with Overheat pressure, Volt Switch and burn support",
+      "speedTier": "medium",
+      "speedNote": "base 86",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Overheat"], ["Thunderbolt", "Volt Switch", "Electroweb"], ["Will-O-Wisp"], ["Protect"]],
+        "items": ["Sitrus Berry", "Leftovers"],
+        "abilities": ["Levitate"],
+        "nature": null,
+        "spread": null,
+        "setNotes": "Pikalytics Champions tournament pages list Overheat, Thunderbolt, Volt Switch and Will-O-Wisp as the common core."
+      },
+      "strengths": ["Levitate removes the Ground weakness", "Overheat threatens Steel, Grass, Bug and Ice targets", "Volt Switch keeps momentum while Will-O-Wisp punishes physical attackers"],
+      "counters": ["Rock Slide ×2", "Wave Crash ×2", "Hydro Pump ×2", "Power Gem ×2", "Mold Breaker Earthquake bypasses Levitate if present"],
+      "notes": [],
+      "uncertain": ["Item split not source-verified from aggregate pages."]
+    },
+    {
+      "id": "tsareena",
+      "name": "Tsareena",
+      "types": ["Grass"],
+      "isMega": false,
+      "usageRank": 50,
+      "usagePercent": 2.1,
+      "torinoTop8Count": null,
+      "tagline": "Queenly Majesty tech",
+      "role": "physical Grass attacker that blocks priority and pressures Dragons with Triple Axel",
+      "speedTier": "medium",
+      "speedNote": "base 72",
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [["Trop Kick", "Power Whip"], ["Triple Axel"], ["Low Kick", "High Jump Kick"], ["Protect", "U-turn"]],
+        "items": ["Choice Scarf"],
+        "abilities": ["Queenly Majesty"],
+        "nature": "Adamant/Jolly",
+        "spread": "32Atk/32Spe",
+        "setNotes": "Pikalytics Champions tournament pages show Triple Axel / Trop Kick / Protect / Low Kick; tournament team pages also show Power Whip / U-turn / High Jump Kick."
+      },
+      "strengths": ["Queenly Majesty blocks opposing priority into its side", "Triple Axel threatens Dragonite/Garchomp and other Ice-weak targets", "Grass STAB pressures Water/Ground/Rock teams"],
+      "counters": ["Heat Wave ×2", "Flare Blitz ×2", "Hurricane ×2", "Sludge Bomb ×2", "Bug Buzz ×2", "Triple Axel accuracy can betray it"],
+      "notes": [],
+      "uncertain": ["Choice Scarf is source-visible on one tournament page, but aggregate item split is not source-verified."]
     }
   ]
 }

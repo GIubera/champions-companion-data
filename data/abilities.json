@@ -262,5 +262,17 @@
   "Zero to Hero": {
     "effect": "Palafin transforms into Hero form (160 Atk) after switching out once — Encore/Taunt the switch cycle to deny or punish the flip.",
     "engineFlags": ["heroFormOnSwitch"]
+  },
+  "Mirror Armor": {
+    "effect": "Reflects stat drops back to the user; Intimidate and Icy Wind-style debuffs can backfire into Corviknight teams.",
+    "engineFlags": []
+  },
+  "Technician": {
+    "effect": "Boosts moves with 60 BP or less by 50%; Scizor's Bullet Punch becomes real priority damage.",
+    "engineFlags": []
+  },
+  "Queenly Majesty": {
+    "effect": "Blocks opposing priority moves that target the user or its ally.",
+    "engineFlags": ["blocksPriorityTargeting"]
   }
 }

@@ -8,7 +8,7 @@
     "https://game8.co/games/Pokemon-Champions/archives/601460",
     "data/pokemon.json (ranked-play-verified meta DB; source for 13 species dropped by the web scrape)"
   ],
-  "count": 212,
+  "count": 213,
   "species": [
     { "id": "venusaur", "name": "Venusaur", "types": ["Grass", "Poison"], "baseSpeed": 80, "megaAvailable": true },
     { "id": "charizard", "name": "Charizard", "types": ["Fire", "Flying"], "baseSpeed": 100, "megaAvailable": true, "notes": "Mega X and Mega Y both available" },
@@ -105,6 +105,7 @@
     { "id": "gallade", "name": "Gallade", "types": ["Psychic", "Fighting"], "baseSpeed": 80, "megaAvailable": true },
     { "id": "froslass", "name": "Froslass", "types": ["Ice", "Ghost"], "baseSpeed": 110, "megaAvailable": true },
     { "id": "rotom", "name": "Rotom", "types": ["Electric", "Ghost"], "baseSpeed": 91, "megaAvailable": false, "notes": "Appliance forms (Heat/Wash/Frost/Fan/Mow) are Electric + secondary type, base Speed 86" },
+    { "id": "rotom-heat", "name": "Rotom-Heat", "types": ["Electric", "Fire"], "baseSpeed": 86, "megaAvailable": false },
     { "id": "serperior", "name": "Serperior", "types": ["Grass"], "baseSpeed": 113, "megaAvailable": false },
     { "id": "emboar", "name": "Emboar", "types": ["Fire", "Fighting"], "baseSpeed": 65, "megaAvailable": true },
     { "id": "samurott", "name": "Samurott", "types": ["Water"], "baseSpeed": 70, "megaAvailable": false },
