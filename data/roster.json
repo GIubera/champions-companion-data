@@ -8,7 +8,7 @@
     "https://game8.co/games/Pokemon-Champions/archives/601460",
     "data/pokemon.json (ranked-play-verified meta DB; source for 13 species dropped by the web scrape)"
   ],
-  "count": 213,
+  "count": 216,
   "species": [
     { "id": "venusaur", "name": "Venusaur", "types": ["Grass", "Poison"], "baseSpeed": 80, "megaAvailable": true },
     { "id": "charizard", "name": "Charizard", "types": ["Fire", "Flying"], "baseSpeed": 100, "megaAvailable": true, "notes": "Mega X and Mega Y both available" },
@@ -222,6 +222,9 @@
     { "id": "baxcalibur", "name": "Baxcalibur", "types": ["Dragon", "Ice"], "baseSpeed": 87, "megaAvailable": false },
     { "id": "sinistcha", "name": "Sinistcha", "types": ["Grass", "Ghost"], "baseSpeed": 70, "megaAvailable": false },
     { "id": "archaludon", "name": "Archaludon", "types": ["Steel", "Dragon"], "baseSpeed": 85, "megaAvailable": false },
-    { "id": "hydrapple", "name": "Hydrapple", "types": ["Grass", "Dragon"], "baseSpeed": 44, "megaAvailable": false }
+    { "id": "hydrapple", "name": "Hydrapple", "types": ["Grass", "Dragon"], "baseSpeed": 44, "megaAvailable": false },
+    { "id": "rotom-wash", "name": "Rotom-Wash", "types": ["Electric", "Water"], "baseSpeed": 86, "megaAvailable": false },
+    { "id": "indeedee-f", "name": "Indeedee-F", "types": ["Psychic", "Normal"], "baseSpeed": 85, "megaAvailable": false },
+    { "id": "lycanroc-dusk", "name": "Lycanroc-Dusk", "types": ["Rock"], "baseSpeed": 110, "megaAvailable": false }
   ]
 }

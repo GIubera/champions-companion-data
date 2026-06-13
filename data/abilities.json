@@ -274,5 +274,53 @@
   "Queenly Majesty": {
     "effect": "Blocks opposing priority moves that target the user or its ally.",
     "engineFlags": ["blocksPriorityTargeting"]
+  },
+  "Solar Power": {
+    "effect": "Boosts Special Attack in sun but chips HP each turn while sun is active.",
+    "engineFlags": []
+  },
+  "Torrent": {
+    "effect": "Boosts Water moves when HP is low.",
+    "engineFlags": []
+  },
+  "Limber": {
+    "effect": "Prevents paralysis.",
+    "engineFlags": []
+  },
+  "Sharpness": {
+    "effect": "Boosts slicing moves such as Psycho Cut and Sacred Sword.",
+    "engineFlags": []
+  },
+  "Flash Fire": {
+    "effect": "Immune to Fire moves and powers up the user's Fire moves after absorbing one.",
+    "engineFlags": ["fireImmune"]
+  },
+  "Flame Body": {
+    "effect": "Contact moves against this Pokemon can burn the attacker.",
+    "engineFlags": []
+  },
+  "Blaze": {
+    "effect": "Boosts Fire moves when HP is low.",
+    "engineFlags": []
+  },
+  "Dry Skin": {
+    "effect": "Heals from Water, is hurt by Fire and sun, and recovers in rain.",
+    "engineFlags": []
+  },
+  "Sturdy": {
+    "effect": "Survives a hit from full HP with 1 HP in mainline mechanics.",
+    "engineFlags": []
+  },
+  "Lightning Rod": {
+    "effect": "Redirects single-target Electric moves and raises SpA when hit by Electric.",
+    "engineFlags": ["electricImmune"]
+  },
+  "Static": {
+    "effect": "Contact moves against this Pokemon can paralyze the attacker.",
+    "engineFlags": []
+  },
+  "Pressure": {
+    "effect": "Increases opposing PP usage in mainline play; no direct matchup flag in the current engine.",
+    "engineFlags": []
   }
 }
