@@ -240,7 +240,7 @@
       "set": {
         "moveOptions": [["Light of Ruin"], ["Moonblast", "Draining Kiss"], ["Dazzling Gleam", "Calm Mind"], ["Protect"]],
         "items": ["Floettite"],
-        "abilities": ["Flower Veil"],
+        "abilities": ["Fairy Aura (Mega)"],
         "nature": "Timid",
         "spread": null,
         "setNotes": "CALM MIND variant (+SpA/+SpD setup)"
@@ -1033,10 +1033,10 @@
       "set": {
         "moveOptions": [["Heat Wave"], ["Expanding Force", "Psychic"], ["Protect"]],
         "items": ["Delphoxite"],
-        "abilities": [],
+        "abilities": ["Levitate (Mega)"],
         "nature": null,
         "spread": null,
-        "setNotes": "partial set in the source; Delphoxite is a Champions custom item"
+        "setNotes": "Champions Mega ability LEVITATE → IMMUNE to Ground (Earthquake/Ground moves do 0); Delphoxite is a Champions custom item"
       },
       "strengths": ["spread Heat Wave", "Expanding Force"],
       "counters": [
@@ -1248,7 +1248,7 @@
       "set": {
         "moveOptions": [["Poltergeist"], ["Earthquake", "Stomping Tantrum"], ["Protect"]],
         "items": [],
-        "abilities": [],
+        "abilities": ["Unseen Fist (Mega)"],
         "nature": null,
         "spread": null,
         "setNotes": null
@@ -1742,7 +1742,7 @@
       "set": {
         "moveOptions": [],
         "items": [],
-        "abilities": [],
+        "abilities": ["Mega Sol (Mega)"],
         "nature": null,
         "spread": null,
         "setNotes": null
@@ -2144,7 +2144,7 @@
       "set": {
         "moveOptions": [["Earthquake"], ["Rock Slide"], ["Iron Head"]],
         "items": [],
-        "abilities": [],
+        "abilities": ["Sand Force (Mega)"],
         "nature": null,
         "spread": null,
         "setNotes": null

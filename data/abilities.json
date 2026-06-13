@@ -95,6 +95,22 @@
     "effect": "Immune to Ground moves — it is why Rotom-Wash has no x4 weakness and only fears Grass.",
     "engineFlags": ["groundImmune"]
   },
+  "Fairy Aura": {
+    "effect": "Champions Mega ability (Mega Floette): boosts all Fairy moves on the field by ~33%.",
+    "engineFlags": []
+  },
+  "Unseen Fist": {
+    "effect": "Champions Mega ability (Mega Golurk): contact moves bypass Protect/Detect.",
+    "engineFlags": []
+  },
+  "Mega Sol": {
+    "effect": "Champions Mega ability (Mega Meganium): weather-dependent moves act as if harsh sunlight were active.",
+    "engineFlags": []
+  },
+  "Sand Force": {
+    "effect": "Mega Steelix: ~30% boost to Rock/Ground/Steel moves in sand; immune to sandstorm chip.",
+    "engineFlags": []
+  },
   "Magic Bounce": {
     "effect": "REFLECTS status moves back at the user — Taunt, Spore, Will-O-Wisp and even Perish Song bounce off Hatterene, making her the safest Trick Room setter.",
     "engineFlags": ["reflectsStatusMoves"]
