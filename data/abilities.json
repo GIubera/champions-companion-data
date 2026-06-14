@@ -477,6 +477,10 @@
     "effect": "Champions Mega ability (added from Mega audit 2026-06-14).",
     "engineFlags": []
   },
+  "Sheer Force": {
+    "effect": "Boosts moves with secondary effects but suppresses those secondary effects; Mega Camerupt uses this as its Champions Mega ability.",
+    "engineFlags": []
+  },
   "Skill Link": {
     "effect": "Champions Mega ability (added from Mega audit 2026-06-14).",
     "engineFlags": []
