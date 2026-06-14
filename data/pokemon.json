@@ -3047,8 +3047,8 @@
       "torinoTop8Count": null,
       "tagline": "TR",
       "role": "Trick Room",
-      "speedTier": "slow",
-      "speedNote": "base 70, the source lists it as slow (TR candidate)",
+      "speedTier": "medium",
+      "speedNote": "base 70 = medium per the spec; played as a Trick Room piece (the 'slow' framing is editorial)",
       "bulk": "medium",
       "set": {
         "moveOptions": [

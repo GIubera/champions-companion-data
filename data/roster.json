@@ -2029,6 +2029,16 @@
       "megaAvailable": false
     },
     {
+      "id": "kingdra",
+      "name": "Kingdra",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "baseSpeed": 85,
+      "megaAvailable": false
+    },
+    {
       "id": "baxcalibur",
       "name": "Baxcalibur",
       "types": [
