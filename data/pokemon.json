@@ -13,7 +13,8 @@
       "isMega": false,
       "usageRank": 1,
       "usagePercent": 51.5,
-      "torinoTop8Count": 6,
+      "recentTopCutCount": 13,
+      "recentTopCutNote": "Torino x10, Indianapolis x3",
       "tagline": "THE Pokémon of the format",
       "role": "late-game sweeper/cleaner: Last Respects scales with fallen allies",
       "speedTier": "blazing",
@@ -77,8 +78,9 @@
       ],
       "isMega": false,
       "usageRank": 2,
-      "usagePercent": 40.7,
-      "torinoTop8Count": 7,
+      "usagePercent": 40.69,
+      "recentTopCutCount": 17,
+      "recentTopCutNote": "Torino x11, Indianapolis x6",
       "tagline": "the anchor",
       "role": "late-game anchor: comes in last and punishes Intimidate",
       "speedTier": "slow",
@@ -139,8 +141,9 @@
       ],
       "isMega": false,
       "usageRank": 3,
-      "usagePercent": 40.5,
-      "torinoTop8Count": 4,
+      "usagePercent": 40.53,
+      "recentTopCutCount": 13,
+      "recentTopCutNote": "Torino x6, Indianapolis x7",
       "tagline": "the physical wing",
       "role": "Scarf revenge killer + spread Earthquake/Rock Slide",
       "speedTier": "blazing",
@@ -199,8 +202,9 @@
       ],
       "isMega": true,
       "usageRank": 4,
-      "usagePercent": 31.8,
-      "torinoTop8Count": 2,
+      "usagePercent": 31.81,
+      "recentTopCutCount": 9,
+      "recentTopCutNote": "Torino x6, Indianapolis x3",
       "tagline": "the sun",
       "role": "weather engine + special spread nuke",
       "speedTier": "fast",
@@ -257,8 +261,9 @@
       ],
       "isMega": false,
       "usageRank": 5,
-      "usagePercent": 28.6,
-      "torinoTop8Count": 5,
+      "usagePercent": 28.58,
+      "recentTopCutCount": 17,
+      "recentTopCutNote": "Torino x8, Indianapolis x9",
       "tagline": "the cleaner",
       "role": "Unburden cleaner: Close Combat + White Herb trigger the Speed double",
       "speedTier": "blazing",
@@ -315,8 +320,9 @@
       ],
       "isMega": false,
       "usageRank": 6,
-      "usagePercent": 25.9,
-      "torinoTop8Count": 7,
+      "usagePercent": 25.93,
+      "recentTopCutCount": 18,
+      "recentTopCutNote": "Torino x10, Indianapolis x8",
       "tagline": "the #1 support",
       "role": "glue support: Intimidate on every switch-in, Fake Out, Parting Shot pivot",
       "speedTier": "slow",
@@ -378,8 +384,9 @@
       ],
       "isMega": true,
       "usageRank": 7,
-      "usagePercent": 23.9,
-      "torinoTop8Count": 6,
+      "usagePercent": 23.92,
+      "recentTopCutCount": 16,
+      "recentTopCutNote": "Torino x10, Indianapolis x6",
       "tagline": "the special win condition",
       "role": "late-game special Calm Mind sweeper",
       "baseSpeed": 102,
@@ -433,8 +440,9 @@
       ],
       "isMega": false,
       "usageRank": 8,
-      "usagePercent": 20.4,
-      "torinoTop8Count": 4,
+      "usagePercent": 20.44,
+      "recentTopCutCount": 13,
+      "recentTopCutNote": "Torino x7, Indianapolis x6",
       "tagline": "the redirector",
       "role": "redirects single-target hits with Rage Powder, heals, optional Trick Room",
       "speedTier": "medium",
@@ -493,7 +501,8 @@
       "isMega": false,
       "usageRank": 9,
       "usagePercent": 17.9,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Torino x1, Indianapolis x1",
       "tagline": "the spread nuke",
       "role": "special spread nuke: Pixilate Hyper Voice ignores redirection",
       "speedTier": "slow",
@@ -537,7 +546,9 @@
         "Soundproof blocks Hyper Voice"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "whimsicott",
@@ -548,8 +559,9 @@
       ],
       "isMega": false,
       "usageRank": 10,
-      "usagePercent": 17.7,
-      "torinoTop8Count": null,
+      "usagePercent": 17.65,
+      "recentTopCutCount": 6,
+      "recentTopCutNote": "Torino x4, Indianapolis x2",
       "tagline": "the Prankster",
       "role": "priority speed control + Encore/Taunt",
       "speedTier": "fast",
@@ -604,8 +616,9 @@
       ],
       "isMega": false,
       "usageRank": 11,
-      "usagePercent": 17.4,
-      "torinoTop8Count": null,
+      "usagePercent": 17.43,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "the wall that shoots back",
       "role": "snowballing wall (Stamina) + Electro Shot cannon in rain",
       "speedTier": "medium",
@@ -654,7 +667,9 @@
         "kill it within 2 turns or it snowballs"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta, https://championslab.xyz/meta"
+      ]
     },
     {
       "id": "farigiraf",
@@ -665,8 +680,9 @@
       ],
       "isMega": false,
       "usageRank": 12,
-      "usagePercent": 16.1,
-      "torinoTop8Count": null,
+      "usagePercent": 16.12,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "the anti-priority glue",
       "role": "Armor Tail blocks all enemy priority; TR setter that can't be Fake Outed",
       "speedTier": "slow",
@@ -717,7 +733,9 @@
       "notes": [
         "immune to Ghost moves (it's Normal)"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "aerodactyl-mega",
@@ -728,8 +746,9 @@
       ],
       "isMega": true,
       "usageRank": 13,
-      "usagePercent": 12.2,
-      "torinoTop8Count": null,
+      "usagePercent": 12.19,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Torino x2",
       "tagline": "the fast Tailwind",
       "role": "the fastest Tailwind setter in the game + Rock Slide flinches",
       "speedTier": "blazing",
@@ -774,7 +793,9 @@
         "frail"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16, https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16"
+      ]
     },
     {
       "id": "pelipper",
@@ -785,8 +806,9 @@
       ],
       "isMega": false,
       "usageRank": 14,
-      "usagePercent": 12.2,
-      "torinoTop8Count": null,
+      "usagePercent": 12.15,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "the rain setter",
       "role": "rain setter with Tailwind and Wide Guard",
       "speedTier": "slow",
@@ -829,7 +851,9 @@
         "steals/loses the weather on every switch-in (setter war)"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "sableye",
@@ -840,8 +864,9 @@
       ],
       "isMega": false,
       "usageRank": 15,
-      "usagePercent": 8.8,
-      "torinoTop8Count": null,
+      "usagePercent": 8.84,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "the disruptor",
       "role": "Prankster disruption: priority Taunt/Quash/screens",
       "speedTier": "slow",
@@ -890,7 +915,9 @@
       "notes": [
         "Fighting and Normal do 0 to it (it's Ghost); Psychic does 0 to it (it's Dark)"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "dragonite-mega",
@@ -901,8 +928,9 @@
       ],
       "isMega": true,
       "usageRank": 16,
-      "usagePercent": 7.9,
-      "torinoTop8Count": null,
+      "usagePercent": 7.92,
+      "recentTopCutCount": 3,
+      "recentTopCutNote": "Indianapolis x3",
       "tagline": null,
       "role": "do-it-all Mega pivot with Multiscale",
       "speedTier": "fast",
@@ -948,7 +976,9 @@
         "spread moves to break Multiscale"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://standings.limitlessvgc.com/0033/pokemon"
+      ]
     },
     {
       "id": "maushold",
@@ -959,7 +989,8 @@
       "isMega": false,
       "usageRank": 17,
       "usagePercent": 7.9,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Torino x1, Indianapolis x1",
       "tagline": "the Friend Guard",
       "role": "redirector support: Follow Me + Friend Guard + Helping Hand",
       "speedTier": "fast",
@@ -1005,7 +1036,9 @@
         "Follow Me doesn't redirect spread or sound moves"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "aegislash",
@@ -1016,8 +1049,9 @@
       ],
       "isMega": false,
       "usageRank": 18,
-      "usagePercent": 7.5,
-      "torinoTop8Count": null,
+      "usagePercent": 7.46,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Torino x1",
       "tagline": null,
       "role": "Ghost attacker with Stance Change: tanky in Shield form until it attacks",
       "speedTier": "slow",
@@ -1065,7 +1099,9 @@
       "notes": [
         "Fighting and Normal do 0 to it (it's a Ghost)"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta, https://championslab.xyz/meta"
+      ]
     },
     {
       "id": "blastoise-mega",
@@ -1076,7 +1112,8 @@
       "isMega": true,
       "usageRank": 19,
       "usagePercent": 7.45,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "special setup sweeper with Shell Smash",
       "speedTier": "medium",
@@ -1118,7 +1155,9 @@
         "kill it before it sets up"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://www.pikalytics.com/tournaments/rk9/rk9-naic-2026-day-2"
+      ]
     },
     {
       "id": "rotom-wash",
@@ -1129,8 +1168,9 @@
       ],
       "isMega": false,
       "usageRank": 20,
-      "usagePercent": 7.4,
-      "torinoTop8Count": null,
+      "usagePercent": 7.43,
+      "recentTopCutCount": 3,
+      "recentTopCutNote": "Indianapolis x3",
       "tagline": "the annoyer",
       "role": "annoyer with no ×4 weaknesses: burns physical attackers",
       "speedTier": "medium",
@@ -1177,7 +1217,9 @@
       "notes": [
         "immune to Ground (Levitate)"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "glimmora",
@@ -1189,7 +1231,8 @@
       "isMega": false,
       "usageRank": 21,
       "usagePercent": 6.8,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "hazard lead",
       "role": "hazard lead with Toxic Debris",
       "speedTier": "medium",
@@ -1229,7 +1272,9 @@
         "Earth Power ×4 from a special Ground attacker"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://championsmeta.io/meta, https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://standings.limitlessvgc.com/0033/pokemon"
+      ]
     },
     {
       "id": "aerodactyl",
@@ -1241,7 +1286,8 @@
       "isMega": false,
       "usageRank": 22,
       "usagePercent": 6.7,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": null,
       "role": "non-Mega variant seen on the ladder; no dedicated entry in the source",
       "speedTier": "blazing",
@@ -1278,7 +1324,9 @@
       "notes": [
         "no dedicated entry in the source: see Aerodactyl-Mega (rank 13)"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
+      ]
     },
     {
       "id": "talonflame",
@@ -1290,7 +1338,8 @@
       "isMega": false,
       "usageRank": 23,
       "usagePercent": 6.2,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Indianapolis x2",
       "tagline": null,
       "role": "offensive Tailwind setter with Flying priority (Gale Wings)",
       "speedTier": "blazing",
@@ -1337,7 +1386,9 @@
         "frail, kills itself with recoil"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "froslass-mega",
@@ -1349,7 +1400,8 @@
       "isMega": true,
       "usageRank": 24,
       "usagePercent": 6.1,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 7,
+      "recentTopCutNote": "Torino x3, Indianapolis x4",
       "tagline": "the snow",
       "role": "snow setter + Aurora Veil",
       "speedTier": "blazing",
@@ -1401,7 +1453,8 @@
       "isMega": true,
       "usageRank": 25,
       "usagePercent": 6,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 4,
+      "recentTopCutNote": "Torino x3, Indianapolis x1",
       "tagline": "the pepper",
       "role": "redirect+drain or dual Grass/Fire STAB; Chlorophyll speeds it up in sun",
       "speedTier": "medium",
@@ -1446,7 +1499,9 @@
         "Dire Claw ×2"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16, https://standings.limitlessvgc.com/0033/pokemon"
+      ]
     },
     {
       "id": "amoonguss",
@@ -1458,7 +1513,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "redirector with Spore and Regenerator",
       "speedTier": "slow",
@@ -1516,7 +1572,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "the Fighting-types",
       "role": "snowballer: Rage Fist scales with hits taken",
       "speedTier": "medium",
@@ -1562,7 +1619,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Huge Power attacker with priority Aqua Jet",
       "speedTier": "slow",
@@ -1604,7 +1662,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "rain sweeper: Swift Swim + Propeller Tail",
       "speedTier": "blazing",
@@ -1658,7 +1717,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "rising anti-sun tech",
       "role": "anti-sun: Thermal Exchange converts Fire hits into +1 Attack",
       "speedTier": "medium",
@@ -1704,7 +1764,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Follow Me support or Calm Mind setup",
       "speedTier": "slow",
@@ -1751,7 +1812,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": 2,
+      "recentTopCutCount": 3,
+      "recentTopCutNote": "Torino x3",
       "tagline": null,
       "role": "Fire/Psychic special attacker",
       "speedTier": "blazing",
@@ -1790,7 +1852,9 @@
         "Water/Ground/Rock/Ghost ×2"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16, https://standings.limitlessvgc.com/0033/pokemon, https://www.pikalytics.com/topteams"
+      ]
     },
     {
       "id": "dondozo",
@@ -1801,7 +1865,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "enormous wall with Unaware",
       "speedTier": "slow",
@@ -1838,7 +1903,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "blazing-fast attacker with Dragon Darts",
       "speedTier": "blazing",
@@ -1893,7 +1959,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": null,
       "role": "setup: Speed Boost + Baton Pass + Lumina Crash",
       "speedTier": "blazing",
@@ -1926,7 +1993,9 @@
         "Dark is immune to its Psychic"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
+      ]
     },
     {
       "id": "excadrill",
@@ -1938,7 +2007,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 3,
+      "recentTopCutNote": "Indianapolis x3",
       "tagline": null,
       "role": "Sand Rush physical attacker",
       "speedTier": "blazing",
@@ -1977,7 +2047,9 @@
         "mid-slow outside of sand"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
+      ]
     },
     {
       "id": "gardevoir",
@@ -1989,7 +2061,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "special attacker with Trace",
       "speedTier": "medium",
@@ -2041,7 +2114,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Torino x2",
       "tagline": "the trapper",
       "role": "trapper: Shadow Tag stops enemies from switching; Perish Trap",
       "speedTier": "blazing",
@@ -2087,7 +2161,9 @@
       "notes": [
         "Fake Out doesn't work on it (it's a Ghost)"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/champions, https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16, https://www.pikalytics.com/tournaments/rk9/rk9-naic-2026-day-2"
+      ]
     },
     {
       "id": "golurk-mega",
@@ -2099,7 +2175,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Trick Room nuke",
       "speedTier": "slow",
@@ -2150,7 +2227,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Prankster support: screens, Taunt, Spirit Break",
       "speedTier": "slow",
@@ -2199,7 +2277,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": null,
       "role": "Intimidate + Dragon Dance setup",
       "speedTier": "medium",
@@ -2231,7 +2310,9 @@
       "notes": [
         "as a Mega (Water/Dark) it loses the ×4 Electric weakness"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is low confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://standings.limitlessvgc.com/0033/pokemon, https://championslab.xyz/meta"
+      ]
     },
     {
       "id": "hatterene",
@@ -2243,7 +2324,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "TR setter with Magic Bounce: reflects status moves",
       "speedTier": "slow",
@@ -2292,7 +2374,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "defensive sand",
       "role": "defensive sand setter",
       "speedTier": "slow",
@@ -2341,7 +2424,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Indianapolis x2",
       "tagline": null,
       "role": "special attacker",
       "speedTier": "fast",
@@ -2376,7 +2460,8 @@
       ],
       "notes": [],
       "uncertain": [
-        "set backfilled from standard competitive knowledge, not source-verified"
+        "set backfilled from standard competitive knowledge, not source-verified",
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
       ]
     },
     {
@@ -2389,7 +2474,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "support: Psychic Surge + Follow Me",
       "speedTier": "medium",
@@ -2431,7 +2517,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "the Fighting-types",
       "role": "Parental Bond attacker with Fake Out",
       "speedTier": "fast",
@@ -2479,7 +2566,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Scarf attacker with Stone Axe",
       "speedTier": "blazing",
@@ -2518,7 +2606,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Prankster support: screens + Thunder Wave",
       "speedTier": "medium",
@@ -2562,7 +2651,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 3,
+      "recentTopCutNote": "Torino x2, Indianapolis x1",
       "tagline": null,
       "role": "setup sweeper: Clangorous Soul gives +1 to everything",
       "speedTier": "medium",
@@ -2605,7 +2695,9 @@
         "punish it on the Soul turn (−33% HP)"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16, https://standings.limitlessvgc.com/0033/pokemon"
+      ]
     },
     {
       "id": "lopunny-mega",
@@ -2617,7 +2709,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "the Fighting-types",
       "role": "blazing-fast attacker with Scrappy",
       "speedTier": "blazing",
@@ -2662,7 +2755,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "the Fighting-types",
       "role": "mixed attacker with priority Bullet Punch",
       "speedTier": "medium",
@@ -2706,7 +2800,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 3,
+      "recentTopCutNote": "Torino x3",
       "tagline": null,
       "role": "attacker with priority Accelerock",
       "speedTier": "fast",
@@ -2732,7 +2827,9 @@
         "frail"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16, https://standings.limitlessvgc.com/0033/pokemon, https://www.pikalytics.com/tournaments/rk9/rk9-naic-2026-day-2"
+      ]
     },
     {
       "id": "magnezone",
@@ -2744,7 +2841,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Steel trapper with Magnet Pull",
       "speedTier": "slow",
@@ -2795,7 +2893,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Earthquake/Icicle physical attacker",
       "speedTier": "medium",
@@ -2834,7 +2933,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Huge Power physical attacker, slow",
       "speedTier": "slow",
@@ -2882,7 +2982,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions custom Mega",
       "speedTier": "medium",
@@ -2918,7 +3019,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Protean attacker: Flower Trick always crits",
       "speedTier": "blazing",
@@ -2965,7 +3067,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Tough Claws physical attacker",
       "speedTier": "fast",
@@ -3009,7 +3112,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "special tank with Competitive",
       "speedTier": "medium",
@@ -3044,7 +3148,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "TR",
       "role": "Trick Room",
       "speedTier": "medium",
@@ -3094,7 +3199,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "snow #2",
       "role": "snow setter with Aurora Veil and Freeze-Dry",
       "speedTier": "fast",
@@ -3138,7 +3244,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Instruct support + Trick Room",
       "speedTier": "slow",
@@ -3179,7 +3286,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Indianapolis x2",
       "tagline": null,
       "role": "Zero to Hero: after one switch it becomes Hero form (160 Atk)",
       "speedTier": "fast",
@@ -3219,7 +3327,9 @@
         "Encore/Taunt during the switch cycle"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://standings.limitlessvgc.com/0033/pokemon, https://championsmeta.io/meta"
+      ]
     },
     {
       "id": "politoed",
@@ -3230,7 +3340,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 2,
+      "recentTopCutNote": "Torino x1, Indianapolis x1",
       "tagline": "the second rain setter",
       "role": "rain + utility: Encore, Helping Hand, backup Perish",
       "speedTier": "medium",
@@ -3275,7 +3386,9 @@
       "notes": [
         "no Tailwind (unlike Pelipper)"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16, https://standings.limitlessvgc.com/0033/pokemon"
+      ]
     },
     {
       "id": "primarina",
@@ -3287,7 +3400,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "bulky special attacker",
       "speedTier": "slow",
@@ -3332,7 +3446,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "priority Grassy Glide in its own Grassy Terrain + Fake Out",
       "speedTier": "medium",
@@ -3375,7 +3490,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "physical spread: Aerilate Double-Edge",
       "speedTier": "blazing",
@@ -3419,7 +3535,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "offensive support that ignores redirection (Stalwart)",
       "speedTier": "medium",
@@ -3466,7 +3583,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "bulky Trick Room attacker",
       "speedTier": "slow",
@@ -3514,7 +3632,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "TR wall",
       "role": "physical Trick Room wall",
       "speedTier": "slow",
@@ -3546,7 +3665,9 @@
         "Fire/Water/Fighting/Ground ×2 (special attacks work best)"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://www.pikalytics.com/champions, https://standings.limitlessvgc.com/0033/pokemon"
+      ]
     },
     {
       "id": "tinkaton",
@@ -3558,7 +3679,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Torino x1",
       "tagline": null,
       "role": "hybrid utility with Gigaton Hammer",
       "speedTier": "medium",
@@ -3600,7 +3722,9 @@
       "notes": [
         "Gigaton Hammer canNOT be used twice in a row"
       ],
-      "uncertain": []
+      "uncertain": [
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
+      ]
     },
     {
       "id": "torkoal",
@@ -3611,7 +3735,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "sun setter with Eruption under Trick Room",
       "speedTier": "slow",
@@ -3650,7 +3775,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 5,
+      "recentTopCutNote": "Indianapolis x5",
       "tagline": "the sand",
       "role": "offensive sand setter",
       "speedTier": "medium",
@@ -3704,7 +3830,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "physical Trick Room nuke with Guts",
       "speedTier": "slow",
@@ -3748,7 +3875,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "sun abuser",
       "role": "sun abuser: Chlorophyll doubles its Speed in sun",
       "speedTier": "blazing",
@@ -3790,7 +3918,9 @@
         "Flying/Ice/Psychic ×2"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://standings.limitlessvgc.com/0033/pokemon, https://championslab.xyz/meta"
+      ]
     },
     {
       "id": "vivillon",
@@ -3802,7 +3932,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Torino x1",
       "tagline": null,
       "role": "sleep support: Compound Eyes Sleep Powder at 97%",
       "speedTier": "blazing",
@@ -3840,7 +3971,9 @@
         "Fire/Electric/Ice/Flying ×2"
       ],
       "notes": [],
-      "uncertain": []
+      "uncertain": [
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
+      ]
     },
     {
       "id": "zoroark",
@@ -3851,7 +3984,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Illusion: comes in disguised as the team's last mon",
       "speedTier": "fast",
@@ -3903,7 +4037,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "top-cut Trick Room special attacker",
       "role": "slow Trick Room attacker with Berserk-boosted Dragon Pulse and spread Hyper Voice",
       "speedTier": "slow",
@@ -3961,7 +4096,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "top-cut hard Trick Room Mega",
       "role": "very slow Trick Room cannon with Eruption and Earth Power",
       "speedTier": "slow",
@@ -4017,7 +4153,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "top-cut Trick Room Ghost/Grass",
       "role": "Trick Room setter with Poltergeist and Power Whip pressure",
       "speedTier": "medium",
@@ -4076,7 +4213,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "top-cut snow Trick Room Mega",
       "role": "snow setter with Aurora Veil and Blizzard pressure",
       "speedTier": "slow",
@@ -4137,7 +4275,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "top-cut Water Bubble Trick Room attacker",
       "role": "slow Water Bubble attacker with Wide Guard utility",
       "speedTier": "slow",
@@ -4193,7 +4332,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "top-cut Rock Head attacker",
       "role": "mid-speed Rock/Fire attacker with recoil-free Flare Blitz",
       "speedTier": "medium",
@@ -4238,7 +4378,8 @@
       ],
       "notes": [],
       "uncertain": [
-        "Top-cut presence verified from one Pikalytics tournament team; aggregate usage below the displayed top-25 cutoff or not source-visible."
+        "Top-cut presence verified from one Pikalytics tournament team; aggregate usage below the displayed top-25 cutoff or not source-visible.",
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
       ]
     },
     {
@@ -4251,7 +4392,8 @@
       "isMega": false,
       "usageRank": 22,
       "usagePercent": 7,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 4,
+      "recentTopCutNote": "Indianapolis x4",
       "tagline": "ladder Tailwind steel bird",
       "role": "bulky Tailwind support that can snowball with Bulk Up or pressure with Brave Bird",
       "speedTier": "slow",
@@ -4297,7 +4439,8 @@
       ],
       "notes": [],
       "uncertain": [
-        "Item not source-verified from the public aggregate pages."
+        "Item not source-verified from the public aggregate pages.",
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://standings.limitlessvgc.com/0033/pokemon, https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://championslab.xyz/meta"
       ]
     },
     {
@@ -4310,7 +4453,8 @@
       "isMega": false,
       "usageRank": 26,
       "usagePercent": 6.6,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Bullet Punch cleaner",
       "role": "Technician priority attacker with Swords Dance pressure",
       "speedTier": "slow",
@@ -4368,7 +4512,8 @@
       "isMega": false,
       "usageRank": 43,
       "usagePercent": 2.9,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "ladder heat appliance",
       "role": "Levitate pivot with Overheat pressure, Volt Switch and burn support",
       "speedTier": "medium",
@@ -4428,7 +4573,8 @@
       "isMega": false,
       "usageRank": 50,
       "usagePercent": 2.1,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Queenly Majesty tech",
       "role": "physical Grass attacker that blocks priority and pressures Dragons with Triple Axel",
       "speedTier": "medium",
@@ -4490,7 +4636,8 @@
       "isMega": false,
       "usageRank": 6,
       "usagePercent": 19.18,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "preview Charizard",
       "role": "pre-Mega sun attacker; covers users who search the base preview sprite",
       "speedTier": "fast",
@@ -4548,7 +4695,8 @@
       "isMega": false,
       "usageRank": 14,
       "usagePercent": 13.32,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "preview sand setter",
       "role": "pre-Mega sand setter and Rock Slide pressure",
       "speedTier": "slow",
@@ -4608,7 +4756,8 @@
       "isMega": false,
       "usageRank": 22,
       "usagePercent": 6.61,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "preview Water Spout shell",
       "role": "pre-Mega Water attacker with Fake Out/Shell Smash lines",
       "speedTier": "medium",
@@ -4669,7 +4818,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "preview Perish trap threat",
       "role": "fast Ghost/Poison attacker that often points to Mega Gengar Perish lines",
       "speedTier": "fast",
@@ -4728,7 +4878,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "preview Fake Out bruiser",
       "role": "Fake Out Normal attacker, usually previewing a Mega Kangaskhan route",
       "speedTier": "medium",
@@ -4787,7 +4938,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "Intimidate Water/Flying",
       "role": "Intimidate pivot with Dragon Dance or bulky Water pressure",
       "speedTier": "medium",
@@ -4834,7 +4986,8 @@
       ],
       "notes": [],
       "uncertain": [
-        "set backfilled from standard competitive knowledge, not source-verified"
+        "set backfilled from standard competitive knowledge, not source-verified",
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
       ]
     },
     {
@@ -4846,7 +4999,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "fast Fake Out preview",
       "role": "fast Fake Out/Encore attacker that usually points to Mega Lopunny",
       "speedTier": "fast",
@@ -4905,7 +5059,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "low-ladder Sharpness fighter",
       "role": "physical Psychic/Fighting attacker with slicing coverage",
       "speedTier": "medium",
@@ -4967,7 +5122,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Illusion mind-game attacker",
       "role": "fast special attacker with Illusion and rare Normal/Ghost immunities",
       "speedTier": "fast",
@@ -5027,7 +5183,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Bitter Blade sweeper",
       "role": "physical Fire/Ghost attacker with priority and healing",
       "speedTier": "medium",
@@ -5088,7 +5245,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Quiver Dance fire moth",
       "role": "special setup attacker or Rage Powder support",
       "speedTier": "fast",
@@ -5148,7 +5306,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "fast Eruption Ghost",
       "role": "special Fire/Ghost spread attacker",
       "speedTier": "fast",
@@ -5209,7 +5368,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Dark/Water edge attacker",
       "role": "physical Water/Dark attacker with priority and hazard pressure",
       "speedTier": "medium",
@@ -5270,7 +5430,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": "Disguise Trick Room tech",
       "role": "Disguise support attacker with Trick Room or Swords Dance lines",
       "speedTier": "fast",
@@ -5317,7 +5478,8 @@
       ],
       "notes": [],
       "uncertain": [
-        "set backfilled from standard competitive knowledge, not source-verified"
+        "set backfilled from standard competitive knowledge, not source-verified",
+        "Recent top-cut count comes from docs/sources/tournament-usage-2026-06.json event team lists; no corroborated usage percent row."
       ]
     },
     {
@@ -5330,7 +5492,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "weather-flex Electric",
       "role": "fast Electric special attacker with Hyper Voice and weather synergy",
       "speedTier": "fast",
@@ -5389,7 +5552,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Guts Bug/Fighting breaker",
       "role": "physical breaker with huge Bug/Fighting STABs",
       "speedTier": "medium",
@@ -5449,7 +5613,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "slow Regenerator pivot",
       "role": "bulky Trick Room pivot with Poison/Psychic coverage",
       "speedTier": "slow",
@@ -5509,7 +5674,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "slow Steel/Rock bruiser",
       "role": "bulky physical attacker with severe ×4 weaknesses",
       "speedTier": "slow",
@@ -5571,7 +5737,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "fast Electric pivot",
       "role": "fast Electric attacker with Volt Switch and Snarl utility",
       "speedTier": "fast",
@@ -5629,7 +5796,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "Grass/Fighting archer",
       "role": "physical Grass/Fighting attacker with priority-resistant coverage needs",
       "speedTier": "slow",
@@ -5688,7 +5856,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "slow Electric tank",
       "role": "bulky Electric special attacker with Cotton Guard lines",
       "speedTier": "slow",
@@ -5746,7 +5915,8 @@
       "isMega": false,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": "fast Ice/Dark pressure",
       "role": "very fast physical attacker with Ice priority and Dark coverage",
       "speedTier": "blazing",
@@ -5807,7 +5977,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -5831,7 +6002,8 @@
       ],
       "notes": [],
       "uncertain": [
-        "Added from Champions Mega audit (2026-06-14): types/ability sourced (https://gamedevourer.com/pokemon-champions-all-mega-evolutions/); set/counters not field-verified."
+        "Added from Champions Mega audit (2026-06-14): types/ability sourced (https://gamedevourer.com/pokemon-champions-all-mega-evolutions/); set/counters not field-verified.",
+        "Reg M-A usage/top-cut signal is medium confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://www.pikalytics.com/tournaments/rk9/rk9-naic-2026-day-2, https://www.reddit.com/r/VGC/comments/1ttt2vn/top_256_teams_from_the_2026_indianapolis_regional/"
       ]
     },
     {
@@ -5843,7 +6015,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -5877,7 +6050,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -5912,7 +6086,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -5951,7 +6126,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -5989,7 +6165,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6027,7 +6204,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6065,7 +6243,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -6101,7 +6280,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "blazing",
@@ -6138,7 +6318,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6177,7 +6358,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -6216,7 +6398,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6255,7 +6438,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6293,7 +6477,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -6331,7 +6516,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6368,7 +6554,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6402,7 +6589,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6439,7 +6627,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6475,7 +6664,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -6510,7 +6700,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -6549,7 +6740,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6586,7 +6778,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6622,7 +6815,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6659,7 +6853,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6695,7 +6890,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6733,7 +6929,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6769,7 +6966,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 1,
+      "recentTopCutNote": "Indianapolis x1",
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -6793,7 +6991,8 @@
       ],
       "notes": [],
       "uncertain": [
-        "Added from Champions Mega audit (2026-06-14): types/ability sourced (https://gamedevourer.com/pokemon-champions-all-mega-evolutions/); set/counters not field-verified."
+        "Added from Champions Mega audit (2026-06-14): types/ability sourced (https://gamedevourer.com/pokemon-champions-all-mega-evolutions/); set/counters not field-verified.",
+        "Reg M-A usage/top-cut signal is low confidence in docs/sources/tournament-usage-2026-06.json; sources: https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16, https://www.reddit.com/r/VGC/comments/1ttt2vn/top_256_teams_from_the_2026_indianapolis_regional/"
       ]
     },
     {
@@ -6806,7 +7005,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6843,7 +7043,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6880,7 +7081,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -6916,7 +7118,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6954,7 +7157,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -6989,7 +7193,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -7027,7 +7232,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -7065,7 +7271,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",
@@ -7104,7 +7311,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -7144,7 +7352,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "blazing",
@@ -7182,7 +7391,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -7219,7 +7429,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "fast",
@@ -7258,7 +7469,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -7298,7 +7510,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "slow",
@@ -7336,7 +7549,8 @@
       "isMega": true,
       "usageRank": null,
       "usagePercent": null,
-      "torinoTop8Count": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
       "tagline": null,
       "role": "Champions Mega (added from audit; matchup auto-derived from typing/ability)",
       "speedTier": "medium",

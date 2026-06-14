@@ -17,7 +17,12 @@
     "https://championsmeta.io/meta",
     "https://championslab.xyz/meta",
     "Game8 Top-20 Champions",
-    "victoryroad.pro (tournament results)"
+    "victoryroad.pro (tournament results)",
+    "https://standings.limitlessvgc.com/0033/pokemon",
+    "https://www.pikalytics.com/tournaments/rk9/2026-indianapolis-regional-top-16",
+    "https://standings.limitlessvgc.com/0034/standings",
+    "https://www.pikalytics.com/tournaments/rk9/rk9-turin-2026-top-16",
+    "https://standings.limitlessvgc.com/0035/standings"
   ],
   "replicaCodes": [
     {
@@ -70,5 +75,5 @@
     }
   ],
   "replicaCodesNote": "Codes die if the creator edits/deletes the team: always show the verification date in the app.",
-  "dataVersion": "2026-06-14T15:22:08.508Z"
+  "dataVersion": "2026-06-14T18:24:05.460Z"
 }
