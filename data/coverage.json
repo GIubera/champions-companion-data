@@ -1,0 +1,129 @@
+{
+  "toucannon": [
+    {
+      "move": "Rock Blast",
+      "type": "Rock",
+      "ohko": true
+    }
+  ],
+  "tauros": [
+    {
+      "move": "Rock Slide",
+      "type": "Rock",
+      "ohko": true
+    },
+    {
+      "move": "Earthquake",
+      "type": "Ground",
+      "ohko": true
+    }
+  ],
+  "feraligatr": [
+    {
+      "move": "Ice Punch",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "starmie": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    },
+    {
+      "move": "Thunderbolt",
+      "type": "Electric",
+      "ohko": true
+    }
+  ],
+  "pinsir": [
+    {
+      "move": "Rock Slide",
+      "type": "Rock",
+      "ohko": true
+    }
+  ],
+  "vaporeon": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "samurott": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "simipour": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "gliscor": [
+    {
+      "move": "Ice Fang",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "diggersby": [
+    {
+      "move": "Ice Punch",
+      "type": "Ice",
+      "ohko": true
+    },
+    {
+      "move": "Rock Slide",
+      "type": "Rock",
+      "ohko": true
+    }
+  ],
+  "greninja": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "clawitzer": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "goodra": [
+    {
+      "move": "Flamethrower",
+      "type": "Fire",
+      "ohko": true
+    }
+  ],
+  "mudsdale": [
+    {
+      "move": "Rock Slide",
+      "type": "Rock",
+      "ohko": true
+    }
+  ],
+  "empoleon": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "krookodile": [
+    {
+      "move": "Rock Slide",
+      "type": "Rock",
+      "ohko": true
+    }
+  ]
+}
