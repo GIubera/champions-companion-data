@@ -380,10 +380,11 @@
       "usageRank": 7,
       "usagePercent": 23.9,
       "torinoTop8Count": 6,
-      "tagline": "the slow win condition",
-      "role": "late-game special tank/sweeper",
-      "speedTier": "slow",
-      "speedNote": "Champions-invented Mega: base speed unconfirmed (PokéBase listed 102, contradicts the slow role) — engine uses the curated tier until revalidated",
+      "tagline": "the special win condition",
+      "role": "late-game special Calm Mind sweeper",
+      "baseSpeed": 102,
+      "speedTier": "fast",
+      "speedNote": "Mega Floette base Speed 102 (Champions; pre-Mega Eternal Flower Floette is 92) — fast Calm Mind sweeper that outspeeds Garchomp after a Trailblaze",
       "bulk": "medium",
       "set": {
         "moveOptions": [
