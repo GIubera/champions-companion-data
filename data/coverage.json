@@ -125,5 +125,83 @@
       "type": "Rock",
       "ohko": true
     }
+  ],
+  "pidgeot": [
+    {
+      "move": "Heat Wave",
+      "type": "Fire",
+      "ohko": true
+    }
+  ],
+  "slowbro": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "slowking": [
+    {
+      "move": "Ice Beam",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "sharpedo": [
+    {
+      "move": "Ice Fang",
+      "type": "Ice",
+      "ohko": true
+    },
+    {
+      "move": "Psychic Fangs",
+      "type": "Psychic",
+      "ohko": true
+    }
+  ],
+  "luxray": [
+    {
+      "move": "Ice Fang",
+      "type": "Ice",
+      "ohko": true
+    },
+    {
+      "move": "Psychic Fangs",
+      "type": "Psychic",
+      "ohko": true
+    }
+  ],
+  "dragonite": [
+    {
+      "move": "Thunder Punch",
+      "type": "Electric",
+      "ohko": true
+    },
+    {
+      "move": "Fire Punch",
+      "type": "Fire",
+      "ohko": true
+    }
+  ],
+  "rhyperior": [
+    {
+      "move": "Ice Punch",
+      "type": "Ice",
+      "ohko": true
+    }
+  ],
+  "noivern": [
+    {
+      "move": "Flamethrower",
+      "type": "Fire",
+      "ohko": true
+    }
+  ],
+  "pangoro": [
+    {
+      "move": "Poison Jab",
+      "type": "Poison",
+      "ohko": true
+    }
   ]
 }
