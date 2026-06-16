@@ -3568,7 +3568,7 @@
             "Whirlwind"
           ],
           [
-            "Tailwind"
+            "Protect"
           ]
         ],
         "items": [],
@@ -3587,6 +3587,69 @@
       ],
       "notes": [],
       "uncertain": []
+    },
+    {
+      "id": "slowking",
+      "name": "Slowking",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "isMega": false,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the Trick Room anchor",
+      "role": "bulky Trick Room setter + Regenerator pivot",
+      "speedTier": "slow",
+      "speedNote": "base 30: intentionally slow to move first under Trick Room",
+      "baseSpeed": 30,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Trick Room"
+          ],
+          [
+            "Psychic",
+            "Expanding Force"
+          ],
+          [
+            "Hydro Pump"
+          ],
+          [
+            "Chilly Reception",
+            "Protect"
+          ]
+        ],
+        "items": [
+          "Kasib Berry",
+          "Sitrus Berry"
+        ],
+        "abilities": [
+          "Regenerator"
+        ],
+        "nature": "Quiet",
+        "spread": null,
+        "setNotes": "Trick Room setter: slow and bulky, flips the speed order so the team's slow hitters move first. Kasib Berry softens a Ghost hit (e.g. vs Gengar / Charizard-Y coverage)."
+      },
+      "strengths": [
+        "TRICK ROOM: flips the speed order for the whole team",
+        "REGENERATOR: heals 1/3 HP on every pivot"
+      ],
+      "counters": [
+        "Dark ×2",
+        "Ghost ×2",
+        "Bug ×2",
+        "Taunt shuts off Trick Room"
+      ],
+      "notes": [
+        "Curated 17/06: a pro (James, GMZ) consistently brought and led it as the team's Trick Room setter; was roster-only (no set) before, so the engine benched it."
+      ],
+      "uncertain": [
+        "exact spread/EVs and the 3rd/4th move slot not confirmed from a verified set"
+      ]
     },
     {
       "id": "snorlax",
