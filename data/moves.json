@@ -1355,6 +1355,42 @@
     "contact": true,
     "notes": "The target cannot use SOUND moves for 2 turns (Perish Song, Hyper Voice, Clanging Scales, Clangorous Soul) — Incineroar's anti-sound variant; switching clears the silence; Throat Chop itself is NOT a sound move; dual-singer Perish teams need two Chops."
   },
+  "Rising Voltage": {
+    "type": "Electric",
+    "category": "special",
+    "power": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "spread": false,
+    "sound": false,
+    "powder": false,
+    "contact": false,
+    "notes": "Power DOUBLES (to 140) if the target is on Electric Terrain — Mega Raichu X's key payoff; Ground is immune."
+  },
+  "Focus Blast": {
+    "type": "Fighting",
+    "category": "special",
+    "power": 120,
+    "accuracy": 70,
+    "priority": 0,
+    "spread": false,
+    "sound": false,
+    "powder": false,
+    "contact": false,
+    "notes": "10% chance to lower SpD; 70% accuracy — reliable only behind No Guard (Mega Raichu Y)."
+  },
+  "Zap Cannon": {
+    "type": "Electric",
+    "category": "special",
+    "power": 120,
+    "accuracy": 50,
+    "priority": 0,
+    "spread": false,
+    "sound": false,
+    "powder": false,
+    "contact": false,
+    "notes": "Always paralyzes on hit; 50% accuracy — reliable only behind No Guard (Mega Raichu Y); Ground is immune."
+  },
   "Thunder": {
     "type": "Electric",
     "category": "special",

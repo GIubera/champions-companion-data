@@ -46,7 +46,13 @@
     "rain": "Water +50%, Fire −50%, Hurricane/Thunder 100%, Electro Shot without charging",
     "sand": "Chip damage + Sand Rush Speed ×2 + Rock-types' SpD +50%",
     "snow": "Aurora Veil enabled, Ice-types' Def +50%, Blizzard 100%",
-    "psychicTerrain": "Blocks ALL priority moves against grounded targets (Fake Out, Sucker Punch, Jet Punch, Extreme Speed, Prankster…) + boosts Psychic",
+    "electricTerrain": "Boosts grounded Electric attacks + grounded Pokémon CANNOT fall asleep (hard-counters Spore / Sleep Powder, the top M-A support move). NEW in M-B via Mega Raichu X (Electric Surge) — the FIRST auto-terrain setter in the game (M-A had a 'terrain vacuum', terrain only via a manual move). Rising Voltage doubles on it; Surge Surfer doubles Speed on it.",
+    "grassyTerrain": "Boosts grounded Grass attacks + heals grounded Pokémon 1/16 HP/turn + HALVES Earthquake/Bulldoze/Magnitude. Grassy Glide gains priority on it. Mechanic exists, but NO legal auto-setter in M-B (Rillaboom/Grassy Surge absent) — needs a manual Grassy Terrain move.",
+    "mistyTerrain": "Grounded Pokémon immune to status (sleep/burn/para/poison) + HALVES Dragon damage to grounded targets. No legal auto-setter in M-B — manual move only.",
+    "psychicTerrain": "Blocks ALL priority moves against grounded targets (Fake Out, Sucker Punch, Jet Punch, Extreme Speed, Prankster…) + boosts grounded Psychic attacks. Expanding Force becomes a boosted SPREAD move on it. No legal auto-setter in M-B (Indeedee/Psychic Surge absent) — manual move only.",
+    "terrainDuration": "5 turns (8 with Terrain Extender). ONE terrain at a time — a new terrain overwrites the old. Only affects GROUNDED Pokémon (Flying-type / Levitate are unaffected).",
+    "terrainRemovers": "Steel Roller (130 BP, FAILS if no terrain) and Ice Spinner (80 BP, clears on hit) remove any active terrain; Defog also clears it.",
+    "terrainVsWeather": "M-A was weather-only (Drought/Drizzle auto-set on entry; terrain cost a manual move = too slow). M-B's Mega Raichu X auto-sets Electric Terrain on entry, so Electric Terrain now competes with weather — treat an Electric Surge user like a weather setter in preview. NOTE: the exact boost % is unconfirmed on the Champions pages ('powers up'); assume mainline +30% to grounded same-type moves until verified in-game.",
     "trickRoom": "5 turns, reverses the order WITHIN each priority bracket (priority moves still go first)"
   },
   "gotchas": [

@@ -3589,6 +3589,118 @@
       "uncertain": []
     },
     {
+      "id": "raichu-mega-x",
+      "name": "Raichu-Mega-X",
+      "types": [
+        "Electric"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the terrain setter",
+      "role": "Electric Terrain setter + Fake Out / Volt Switch support; Rising Voltage payoff under its own terrain",
+      "speedTier": "fast",
+      "speedNote": "base 110",
+      "baseSpeed": 110,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [
+          [
+            "Rising Voltage"
+          ],
+          [
+            "Fake Out"
+          ],
+          [
+            "Volt Switch",
+            "Encore"
+          ],
+          [
+            "Protect"
+          ]
+        ],
+        "items": [],
+        "abilities": [
+          "Electric Surge"
+        ],
+        "nature": null,
+        "spread": null,
+        "setNotes": "Electric Surge auto-sets Electric Terrain on entry (the first auto-terrain setter in the game). Rising Voltage doubles on it; it also blocks Spore. Day-1 M-B: set UNCONFIRMED — physical (135 Atk) vs special (Rising Voltage off 90 SpA) split unclear until usage appears."
+      },
+      "strengths": [
+        "ELECTRIC SURGE: auto-sets Electric Terrain (blocks sleep/Spore, powers Electric)",
+        "Fake Out + Volt Switch support utility"
+      ],
+      "counters": [
+        "Ground ×2 (and immune to its Electric STAB)"
+      ],
+      "notes": [
+        "Added 17/06 for M-B (confirmed: Electric, Electric Surge, stats 60/135/95/90/95/110). Treat as a terrain setter in preview, like a weather setter."
+      ],
+      "uncertain": [
+        "competitive set (day-1 M-B, no usage data yet)"
+      ]
+    },
+    {
+      "id": "raichu-mega-y",
+      "name": "Raichu-Mega-Y",
+      "types": [
+        "Electric"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the No Guard nuke",
+      "role": "fast frail special nuke: No Guard makes Thunder / Focus Blast / Zap Cannon 100% accurate",
+      "speedTier": "blazing",
+      "speedNote": "base 130",
+      "baseSpeed": 130,
+      "bulk": "fragile",
+      "set": {
+        "moveOptions": [
+          [
+            "Thunder"
+          ],
+          [
+            "Focus Blast"
+          ],
+          [
+            "Zap Cannon",
+            "Volt Switch"
+          ],
+          [
+            "Protect"
+          ]
+        ],
+        "items": [],
+        "abilities": [
+          "No Guard"
+        ],
+        "nature": null,
+        "spread": null,
+        "setNotes": "No Guard makes its OWN and INCOMING moves never miss: Thunder/Focus Blast/Zap Cannon hit 100%, but it also eats every shaky hit aimed at it. Day-1 M-B: set UNCONFIRMED until usage appears."
+      },
+      "strengths": [
+        "NO GUARD: 100%-accurate Thunder / Focus Blast / Zap Cannon",
+        "160 SpA + base 130 Speed: fast special breaker"
+      ],
+      "counters": [
+        "Ground ×2",
+        "fragile (Def 55): any neutral priority or faster hit threatens it",
+        "NO GUARD cuts both ways — incoming inaccurate moves also never miss"
+      ],
+      "notes": [
+        "Added 17/06 for M-B (confirmed: Electric, No Guard, stats 60/100/55/160/80/130)."
+      ],
+      "uncertain": [
+        "competitive set (day-1 M-B, no usage data yet)"
+      ]
+    },
+    {
       "id": "slowking",
       "name": "Slowking",
       "types": [

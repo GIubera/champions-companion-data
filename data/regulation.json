@@ -1,17 +1,15 @@
 {
-  "current": "M-A",
-  "validUntil": "2026-06-17",
+  "current": "M-B",
+  "validUntil": "2026-09-02",
   "format": "VGC-style doubles: bring 6, field 4 (2+2 on the field). Flat level 50. Mega Evolution instead of Terastal. No legendaries/paradox mons.",
-  "next": {
-    "name": "M-B",
-    "startsAt": "2026-06-17",
-    "knownChanges": [
-      "Mega Raichu added (Raichunite X and Y as a mobile login gift until 1/09/2026)",
-      "Mobile launch with Switch↔mobile cross-save: wave of new players, usage in flux",
-      "The entire usage/set database needs re-verifying against the sources"
-    ]
-  },
-  "updatedAt": "2026-06-16",
+  "next": null,
+  "mbHighlights": [
+    "M-B live 2026-06-17 02:00 UTC (Switch + mobile launch), runs to 2026-09-02 (Season M-3).",
+    "Confirmed new: Mega Raichu X (Electric, Electric Surge -> Electric Terrain) + Mega Raichu Y (Electric, No Guard). Free login gift (Raichunite X/Y) until 2026-09-01.",
+    "TERRAINS: Mega Raichu X is the first auto-terrain setter; Electric Terrain now competes with weather. The other terrains exist mechanically but have NO legal auto-setter (Rillaboom/Indeedee absent from the game).",
+    "Additive regulation: no M-A removals. Full roster/usage/sets being re-verified vs live data over the coming days (see docs/reg-mb-research.md + docs/reg-mb-findings-claude.md)."
+  ],
+  "updatedAt": "2026-06-17",
   "usageSources": [
     "https://www.pikalytics.com/champions",
     "https://championsmeta.io/meta",
@@ -75,5 +73,5 @@
     }
   ],
   "replicaCodesNote": "Codes die if the creator edits/deletes the team: always show the verification date in the app.",
-  "dataVersion": "2026-06-16T22:51:10.440Z"
+  "dataVersion": "2026-06-17T00:26:59.692Z"
 }
