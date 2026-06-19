@@ -1,7 +1,7 @@
 {
   "$schema": "vedi CLAUDE.md",
-  "regulation": "M-A",
-  "updatedAt": "2026-06-12",
+  "regulation": "M-B",
+  "updatedAt": "2026-06-19",
   "entries": [
     {
       "id": "basculegion",
@@ -11,8 +11,8 @@
         "Ghost"
       ],
       "isMega": false,
-      "usageRank": 1,
-      "usagePercent": 51.5,
+      "usageRank": 3,
+      "usagePercent": 44.5,
       "recentTopCutCount": 13,
       "recentTopCutNote": "Torino x10, Indianapolis x3",
       "tagline": "THE Pokémon of the format",
@@ -65,7 +65,8 @@
         "don't give it free KOs: every fallen ally charges up Last Respects"
       ],
       "notes": [
-        "Fighting does 0 to it (it's a Ghost)"
+        "Fighting does 0 to it (it's a Ghost)",
+        "M-B refresh 2026-06-19: PokeBase M-B usage table had Basculegion at 44.5%; remains a top carryover threat."
       ],
       "uncertain": []
     },
@@ -77,8 +78,8 @@
         "Steel"
       ],
       "isMega": false,
-      "usageRank": 2,
-      "usagePercent": 40.69,
+      "usageRank": 4,
+      "usagePercent": 42.5,
       "recentTopCutCount": 17,
       "recentTopCutNote": "Torino x11, Indianapolis x6",
       "tagline": "the anchor",
@@ -129,7 +130,9 @@
         "Sucker Punch fails against Protect/status/switches",
         "Body Press ×4 (Archaludon/Corviknight)"
       ],
-      "notes": [],
+      "notes": [
+        "M-B refresh 2026-06-19: PokeBase M-B usage table had Kingambit at 42.5%; still central in Staraptor-era cores."
+      ],
       "uncertain": []
     },
     {
@@ -140,8 +143,8 @@
         "Ground"
       ],
       "isMega": false,
-      "usageRank": 3,
-      "usagePercent": 40.53,
+      "usageRank": 2,
+      "usagePercent": 43.5,
       "recentTopCutCount": 13,
       "recentTopCutNote": "Torino x6, Indianapolis x7",
       "tagline": "the physical wing",
@@ -190,7 +193,9 @@
         "Intimidate",
         "Pelipper/Dragonite and Flying-types are immune to Earthquake"
       ],
-      "notes": [],
+      "notes": [
+        "M-B refresh 2026-06-19: PokeBase M-B usage table had Garchomp at 43.5%; Pikalytics S3 notes say Garchomp leads ranked usage."
+      ],
       "uncertain": []
     },
     {
@@ -260,8 +265,8 @@
         "Poison"
       ],
       "isMega": false,
-      "usageRank": 5,
-      "usagePercent": 28.58,
+      "usageRank": 7,
+      "usagePercent": 38.6,
       "recentTopCutCount": 17,
       "recentTopCutNote": "Torino x8, Indianapolis x9",
       "tagline": "the cleaner",
@@ -308,7 +313,9 @@
         "Close Combat and Fake Out do 0 to Ghosts",
         "extremely frail: punish it when it's left exposed"
       ],
-      "notes": [],
+      "notes": [
+        "M-B refresh 2026-06-19: PokeBase M-B usage table had Sneasler at 38.6%; rank lowered only because Mega Staraptor now defines the format."
+      ],
       "uncertain": []
     },
     {
@@ -319,8 +326,8 @@
         "Dark"
       ],
       "isMega": false,
-      "usageRank": 6,
-      "usagePercent": 25.93,
+      "usageRank": 8,
+      "usagePercent": 33.7,
       "recentTopCutCount": 18,
       "recentTopCutNote": "Torino x10, Indianapolis x8",
       "tagline": "the #1 support",
@@ -372,7 +379,8 @@
         "its OWN Fake Out does 0 to Ghosts"
       ],
       "notes": [
-        "in Reg M-A it does NOT have Knock Off or U-turn (removed in Champions)"
+        "in Reg M-A it does NOT have Knock Off or U-turn (removed in Champions)",
+        "M-B refresh 2026-06-19: PokeBase M-B usage table had Incineroar at 33.7%; still common on Mega Staraptor teams."
       ],
       "uncertain": []
     },
@@ -383,7 +391,7 @@
         "Fairy"
       ],
       "isMega": true,
-      "usageRank": 7,
+      "usageRank": 9,
       "usagePercent": 23.92,
       "recentTopCutCount": 16,
       "recentTopCutNote": "Torino x10, Indianapolis x6",
@@ -428,7 +436,9 @@
         "double-target it before it stacks boosts",
         "the Perish timer ignores boosts"
       ],
-      "notes": [],
+      "notes": [
+        "M-B refresh 2026-06-19: still a common Staraptor partner/check slot in Pokemon Zone teams, but no new percent was applied."
+      ],
       "uncertain": []
     },
     {
@@ -439,8 +449,8 @@
         "Ghost"
       ],
       "isMega": false,
-      "usageRank": 8,
-      "usagePercent": 20.44,
+      "usageRank": 5,
+      "usagePercent": 24.4,
       "recentTopCutCount": 13,
       "recentTopCutNote": "Torino x7, Indianapolis x6",
       "tagline": "the redirector",
@@ -488,7 +498,8 @@
         "Grass-types ignore its Rage Powder"
       ],
       "notes": [
-        "Fighting does 0 to it (it's a Ghost)"
+        "Fighting does 0 to it (it's a Ghost)",
+        "M-B refresh 2026-06-19: PokeBase M-B usage table had Sinistcha at 24.4%; Pokemon Zone Staraptor teams frequently pair it with Mega Staraptor."
       ],
       "uncertain": []
     },
@@ -558,8 +569,8 @@
         "Fairy"
       ],
       "isMega": false,
-      "usageRank": 10,
-      "usagePercent": 17.65,
+      "usageRank": 6,
+      "usagePercent": 20.6,
       "recentTopCutCount": 6,
       "recentTopCutNote": "Torino x4, Indianapolis x2",
       "tagline": "the Prankster",
@@ -604,7 +615,9 @@
         "Fire/Ice/Steel/Poison/Flying ×2 (frail, the Sash blocks 1)",
         "Armor Tail blocks its priority"
       ],
-      "notes": [],
+      "notes": [
+        "M-B refresh 2026-06-19: PokeBase M-B usage table had Whimsicott at 20.6%; Pokemon Zone Staraptor teams frequently use Tailwind/Charm support."
+      ],
       "uncertain": []
     },
     {
@@ -7700,6 +7713,727 @@
       "notes": [],
       "uncertain": [
         "Added from Champions Mega audit (2026-06-14): types/ability sourced (https://www.serebii.net/pokemonchampions/megaabilities.shtml); set/counters not field-verified."
+      ]
+    },
+    {
+      "id": "sceptile-mega",
+      "name": "Sceptile-Mega",
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the lightning-rod dragon",
+      "role": "blazing special Grass/Dragon attacker; Lightning Rod punishes Electric into partners",
+      "speedTier": "blazing",
+      "speedNote": "base 145",
+      "baseSpeed": 145,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [
+          [
+            "Energy Ball",
+            "Giga Drain"
+          ],
+          [
+            "Dragon Pulse"
+          ],
+          [
+            "Protect",
+            "Detect"
+          ],
+          [
+            "Leaf Blade",
+            "Focus Blast"
+          ]
+        ],
+        "items": [
+          "Sceptilite"
+        ],
+        "abilities": [
+          "Lightning Rod (Mega)"
+        ],
+        "nature": "Timid",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Lightning Rod redirects Electric moves and boosts Sp. Atk",
+        "base 145 Speed outspeeds most of the format"
+      ],
+      "counters": [
+        "Ice x4",
+        "Fairy/Flying/Poison/Bug/Dragon x2",
+        "priority and Tailwind can still revenge it"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms legal moves, type, stats and Lightning Rod; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "blaziken-mega",
+      "name": "Blaziken-Mega",
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the speed-boost brawler",
+      "role": "Speed Boost physical attacker; snowballs if it gets one protected turn",
+      "speedTier": "blazing",
+      "speedNote": "base 100; Speed Boost raises Speed every turn",
+      "baseSpeed": 100,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [
+          [
+            "Close Combat"
+          ],
+          [
+            "Flare Blitz"
+          ],
+          [
+            "Protect",
+            "Detect"
+          ],
+          [
+            "Knock Off"
+          ]
+        ],
+        "items": [
+          "Blazikenite"
+        ],
+        "abilities": [
+          "Speed Boost (Mega)"
+        ],
+        "nature": "Jolly",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Speed Boost turns Protect into immediate tempo",
+        "Fire/Fighting STAB pressures Kingambit, Steel cores and Ice checks"
+      ],
+      "counters": [
+        "Water/Ground/Flying/Psychic x2",
+        "Fake Out and redirection can stall Speed Boost turns"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: no stable M-B usage set cross-check yet; coverage options may need a follow-up once M-B set data stabilizes."
+      ]
+    },
+    {
+      "id": "swampert-mega",
+      "name": "Swampert-Mega",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the rain hammer",
+      "role": "rain sweeper and Electric immunity; Swift Swim doubles Speed in rain",
+      "speedTier": "blazing",
+      "speedNote": "base 70; Swift Swim doubles Speed in rain",
+      "baseSpeed": 70,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Earthquake"
+          ],
+          [
+            "Liquidation",
+            "Waterfall"
+          ],
+          [
+            "Ice Punch"
+          ],
+          [
+            "Protect"
+          ]
+        ],
+        "items": [
+          "Swampertite"
+        ],
+        "abilities": [
+          "Swift Swim (Mega)"
+        ],
+        "nature": "Adamant",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Swift Swim makes it fast in rain despite base 70 Speed",
+        "Electric immunity and Water/Ground STAB punish Raichu and Fire/Steel teams"
+      ],
+      "counters": [
+        "Grass x4",
+        "weather denial removes Swift Swim pressure",
+        "Rage Powder/Follow Me can soak single-target Water/Ice hits"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms type, stats and Swift Swim; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "staraptor-mega",
+      "name": "Staraptor-Mega",
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "isMega": true,
+      "usageRank": 1,
+      "usagePercent": 52.9,
+      "recentTopCutCount": 51,
+      "recentTopCutNote": "Pokemon Zone Limitless M-B: 51 appearances; top Roost build 27 teams",
+      "tagline": "the Contrary menace",
+      "role": "dominant Contrary attacker: Close Combat becomes a snowballing Defense/SpD boost while Brave Bird pressures redirection and Grass/Fighting cores",
+      "speedTier": "fast",
+      "speedNote": "base 110",
+      "baseSpeed": 110,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Close Combat"
+          ],
+          [
+            "Brave Bird",
+            "Dual Wingbeat"
+          ],
+          [
+            "Protect"
+          ],
+          [
+            "Roost",
+            "Tailwind",
+            "Quick Attack"
+          ]
+        ],
+        "items": [
+          "Staraptite"
+        ],
+        "abilities": [
+          "Intimidate (pre-Mega)",
+          "Contrary (Mega)"
+        ],
+        "nature": "Jolly",
+        "spread": null,
+        "setNotes": "Live M-B set from Pokemon Zone/Pikalytics: Staraptite with Close Combat + Brave Bird + Protect + Roost/Tailwind. Contrary turns Close Combat drops into Defense/SpD boosts."
+      },
+      "strengths": [
+        "Contrary turns Close Combat drops into defensive boosts, so passive pivoting lets it snowball",
+        "Fighting/Flying STAB pressures Kingambit, Incineroar, Sneasler, Grass supports and many Steel cores",
+        "Roost sets convert defensive boosts into endgame staying power",
+        "pre-Mega Intimidate gives immediate physical mitigation"
+      ],
+      "counters": [
+        "Electric/Ice/Flying/Psychic/Fairy x2",
+        "do not feed it repeated Close Combat turns; double-target early before Contrary boosts stack",
+        "Haze, Clear Smog, Encore/Taunt pressure, strong special Fairy/Psychic/Electric attacks and fast revenge killers are the cleanest answers",
+        "Ghosts dodge Close Combat but must respect Brave Bird/coverage"
+      ],
+      "notes": [
+        "Pokemon Zone reports 51 Mega Staraptor appearances in Reg M-B Limitless data and lists Contrary + Staraptite as the top build.",
+        "Pikalytics tournament page agrees on Staraptite and the core moves Close Combat / Protect / Brave Bird / Roost.",
+        "Treat as the format-defining M-B preview threat until the ladder stabilizes."
+      ],
+      "uncertain": [
+        "usagePercent=52.9 is taken from Pokemon Zone live Mega Staraptor build share/appearance data, not an official in-game ladder percentage."
+      ]
+    },
+    {
+      "id": "scolipede-mega",
+      "name": "Scolipede-Mega",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the armored centipede",
+      "role": "bulky Bug/Poison attacker or utility pick; Shell Armor blocks critical-hit bypasses",
+      "speedTier": "slow",
+      "speedNote": "base 62",
+      "baseSpeed": 62,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Megahorn"
+          ],
+          [
+            "Poison Jab"
+          ],
+          [
+            "Protect"
+          ],
+          [
+            "Earthquake",
+            "U-turn"
+          ]
+        ],
+        "items": [
+          "Scolipite"
+        ],
+        "abilities": [
+          "Shell Armor (Mega)"
+        ],
+        "nature": "Adamant",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Shell Armor prevents critical hits from bypassing bulk/boost plans",
+        "resists Fighting and Grass heavily"
+      ],
+      "counters": [
+        "Fire/Flying/Psychic/Rock x2",
+        "low base Speed for a Mega means it needs speed control"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms type, stats and Shell Armor; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "scrafty-mega",
+      "name": "Scrafty-Mega",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the second Intimidate wall",
+      "role": "bulky Intimidate pivot and physical setup attacker",
+      "speedTier": "slow",
+      "speedNote": "base 68",
+      "baseSpeed": 68,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Knock Off"
+          ],
+          [
+            "Drain Punch",
+            "Close Combat"
+          ],
+          [
+            "Fake Out",
+            "Protect"
+          ],
+          [
+            "Dragon Dance",
+            "Iron Head"
+          ]
+        ],
+        "items": [
+          "Scraftite"
+        ],
+        "abilities": [
+          "Intimidate (Mega)"
+        ],
+        "nature": "Adamant",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "can stack pre-Mega and Mega Intimidate pressure",
+        "Dark/Fighting STAB gives useful anti-Ghost and anti-Steel coverage"
+      ],
+      "counters": [
+        "Fairy x4",
+        "Flying/Fighting x2",
+        "can be too slow without setup or Tailwind"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms type/stats and Serebii confirms Intimidate; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "eelektross-mega",
+      "name": "Eelektross-Mega",
+      "types": [
+        "Electric"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the levitating snowball",
+      "role": "mixed Electric attacker with Eelevate immunity profile and KO snowballing",
+      "speedTier": "medium",
+      "speedNote": "base 80",
+      "baseSpeed": 80,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Knock Off"
+          ],
+          [
+            "Protect"
+          ]
+        ],
+        "items": [
+          "Eelektrossite"
+        ],
+        "abilities": [
+          "Eelevate (Mega)"
+        ],
+        "nature": "Adamant",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Eelevate grants Ground, Spikes, Toxic Spikes and Sticky Web immunity and boosts its highest stat after a KO",
+        "Electric typing with Ground immunity has no standard type weakness"
+      ],
+      "counters": [
+        "Mold Breaker-style effects and raw neutral damage",
+        "special walls if it lacks setup/coverage"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: Serebii confirms Eelevate effect; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "pyroar-mega",
+      "name": "Pyroar-Mega",
+      "types": [
+        "Fire",
+        "Normal"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the fire-mane nuke",
+      "role": "fast Fire special attacker; Fire Mane supercharges Fire STAB",
+      "speedTier": "blazing",
+      "speedNote": "base 126",
+      "baseSpeed": 126,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [
+          [
+            "Heat Wave"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Protect"
+          ],
+          [
+            "Snarl",
+            "Flamethrower"
+          ]
+        ],
+        "items": [
+          "Pyroarite"
+        ],
+        "abilities": [
+          "Fire Mane (Mega)"
+        ],
+        "nature": "Timid",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Fire Mane boosts Fire moves by 50%",
+        "base 126 Speed outruns most non-scarf attackers"
+      ],
+      "counters": [
+        "Water/Ground/Fighting/Rock x2",
+        "rain and Wide Guard reduce Heat Wave pressure"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: Serebii confirms Fire Mane effect; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "malamar-mega",
+      "name": "Malamar-Mega",
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the contrary squid",
+      "role": "Contrary attacker that can punish stat drops and setup attempts",
+      "speedTier": "medium",
+      "speedNote": "base 88",
+      "baseSpeed": 88,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Knock Off"
+          ],
+          [
+            "Psycho Cut"
+          ],
+          [
+            "Protect"
+          ],
+          [
+            "Thunder Wave"
+          ]
+        ],
+        "items": [
+          "Malamarite"
+        ],
+        "abilities": [
+          "Contrary (Mega)"
+        ],
+        "nature": "Adamant",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Contrary reverses stat drops and can punish Intimidate/Snarl-style play",
+        "Dark/Psychic STAB pressures Ghost and Psychic support"
+      ],
+      "counters": [
+        "Bug x4",
+        "Fairy x2",
+        "middling Speed leaves it vulnerable before it snowballs"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms type/stats and Serebii confirms Contrary; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "barbaracle-mega",
+      "name": "Barbaracle-Mega",
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the tough-claws shell smash",
+      "role": "Tough Claws physical breaker; Shell Smash threat if it finds a free turn",
+      "speedTier": "medium",
+      "speedNote": "base 88",
+      "baseSpeed": 88,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Shell Smash"
+          ],
+          [
+            "Liquidation"
+          ],
+          [
+            "Rock Slide"
+          ],
+          [
+            "Protect"
+          ]
+        ],
+        "items": [
+          "Barbaracite"
+        ],
+        "abilities": [
+          "Tough Claws (Mega)"
+        ],
+        "nature": "Jolly",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Tough Claws boosts contact coverage",
+        "Rock/Water pressures Fire, Flying and Ice targets"
+      ],
+      "counters": [
+        "Grass x4",
+        "Electric/Fighting/Ground x2",
+        "redirection and priority can punish Shell Smash turns"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms type/stats and Serebii confirms Tough Claws; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "dragalge-mega",
+      "name": "Dragalge-Mega",
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the regenerator dragon",
+      "role": "slow Regenerator special tank and pivot",
+      "speedTier": "slow",
+      "speedNote": "base 44",
+      "baseSpeed": 44,
+      "bulk": "bulky",
+      "set": {
+        "moveOptions": [
+          [
+            "Draco Meteor",
+            "Dragon Pulse"
+          ],
+          [
+            "Sludge Bomb"
+          ],
+          [
+            "Protect"
+          ],
+          [
+            "Hydro Pump",
+            "Thunderbolt"
+          ]
+        ],
+        "items": [
+          "Dragalgite"
+        ],
+        "abilities": [
+          "Regenerator (Mega)"
+        ],
+        "nature": "Modest",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Regenerator lets it pivot repeatedly",
+        "Poison/Dragon checks Fairy and Grass while hitting hard specially"
+      ],
+      "counters": [
+        "Ground/Ice/Psychic/Dragon x2",
+        "very slow outside Trick Room"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms type/stats and Serebii confirms Regenerator; no stable M-B usage set cross-check yet."
+      ]
+    },
+    {
+      "id": "falinks-mega",
+      "name": "Falinks-Mega",
+      "types": [
+        "Fighting"
+      ],
+      "isMega": true,
+      "usageRank": null,
+      "usagePercent": null,
+      "recentTopCutCount": 0,
+      "recentTopCutNote": null,
+      "tagline": "the defiant phalanx",
+      "role": "Defiant Fighting attacker that punishes Intimidate and Parting Shot",
+      "speedTier": "fast",
+      "speedNote": "base 100",
+      "baseSpeed": 100,
+      "bulk": "medium",
+      "set": {
+        "moveOptions": [
+          [
+            "Close Combat"
+          ],
+          [
+            "Iron Head"
+          ],
+          [
+            "Protect"
+          ],
+          [
+            "Rock Slide"
+          ]
+        ],
+        "items": [
+          "Falinksite"
+        ],
+        "abilities": [
+          "Defiant (Mega)"
+        ],
+        "nature": "Jolly",
+        "spread": null,
+        "setNotes": "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Moves are placeholder options from legal learnset and role; keep uncertain until usage stabilizes."
+      },
+      "strengths": [
+        "Defiant punishes Intimidate, Parting Shot and Icy Wind drops",
+        "Fighting STAB pressures Kingambit and Steel-heavy cores"
+      ],
+      "counters": [
+        "Flying/Psychic/Fairy x2",
+        "can be kited by faster special attackers"
+      ],
+      "notes": [
+        "M-B live refresh 2026-06-19: type/ability/stat source PokeBase + Serebii Mega abilities; set is conservative unless live usage is named. Added because Reg M-B made this Mega legal."
+      ],
+      "uncertain": [
+        "Set is provisional: PokeBase confirms type/stats and Serebii confirms Defiant; no stable M-B usage set cross-check yet."
       ]
     }
   ]

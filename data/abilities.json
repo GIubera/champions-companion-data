@@ -524,5 +524,21 @@
   "Iron Fist": {
     "effect": "Champions Mega ability (added from Mega audit 2026-06-14).",
     "engineFlags": []
+  },
+  "Contrary": {
+    "effect": "Reverses stat changes: boosts become drops and drops become boosts. Mega Staraptor abuses this with Close Combat defensive boosts.",
+    "engineFlags": [
+      "contrary"
+    ]
+  },
+  "Eelevate": {
+    "effect": "Mega Eelektross floats off the ground, gaining immunity to Ground moves, Spikes, Toxic Spikes and Sticky Web; after it KOs a target with an attack, its highest stat rises by 1 stage.",
+    "engineFlags": [
+      "groundImmune"
+    ]
+  },
+  "Fire Mane": {
+    "effect": "Mega Pyroar ability: boosts the power of Fire-type moves by 50%.",
+    "engineFlags": []
   }
 }
