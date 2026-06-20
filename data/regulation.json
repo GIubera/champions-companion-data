@@ -26,7 +26,10 @@
     "https://www.pokemon-zone.com/champions/pokemon/staraptor-mega-staraptor/",
     "https://www.pikalytics.com/pokedex/championstournaments/Staraptor-Mega",
     "https://www.serebii.net/pokemonchampions/megaabilities.shtml",
-    "https://www.serebii.net/pokemonchampions/newabilities.shtml"
+    "https://www.serebii.net/pokemonchampions/newabilities.shtml",
+    "https://champteams.gg/browse",
+    "https://champteams.gg/api/tier-list?format=season-m1",
+    "https://champteams.gg/api/usage?pokemon=Staraptor-Mega"
   ],
   "replicaCodes": [
     {
@@ -79,5 +82,5 @@
     }
   ],
   "replicaCodesNote": "Codes die if the creator edits/deletes the team: always show the verification date in the app.",
-  "dataVersion": "2026-06-20T23:29:51.220Z"
+  "dataVersion": "2026-06-20T23:42:27.513Z"
 }
