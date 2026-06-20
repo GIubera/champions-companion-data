@@ -1,0 +1,19 @@
+{
+  "enemyPreview": {
+    "source": "docs/scan-samples/558.png and docs/scan-samples/screenp.png",
+    "coordinateSpace": "normalized",
+    "notes": [
+      "Enemy team preview right-column sprite regions only; excludes type icons and player names.",
+      "Calibrated on 2670x1200 Double Battle and Single Battle screenshots. The six enemy cards use the same layout in both samples.",
+      "Box-screen icons are intentionally out of scope for this file."
+    ],
+    "boxes": [
+      { "slot": 1, "x": 0.745, "y": 0.176, "w": 0.062, "h": 0.094 },
+      { "slot": 2, "x": 0.745, "y": 0.287, "w": 0.062, "h": 0.094 },
+      { "slot": 3, "x": 0.745, "y": 0.398, "w": 0.062, "h": 0.094 },
+      { "slot": 4, "x": 0.745, "y": 0.508, "w": 0.062, "h": 0.094 },
+      { "slot": 5, "x": 0.745, "y": 0.619, "w": 0.062, "h": 0.094 },
+      { "slot": 6, "x": 0.745, "y": 0.730, "w": 0.062, "h": 0.094 }
+    ]
+  }
+}

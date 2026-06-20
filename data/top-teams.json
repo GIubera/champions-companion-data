@@ -1,0 +1,1023 @@
+{
+  "regulation": "M-B",
+  "week": "2026-W25",
+  "updatedAt": "2026-06-19",
+  "note": "Codes/text/ids only (IP-safe). Compiled from public sources; verify in-game.",
+  "rosterGaps": [
+    "conkeldurr",
+    "drakloak",
+    "rotom-frost",
+    "vanilluxe"
+  ],
+  "teams": [
+    {
+      "id": "2026-W25-meta-1",
+      "category": "meta",
+      "rank": 1,
+      "code": "230DGLTHR2",
+      "name": "WDMichael - Staraptor Raichu-Y screens",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "grimmsnarl",
+        "raichu-mega-y",
+        "sinistcha",
+        "milotic",
+        "whimsicott"
+      ],
+      "items": [
+        "staraptorite",
+        "light-clay",
+        "raichunite-y",
+        "big-root",
+        "leftovers",
+        "focus-sash"
+      ],
+      "note": "Contrary Mega Staraptor with screens, Raichu-Y pressure, Rage Powder and Tailwind support.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/230DGLTHR2"
+    },
+    {
+      "id": "2026-W25-meta-2",
+      "category": "meta",
+      "rank": 2,
+      "code": "3J295JUCDJ",
+      "name": "Light - Staraptor balance",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "grimmsnarl",
+        "incineroar",
+        "raichu",
+        "sinistcha",
+        "basculegion"
+      ],
+      "items": [
+        "staraptorite",
+        "light-clay",
+        "sitrus-berry",
+        "shuca-berry",
+        "leftovers",
+        "choice-scarf"
+      ],
+      "note": "Staraptor plus screens and Intimidate; Basculegion gives the late-game cleaner.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/3J295JUCDJ"
+    },
+    {
+      "id": "2026-W25-meta-3",
+      "category": "meta",
+      "rank": 3,
+      "code": "UQLVFYJMQA",
+      "name": "Luixen - Staraptor Delphox screens",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "incineroar",
+        "delphox-mega",
+        "kingambit",
+        "grimmsnarl",
+        "sinistcha"
+      ],
+      "items": [
+        "staraptorite",
+        "sitrus-berry",
+        "delphoxite",
+        "chople-berry",
+        "light-clay",
+        "kasib-berry"
+      ],
+      "note": "Dual pressure from Staraptor and Delphox, with screens and Sinistcha to buy setup turns.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/UQLVFYJMQA"
+    },
+    {
+      "id": "2026-W25-meta-4",
+      "category": "meta",
+      "rank": 4,
+      "code": "AXYLLKSQAQ",
+      "name": "protayn - Staraptor Gholdengo",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "garchomp",
+        "incineroar",
+        "sinistcha",
+        "grimmsnarl",
+        "gholdengo"
+      ],
+      "items": [
+        "staraptorite",
+        "choice-scarf",
+        "sitrus-berry",
+        "focus-sash",
+        "mental-herb",
+        "life-orb"
+      ],
+      "note": "Staraptor screens core with Gholdengo and Scarf Garchomp as hard punishers.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/AXYLLKSQAQ"
+    },
+    {
+      "id": "2026-W25-meta-5",
+      "category": "meta",
+      "rank": 5,
+      "code": "XEX629QEEY",
+      "name": "CybertronVGC - Staraptor Tailwind offense",
+      "archetype": "hyperOffense",
+      "members": [
+        "staraptor-mega",
+        "typhlosion",
+        "gholdengo",
+        "garchomp",
+        "whimsicott",
+        "basculegion"
+      ],
+      "items": [
+        "staraptorite",
+        "choice-scarf",
+        "life-orb",
+        "roseli-berry",
+        "focus-sash",
+        "mystic-water"
+      ],
+      "note": "Tailwind offense built around Staraptor and fast spread pressure.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/XEX629QEEY"
+    },
+    {
+      "id": "2026-W25-meta-6",
+      "category": "meta",
+      "rank": 6,
+      "code": "352A1YM9W2",
+      "name": "ZombiesGoNom - Swampert Raichu-Y rain",
+      "archetype": "rain",
+      "members": [
+        "swampert-mega",
+        "raichu-mega-y",
+        "archaludon",
+        "sableye",
+        "sinistcha",
+        "pelipper"
+      ],
+      "items": [
+        "swampertite",
+        "raichunite-y",
+        "leftovers",
+        "roseli-berry",
+        "sitrus-berry",
+        "damp-rock"
+      ],
+      "note": "Rain with Mega Swampert speed, Raichu-Y accuracy pressure and Archaludon scaling.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/352A1YM9W2"
+    },
+    {
+      "id": "2026-W25-meta-7",
+      "category": "meta",
+      "rank": 7,
+      "code": "QLT4D7LYSY",
+      "name": "Elm - Metagross Swampert rain",
+      "archetype": "rain",
+      "members": [
+        "metagross-mega",
+        "swampert-mega",
+        "pelipper",
+        "grimmsnarl",
+        "archaludon",
+        "sinistcha"
+      ],
+      "items": [
+        "metagrossite",
+        "swampertite",
+        "damp-rock",
+        "roseli-berry",
+        "leftovers",
+        "sitrus-berry"
+      ],
+      "note": "Two-Mega rain shell: Swampert speeds through rain while Metagross covers Fairy and Ice lines.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/QLT4D7LYSY"
+    },
+    {
+      "id": "2026-W25-meta-8",
+      "category": "meta",
+      "rank": 8,
+      "code": "YXDG3R6HKF",
+      "name": "Yuki - Swampert Dragonite rain",
+      "archetype": "rain",
+      "members": [
+        "swampert-mega",
+        "grimmsnarl",
+        "pelipper",
+        "basculegion",
+        "corviknight",
+        "dragonite-mega"
+      ],
+      "items": [
+        "swampertite",
+        "light-clay",
+        "sitrus-berry",
+        "life-orb",
+        "leftovers",
+        "dragoninite"
+      ],
+      "note": "Rain offense with screens; Basculegion and Mega Dragonite give two endgame cleaners.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/YXDG3R6HKF"
+    },
+    {
+      "id": "2026-W25-meta-9",
+      "category": "meta",
+      "rank": 9,
+      "code": "1VFA9QB9W5",
+      "name": "Tooru - Swampert double rain",
+      "archetype": "rain",
+      "members": [
+        "swampert-mega",
+        "pelipper",
+        "politoed",
+        "archaludon",
+        "farigiraf",
+        "mawile-mega"
+      ],
+      "items": [
+        "swampertite",
+        "choice-scarf",
+        "mystic-water",
+        "leftovers",
+        "sitrus-berry",
+        "mawilite"
+      ],
+      "note": "Redundant rain setters keep Swampert and Archaludon online through weather wars.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/1VFA9QB9W5"
+    },
+    {
+      "id": "2026-W25-meta-10",
+      "category": "meta",
+      "rank": 10,
+      "code": "YAHK9LUP6U",
+      "name": "DDee - Charizard Gholdengo balance",
+      "archetype": "sun",
+      "members": [
+        "gholdengo",
+        "incineroar",
+        "basculegion",
+        "garchomp",
+        "charizard-mega-y",
+        "whimsicott"
+      ],
+      "items": [
+        "metal-coat",
+        "sitrus-berry",
+        "mystic-water",
+        "life-orb",
+        "charizardite-y",
+        "focus-sash"
+      ],
+      "note": "Sun plus Tailwind with Gholdengo and Basculegion to punish anti-Staraptor teams.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/YAHK9LUP6U"
+    },
+    {
+      "id": "2026-W25-meta-11",
+      "category": "meta",
+      "rank": 11,
+      "code": "RCB7CYCV02",
+      "name": "Chii - Floette Swampert rain",
+      "archetype": "rain",
+      "members": [
+        "pelipper",
+        "floette-mega",
+        "archaludon",
+        "swampert-mega",
+        "grimmsnarl",
+        "sinistcha"
+      ],
+      "items": [
+        "sitrus-berry",
+        "floettite",
+        "leftovers",
+        "swampertite",
+        "light-clay",
+        "colbur-berry"
+      ],
+      "note": "Rain screens with Floette as the special win condition and Swampert as the physical closer.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/RCB7CYCV02"
+    },
+    {
+      "id": "2026-W25-meta-12",
+      "category": "meta",
+      "rank": 12,
+      "code": "QFRFE50XY6",
+      "name": "Murphy - Aerodactyl Metagross offense",
+      "archetype": "hyperOffense",
+      "members": [
+        "aerodactyl-mega",
+        "blaziken",
+        "garchomp",
+        "metagross-mega",
+        "rotom-wash",
+        "sinistcha"
+      ],
+      "items": [
+        "aerodactylite",
+        "focus-sash",
+        "life-orb",
+        "metagrossite",
+        "leftovers",
+        "sitrus-berry"
+      ],
+      "note": "Fast pressure with Aerodactyl, Garchomp and Metagross; Sinistcha patches positioning.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/QFRFE50XY6"
+    },
+    {
+      "id": "2026-W25-beginner-1",
+      "category": "beginner",
+      "rank": 1,
+      "code": "QGYAG5WE3C",
+      "name": "LenVGC - Mega Charizard Y sun",
+      "archetype": "sun",
+      "members": [
+        "charizard-mega-y",
+        "venusaur",
+        "garchomp",
+        "milotic",
+        "gardevoir",
+        "incineroar"
+      ],
+      "items": [
+        "charizardite-y",
+        "focus-sash",
+        "lum-berry",
+        "leftovers",
+        "choice-scarf",
+        "sitrus-berry"
+      ],
+      "note": "Beginner-friendly sun: set Drought, pressure with Venusaur and Charizard, pivot with Incineroar.",
+      "verified": true,
+      "source": "https://progameguides.com/codes/pokemon-champions-team-codes/"
+    },
+    {
+      "id": "2026-W25-beginner-2",
+      "category": "beginner",
+      "rank": 2,
+      "code": "D96E6SXLN8",
+      "name": "Xeb41 - Palafin rain",
+      "archetype": "rain",
+      "members": [
+        "palafin",
+        "pelipper",
+        "incineroar",
+        "klefki",
+        "sinistcha",
+        "dragonite"
+      ],
+      "items": [
+        "mystic-water",
+        "focus-sash",
+        "sitrus-berry",
+        "shuca-berry",
+        "leftovers",
+        "dragon-fang"
+      ],
+      "note": "Straight rain plan: Pelipper enables Palafin while Incineroar and Sinistcha keep turns stable.",
+      "verified": true,
+      "source": "https://progameguides.com/codes/pokemon-champions-team-codes/"
+    },
+    {
+      "id": "2026-W25-beginner-3",
+      "category": "beginner",
+      "rank": 3,
+      "code": "K5N29KPU9T",
+      "name": "NatusPKMN - Meganium rain",
+      "archetype": "rain",
+      "members": [
+        "meganium-mega",
+        "archaludon",
+        "basculegion",
+        "maushold",
+        "politoed",
+        "talonflame"
+      ],
+      "items": [
+        "meganiumite",
+        "white-herb",
+        "choice-scarf",
+        "focus-sash",
+        "sitrus-berry",
+        "lum-berry"
+      ],
+      "note": "Rain plus simple redirection support; Basculegion cleans once trades start.",
+      "verified": true,
+      "source": "https://progameguides.com/codes/pokemon-champions-team-codes/"
+    },
+    {
+      "id": "2026-W25-beginner-4",
+      "category": "beginner",
+      "rank": 4,
+      "code": "HH3MF048VV",
+      "name": "Its_WDMichael - Golurk Trick Room",
+      "archetype": "trickRoom",
+      "members": [
+        "hatterene",
+        "oranguru",
+        "golurk-mega",
+        "clefable",
+        "hydreigon",
+        "torkoal"
+      ],
+      "items": [
+        "fairy-feather",
+        "mental-herb",
+        "golurkite",
+        "focus-sash",
+        "choice-scarf",
+        "charcoal"
+      ],
+      "note": "Clear Trick Room script: set room, then swing with Golurk and Torkoal.",
+      "verified": true,
+      "source": "https://progameguides.com/codes/pokemon-champions-team-codes/"
+    },
+    {
+      "id": "2026-W25-beginner-5",
+      "category": "beginner",
+      "rank": 5,
+      "code": "PTVY9BE1V3",
+      "name": "SplashPlate - Sash Gengar offense",
+      "archetype": "hyperOffense",
+      "members": [
+        "gengar",
+        "garchomp",
+        "clefable",
+        "meowscarada",
+        "delphox-mega",
+        "corviknight"
+      ],
+      "items": [
+        "focus-sash",
+        "soft-sand",
+        "leftovers",
+        "choice-scarf",
+        "delphoxite",
+        "sitrus-berry"
+      ],
+      "note": "Simple offense with Sash Gengar disruption, fast revenge kills and Corviknight safety.",
+      "verified": true,
+      "source": "https://progameguides.com/codes/pokemon-champions-team-codes/"
+    },
+    {
+      "id": "2026-W25-beginner-6",
+      "category": "beginner",
+      "rank": 6,
+      "code": "9QTFUT56VM",
+      "name": "Wiltank - Froslass offense",
+      "archetype": "hyperOffense",
+      "members": [
+        "froslass-mega",
+        "palafin",
+        "incineroar",
+        "sylveon",
+        "kingambit",
+        "sinistcha"
+      ],
+      "items": [
+        "froslassite",
+        "mystic-water",
+        "sitrus-berry",
+        "fairy-feather",
+        "black-glasses",
+        "leftovers"
+      ],
+      "note": "Low-combo offense: Fake Out, redirection and priority help new players learn positioning.",
+      "verified": false,
+      "source": "https://www.ldplayer.net/blog/best-pokemon-champions-replica-teams-codes.html"
+    },
+    {
+      "id": "2026-W25-beginner-7",
+      "category": "beginner",
+      "rank": 7,
+      "code": "GLYXPJELWF",
+      "name": "mattyivgc - Charizard offense",
+      "archetype": "sun",
+      "members": [
+        "charizard-mega-y",
+        "incineroar",
+        "venusaur",
+        "whimsicott",
+        "sneasler",
+        "hydreigon"
+      ],
+      "items": [
+        "charizardite-y",
+        "sitrus-berry",
+        "focus-sash",
+        "occa-berry",
+        "white-herb",
+        "choice-scarf"
+      ],
+      "note": "Sun and Tailwind offense with obvious leads and strong fallback attackers.",
+      "verified": false,
+      "source": "https://www.ldplayer.net/blog/best-pokemon-champions-replica-teams-codes.html"
+    },
+    {
+      "id": "2026-W25-beginner-8",
+      "category": "beginner",
+      "rank": 8,
+      "code": "PMV02AENDX",
+      "name": "Sebas - Mawile slow balance",
+      "archetype": "trickRoom",
+      "members": [
+        "mawile-mega",
+        "farigiraf",
+        "incineroar",
+        "basculegion",
+        "torkoal",
+        "abomasnow-mega"
+      ],
+      "items": [
+        "mawilite",
+        "sitrus-berry",
+        "life-orb",
+        "focus-sash",
+        "charcoal",
+        "abomasite"
+      ],
+      "note": "Slow bulky plan with Fake Out, Armor Tail and weather pressure; forgiving if Tailwind is awkward.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/PMV02AENDX"
+    },
+    {
+      "id": "2026-W25-tournament-1",
+      "category": "tournament",
+      "rank": 1,
+      "code": "1ABUUWCP01",
+      "name": "Ann - Staraptor Delphox tournament shell",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "sinistcha",
+        "basculegion",
+        "whimsicott",
+        "delphox-mega",
+        "garchomp"
+      ],
+      "items": [
+        "staraptorite",
+        "sitrus-berry",
+        "focus-sash",
+        "occa-berry",
+        "delphoxite",
+        "life-orb"
+      ],
+      "note": "Tournament analogue: Staraptor-Mega cores placed Rank #3 Hatterene Series W25 and Rank #4 Sitrus-Series Champions-MB #63.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/1ABUUWCP01"
+    },
+    {
+      "id": "2026-W25-tournament-2",
+      "category": "tournament",
+      "rank": 2,
+      "code": "N3FM7TM7AX",
+      "name": "Capoeira - Staraptor screens",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "grimmsnarl",
+        "sinistcha",
+        "incineroar",
+        "whimsicott",
+        "garchomp"
+      ],
+      "items": [
+        "staraptorite",
+        "light-clay",
+        "sitrus-berry",
+        "chople-berry",
+        "focus-sash",
+        "life-orb"
+      ],
+      "note": "Tournament analogue: John Gomez Rank #10 Tyrant Thursdays #1 used Staraptor/Incineroar/Garchomp/Sinistcha/Grimmsnarl.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/N3FM7TM7AX"
+    },
+    {
+      "id": "2026-W25-tournament-3",
+      "category": "tournament",
+      "rank": 3,
+      "code": "5PDB65CFF1",
+      "name": "Trainer - Swampert rain tournament shell",
+      "archetype": "rain",
+      "members": [
+        "swampert-mega",
+        "pelipper",
+        "basculegion",
+        "garchomp",
+        "archaludon",
+        "metagross-mega"
+      ],
+      "items": [
+        "swampertite",
+        "damp-rock",
+        "choice-scarf",
+        "focus-sash",
+        "leftovers",
+        "metagrossite"
+      ],
+      "note": "Tournament analogue: Swampert-Mega rain placed Rank #8 Tyrant Thursdays #1 and Rank #14 Sitrus-Series Champions-MB #63.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/5PDB65CFF1"
+    },
+    {
+      "id": "2026-W25-tournament-4",
+      "category": "tournament",
+      "rank": 4,
+      "code": "0MVVS1S4HQ",
+      "name": "Sara - Swampert Metagross rain",
+      "archetype": "rain",
+      "members": [
+        "swampert-mega",
+        "metagross-mega",
+        "sinistcha",
+        "pelipper",
+        "archaludon",
+        "hydreigon"
+      ],
+      "items": [
+        "swampertite",
+        "metagrossite",
+        "coba-berry",
+        "sitrus-berry",
+        "leftovers",
+        "choice-scarf"
+      ],
+      "note": "Tournament analogue: Metagross/Swampert rain shells reached Rank #15 Tyrant Thursdays #1.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/0MVVS1S4HQ"
+    },
+    {
+      "id": "2026-W25-tournament-5",
+      "category": "tournament",
+      "rank": 5,
+      "code": "QHD5G96SVD",
+      "name": "cona - Swampert Floette rain",
+      "archetype": "rain",
+      "members": [
+        "grimmsnarl",
+        "swampert-mega",
+        "pelipper",
+        "archaludon",
+        "sinistcha",
+        "floette-mega"
+      ],
+      "items": [
+        "roseli-berry",
+        "swampertite",
+        "sitrus-berry",
+        "leftovers",
+        "coba-berry",
+        "floettite"
+      ],
+      "note": "Tournament analogue: Pelipper/Swampert/Archaludon/Grimmsnarl placed Rank #14 Sitrus-Series Champions-MB #63.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/QHD5G96SVD"
+    },
+    {
+      "id": "2026-W25-tournament-6",
+      "category": "tournament",
+      "rank": 6,
+      "code": "V1VMER2V1A",
+      "name": "Nails - Floette Sneasler balance",
+      "archetype": "balance",
+      "members": [
+        "sneasler",
+        "blastoise-mega",
+        "incineroar",
+        "floette-mega",
+        "kingambit",
+        "sinistcha"
+      ],
+      "items": [
+        "focus-sash",
+        "blastoisinite",
+        "sitrus-berry",
+        "floettite",
+        "black-glasses",
+        "kasib-berry"
+      ],
+      "note": "Tournament analogue: Floette/Sneasler/Incineroar balance placed Rank #12 Sitrus-Series Champions-MB #63.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/V1VMER2V1A"
+    },
+    {
+      "id": "2026-W25-tournament-7",
+      "category": "tournament",
+      "rank": 7,
+      "code": "6PQ5XP47SK",
+      "name": "Lulu - Floette Sinistcha balance",
+      "archetype": "balance",
+      "members": [
+        "sinistcha",
+        "incineroar",
+        "milotic",
+        "sneasler",
+        "floette-mega",
+        "ceruledge"
+      ],
+      "items": [
+        "kasib-berry",
+        "sitrus-berry",
+        "leftovers",
+        "focus-sash",
+        "floettite",
+        "colbur-berry"
+      ],
+      "note": "Tournament analogue: Incineroar/Milotic/Sinistcha/Sneasler/Floette appeared in Rank #49 PolpettaVGC Hatterene Series W25.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/6PQ5XP47SK"
+    },
+    {
+      "id": "2026-W25-tournament-8",
+      "category": "tournament",
+      "rank": 8,
+      "code": "QJVKSU2Y7L",
+      "name": "Matsuken - Aerodactyl Floette offense",
+      "archetype": "hyperOffense",
+      "members": [
+        "aerodactyl",
+        "floette-mega",
+        "sneasler",
+        "garchomp",
+        "basculegion",
+        "kingambit"
+      ],
+      "items": [
+        "focus-sash",
+        "floettite",
+        "white-herb",
+        "sitrus-berry",
+        "mystic-water",
+        "chople-berry"
+      ],
+      "note": "Tournament analogue: Aerodactyl/Floette offense was a recurring M-A top-cut shell and remains legal in M-B.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/QJVKSU2Y7L"
+    },
+    {
+      "id": "2026-W25-tournament-9",
+      "category": "tournament",
+      "rank": 9,
+      "code": "H270805111",
+      "name": "happy - Lucario speed balance",
+      "archetype": "balance",
+      "members": [
+        "lucario-mega",
+        "whimsicott",
+        "rotom-wash",
+        "dragapult",
+        "basculegion",
+        "farigiraf"
+      ],
+      "items": [
+        "lucarionite",
+        "focus-sash",
+        "sitrus-berry",
+        "focus-sash",
+        "choice-scarf",
+        "sitrus-berry"
+      ],
+      "note": "Tournament analogue: Whimsicott/Basculegion/Farigiraf balance lines remain common in recent M-B cuts.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/H270805111"
+    },
+    {
+      "id": "2026-W25-tournament-10",
+      "category": "tournament",
+      "rank": 10,
+      "code": "KDT4CL9KJU",
+      "name": "NY - Aerodactyl Charizard ladder cut",
+      "archetype": "sun",
+      "members": [
+        "aerodactyl-mega",
+        "sylveon",
+        "farigiraf",
+        "charizard-mega-y",
+        "kingambit",
+        "garchomp"
+      ],
+      "items": [
+        "aerodactylite",
+        "fairy-feather",
+        "sitrus-berry",
+        "charizardite-y",
+        "focus-sash",
+        "soft-sand"
+      ],
+      "note": "Tournament analogue: Charizard/Garchomp/Farigiraf/Kingambit shells placed in recent M-A majors and are still legal.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/KDT4CL9KJU"
+    },
+    {
+      "id": "2026-W25-community-1",
+      "category": "community",
+      "rank": 1,
+      "code": "PNPC15K027",
+      "name": "Effigy - SandBalance",
+      "archetype": "sand",
+      "members": [
+        "tyranitar",
+        "excadrill",
+        "gyarados",
+        "gengar-mega",
+        "rotom-heat",
+        "corviknight"
+      ],
+      "items": [
+        "shuca-berry",
+        "focus-sash",
+        "leftovers",
+        "gengarite",
+        "sitrus-berry",
+        "occa-berry"
+      ],
+      "note": "Community sand balance with Excadrill speed, Mega Gengar disruption and bulky pivots.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/PNPC15K027"
+    },
+    {
+      "id": "2026-W25-community-2",
+      "category": "community",
+      "rank": 2,
+      "code": "LG9XUMB7KE",
+      "name": "Manakanon - Gengar Maushold sand",
+      "archetype": "sand",
+      "members": [
+        "gengar-mega",
+        "maushold",
+        "dragonite-mega",
+        "tyranitar",
+        "excadrill",
+        "tsareena"
+      ],
+      "items": [
+        "gengarite",
+        "chople-berry",
+        "dragoninite",
+        "choice-scarf",
+        "focus-sash",
+        "sitrus-berry"
+      ],
+      "note": "Fun but viable sand with Mega Gengar control and Tsareena priority blocking.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/LG9XUMB7KE"
+    },
+    {
+      "id": "2026-W25-community-3",
+      "category": "community",
+      "rank": 3,
+      "code": "8FM7GUMQM4",
+      "name": "Kinkakuji - Floette setup mix",
+      "archetype": "balance",
+      "members": [
+        "floette-mega",
+        "garchomp",
+        "mimikyu",
+        "scizor",
+        "volcarona",
+        "gyarados-mega"
+      ],
+      "items": [
+        "floettite",
+        "focus-sash",
+        "fairy-feather",
+        "sitrus-berry",
+        "lum-berry",
+        "gyaradosite"
+      ],
+      "note": "Community setup pile: Floette and Gyarados threaten longer games while Garchomp forces trades.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/8FM7GUMQM4"
+    },
+    {
+      "id": "2026-W25-community-4",
+      "category": "community",
+      "rank": 4,
+      "code": "2SFRD36A9U",
+      "name": "Yuni - Scrafty Kangaskhan slow mode",
+      "archetype": "trickRoom",
+      "members": [
+        "farigiraf",
+        "scrafty-mega",
+        "kangaskhan-mega",
+        "sylveon",
+        "basculegion",
+        "torkoal"
+      ],
+      "items": [
+        "sitrus-berry",
+        "scraftite",
+        "kangaskhanite",
+        "fairy-feather",
+        "focus-sash",
+        "life-orb"
+      ],
+      "note": "Community slow-mode team with Armor Tail, bulky Megas and Sylveon spread damage.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/2SFRD36A9U"
+    },
+    {
+      "id": "2026-W25-community-5",
+      "category": "community",
+      "rank": 5,
+      "code": "4BTPAF3RGR",
+      "name": "Natsuha - Venusaur Froslass utility",
+      "archetype": "balance",
+      "members": [
+        "venusaur-mega",
+        "archaludon",
+        "politoed",
+        "espathra",
+        "froslass-mega",
+        "sableye"
+      ],
+      "items": [
+        "venusaurite",
+        "leftovers",
+        "sitrus-berry",
+        "colbur-berry",
+        "froslassite",
+        "roseli-berry"
+      ],
+      "note": "Community control team with rain, bulky Venusaur and Froslass speed pressure.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/4BTPAF3RGR"
+    },
+    {
+      "id": "2026-W25-community-6",
+      "category": "community",
+      "rank": 6,
+      "code": "HXBKM1U0D6",
+      "name": "BananaFree - Froslass ice offense",
+      "archetype": "hyperOffense",
+      "members": [
+        "froslass-mega",
+        "glaceon",
+        "sneasler",
+        "kingambit",
+        "arcanine",
+        "talonflame"
+      ],
+      "items": [
+        "froslassite",
+        "never-melt-ice",
+        "white-herb",
+        "chople-berry",
+        "focus-sash"
+      ],
+      "note": "Off-meta ice pressure with Froslass plus standard Sneasler and Kingambit cleanup.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/HXBKM1U0D6"
+    },
+    {
+      "id": "2026-W25-community-7",
+      "category": "community",
+      "rank": 7,
+      "code": "J5VGRGV2EN",
+      "name": "ChileK773 - Alcremie Drampa room",
+      "archetype": "trickRoom",
+      "members": [
+        "alcremie",
+        "drampa",
+        "whimsicott",
+        "steelix",
+        "azumarill",
+        "gengar"
+      ],
+      "note": "Community Trick Room experiment with Alcremie support and slow bulky attackers.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/J5VGRGV2EN"
+    },
+    {
+      "id": "2026-W25-community-8",
+      "category": "community",
+      "rank": 8,
+      "code": "N199408281",
+      "name": "Inicial - Raichu-X Dragonite",
+      "archetype": "hyperOffense",
+      "members": [
+        "raichu-mega-x",
+        "dragonite",
+        "gyarados",
+        "garchomp-mega",
+        "kingambit",
+        "gengar"
+      ],
+      "note": "Community Electric Terrain offense with Raichu-X and multiple physical attackers.",
+      "verified": false,
+      "source": "https://op.gg/pokemon-champions/replica-teams/N199408281"
+    }
+  ]
+}
