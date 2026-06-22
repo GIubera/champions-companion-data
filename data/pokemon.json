@@ -452,7 +452,7 @@
           "Floettite"
         ],
         "abilities": [
-          "Flower Veil"
+          "Fairy Aura (Mega)"
         ],
         "nature": "Timid",
         "spread": null,
@@ -850,7 +850,7 @@
           "Aerodactylite"
         ],
         "abilities": [
-          "Unnerve"
+          "Tough Claws (Mega)"
         ],
         "nature": "Jolly",
         "spread": null,
@@ -859,7 +859,7 @@
       "strengths": [
         "B-tier ChampTeams Reg M-B pick with 3.23% tournament usage",
         "most common item: Aerodactylite",
-        "most common ability line: Unnerve",
+        "most common ability line: Tough Claws",
         "common move core: Rock Slide / Dual Wingbeat / Tailwind / Protect",
         "defensive profile includes Ground immunity, Normal x0.5, Fire x0.5"
       ],
@@ -1053,8 +1053,7 @@
           "Dragoninite"
         ],
         "abilities": [
-          "Multiscale",
-          "Inner Focus"
+          "Multiscale (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -1574,8 +1573,7 @@
           "Froslassite"
         ],
         "abilities": [
-          "Cursed Body",
-          "Snow Cloak"
+          "Snow Warning (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -2047,7 +2045,7 @@
           "Delphoxite"
         ],
         "abilities": [
-          "Blaze"
+          "Levitate (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -2056,7 +2054,7 @@
       "strengths": [
         "B-tier ChampTeams Reg M-B pick with 5.32% tournament usage",
         "most common item: Delphoxite",
-        "most common ability line: Blaze",
+        "most common ability line: Levitate",
         "common move core: Protect / Heat Wave / Psychic / Nasty Plot",
         "defensive profile includes Fire x0.5, Grass x0.5, Ice x0.5"
       ],
@@ -2470,7 +2468,7 @@
           "Golurkite"
         ],
         "abilities": [
-          "Iron Fist"
+          "Unseen Fist (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -2479,7 +2477,7 @@
       "strengths": [
         "C-tier ChampTeams Reg M-B pick with 1.88% tournament usage",
         "most common item: Golurkite",
-        "most common ability line: Iron Fist",
+        "most common ability line: Unseen Fist",
         "common move core: Protect / Poltergeist / Headlong Rush / Ice Punch",
         "defensive profile includes Normal immunity, Electric immunity, Fighting immunity"
       ],
@@ -2869,7 +2867,7 @@
           "Kangaskhanite"
         ],
         "abilities": [
-          "Scrappy"
+          "Parental Bond (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -2877,7 +2875,6 @@
       },
       "strengths": [
         "Parental Bond: every move hits twice",
-        "Scrappy: Fake Out and Normal/Fighting moves hit Ghosts",
         "Low Kick ×4 on heavy Steels"
       ],
       "counters": [
@@ -3116,9 +3113,7 @@
           "Lopunnite"
         ],
         "abilities": [
-          "Cute Charm",
-          "Limber",
-          "Klutz"
+          "Scrappy (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -3468,8 +3463,7 @@
           "Meganiumite"
         ],
         "abilities": [
-          "Overgrow",
-          "Leaf Guard"
+          "Mega Sol (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -3478,7 +3472,7 @@
       "strengths": [
         "B-tier ChampTeams Reg M-B pick with 4.6% tournament usage",
         "most common item: Meganiumite",
-        "most common ability line: Overgrow",
+        "most common ability line: Mega Sol",
         "common move core: Solar Beam / Dazzling Gleam / Weather Ball / Protect",
         "defensive profile includes Dragon immunity, Water x0.5, Electric x0.5"
       ],
@@ -4479,7 +4473,7 @@
           "Steelixite"
         ],
         "abilities": [
-          "Sturdy"
+          "Sand Force (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -4487,7 +4481,7 @@
       },
       "strengths": [
         "most common item: Steelixite",
-        "most common ability line: Sturdy",
+        "most common ability line: Sand Force",
         "common move core: Heavy Slam / High Horsepower / Wide Guard / Protect",
         "defensive profile includes Electric immunity, Poison immunity, Rock x0.25"
       ],
@@ -6975,7 +6969,7 @@
           "Charizardite X"
         ],
         "abilities": [
-          "Blaze"
+          "Tough Claws (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -6984,7 +6978,7 @@
       "strengths": [
         "B-tier ChampTeams Reg M-B pick with 2.45% tournament usage",
         "most common item: Charizardite X",
-        "most common ability line: Blaze",
+        "most common ability line: Tough Claws",
         "common move core: Protect / Dragon Dance / Flare Blitz / Dragon Claw",
         "defensive profile includes Fire x0.25, Grass x0.25, Electric x0.5"
       ],
@@ -7072,7 +7066,7 @@
           "Victreebelite"
         ],
         "abilities": [
-          "Chlorophyll"
+          "Innards Out (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7080,7 +7074,7 @@
       },
       "strengths": [
         "most common item: Victreebelite",
-        "most common ability line: Chlorophyll",
+        "most common ability line: Innards Out",
         "common move core: Encore / Sleep Powder / Giga Drain / Sludge Bomb",
         "defensive profile includes Grass x0.25, Water x0.5, Electric x0.5"
       ],
@@ -7133,7 +7127,7 @@
           "Venusaurite"
         ],
         "abilities": [
-          "Chlorophyll"
+          "Thick Fat (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7142,7 +7136,7 @@
       "strengths": [
         "B-tier ChampTeams Reg M-B pick with 5.7% tournament usage",
         "most common item: Venusaurite",
-        "most common ability line: Chlorophyll",
+        "most common ability line: Thick Fat",
         "common move core: Protect / Sludge Bomb / Earth Power / Giga Drain",
         "defensive profile includes Grass x0.25, Water x0.5, Electric x0.5"
       ],
@@ -7189,7 +7183,7 @@
           "Beedrillite"
         ],
         "abilities": [
-          "Sniper"
+          "Adaptability (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7197,7 +7191,7 @@
       },
       "strengths": [
         "most common item: Beedrillite",
-        "most common ability line: Sniper",
+        "most common ability line: Adaptability",
         "common move core: Drill Run / Protect / Poison Jab / U-turn",
         "defensive profile includes Grass x0.25, Fighting x0.25, Poison x0.5"
       ],
@@ -7358,7 +7352,7 @@
           "Starminite"
         ],
         "abilities": [
-          "Natural Cure"
+          "Huge Power (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7367,7 +7361,7 @@
       "strengths": [
         "C-tier ChampTeams Reg M-B pick with 0.83% tournament usage",
         "most common item: Starminite",
-        "most common ability line: Natural Cure",
+        "most common ability line: Huge Power",
         "common move core: Liquidation / Protect / Aqua Jet / Ice Spinner",
         "defensive profile includes Fire x0.5, Water x0.5, Ice x0.5"
       ],
@@ -7556,9 +7550,7 @@
           "Gardevoirite"
         ],
         "abilities": [
-          "Trace",
-          "Telepathy",
-          "Synchronize"
+          "Pixilate (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7567,7 +7559,7 @@
       "strengths": [
         "B-tier ChampTeams Reg M-B pick with 4.69% tournament usage",
         "most common item: Gardevoirite",
-        "most common ability line: Trace",
+        "most common ability line: Pixilate",
         "common move core: Protect / Hyper Voice / Psyshock / Trick Room",
         "defensive profile includes Dragon immunity, Fighting x0.25, Psychic x0.5"
       ],
@@ -7652,7 +7644,7 @@
           "Aggronite"
         ],
         "abilities": [
-          "Sturdy"
+          "Filter (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7661,7 +7653,7 @@
       "strengths": [
         "C-tier ChampTeams Reg M-B pick with 0.87% tournament usage",
         "most common item: Aggronite",
-        "most common ability line: Sturdy",
+        "most common ability line: Filter",
         "common move core: Heavy Slam / Body Press / Protect / Iron Defense",
         "defensive profile includes Poison immunity, Normal x0.5, Grass x0.5"
       ],
@@ -7751,7 +7743,7 @@
           "Manectite"
         ],
         "abilities": [
-          "Lightning Rod"
+          "Intimidate (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7760,7 +7752,7 @@
       "strengths": [
         "C-tier ChampTeams Reg M-B pick with 0.25% tournament usage",
         "most common item: Manectite",
-        "most common ability line: Lightning Rod",
+        "most common ability line: Intimidate",
         "common move core: Volt Switch / Snarl / Protect / Thunderbolt",
         "defensive profile includes Electric x0.5, Flying x0.5, Steel x0.5"
       ],
@@ -7851,7 +7843,7 @@
           "Altarianite"
         ],
         "abilities": [
-          "Cloud Nine"
+          "Pixilate (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7860,7 +7852,7 @@
       "strengths": [
         "D-tier ChampTeams Reg M-B pick with 0.21% tournament usage",
         "most common item: Altarianite",
-        "most common ability line: Cloud Nine",
+        "most common ability line: Pixilate",
         "common move core: Hyper Voice / Protect / Will-O-Wisp / Dragon Pulse",
         "defensive profile includes Dragon immunity, Fire x0.5, Water x0.5"
       ],
@@ -7907,7 +7899,7 @@
           "Banettite"
         ],
         "abilities": [
-          "Frisk"
+          "Prankster (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -7915,7 +7907,7 @@
       },
       "strengths": [
         "most common item: Banettite",
-        "most common ability line: Frisk",
+        "most common ability line: Prankster",
         "common move core: Destiny Bond / Encore / Protect / Poltergeist",
         "defensive profile includes Normal immunity, Fighting immunity, Poison x0.5"
       ],
@@ -8071,7 +8063,7 @@
           "Audinite"
         ],
         "abilities": [
-          "Regenerator"
+          "Healer (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -8079,7 +8071,7 @@
       },
       "strengths": [
         "most common item: Audinite",
-        "most common ability line: Regenerator",
+        "most common ability line: Healer",
         "common move core: Trick Room / Dazzling Gleam / Heal Pulse / Protect",
         "defensive profile includes Ghost immunity, Dragon immunity, Bug x0.5"
       ],
@@ -8136,7 +8128,7 @@
           "Garchompite"
         ],
         "abilities": [
-          "Rough Skin"
+          "Sand Force (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -8145,7 +8137,7 @@
       "strengths": [
         "C-tier ChampTeams Reg M-B pick with 1.5% tournament usage",
         "most common item: Garchompite",
-        "most common ability line: Rough Skin",
+        "most common ability line: Sand Force",
         "common move core: Protect / Dragon Claw / Earthquake / Stomping Tantrum",
         "defensive profile includes Electric immunity, Fire x0.5, Poison x0.5"
       ],
@@ -8302,7 +8294,7 @@
           "Ampharosite"
         ],
         "abilities": [
-          "Static"
+          "Mold Breaker (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -8311,7 +8303,7 @@
       "strengths": [
         "D-tier ChampTeams Reg M-B pick with 0.35% tournament usage",
         "most common item: Ampharosite",
-        "most common ability line: Static",
+        "most common ability line: Mold Breaker",
         "common move core: Protect / Thunderbolt / Dragon Pulse / Focus Blast",
         "defensive profile includes Electric x0.25, Fire x0.5, Water x0.5"
       ],
@@ -8764,7 +8756,7 @@
           "Glimmoranite"
         ],
         "abilities": [
-          "Toxic Debris"
+          "Adaptability (Mega)"
         ],
         "nature": null,
         "spread": null,
@@ -8773,7 +8765,7 @@
       "strengths": [
         "B-tier ChampTeams Reg M-B pick with 4.06% tournament usage",
         "most common item: Glimmoranite",
-        "most common ability line: Toxic Debris",
+        "most common ability line: Adaptability",
         "common move core: Power Gem / Earth Power / Sludge Bomb / Spiky Shield",
         "defensive profile includes Poison x0.25, Normal x0.5, Fire x0.5"
       ],
