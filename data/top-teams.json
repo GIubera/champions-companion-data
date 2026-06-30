@@ -206,6 +206,54 @@
       "id": "2026-W28-tournament-1",
       "category": "tournament",
       "rank": 1,
+      "code": "H4S1K5J6NA",
+      "name": "Hirseknabe (Kickoff Cup 2nd) - trick room",
+      "archetype": "trick room",
+      "members": [
+        "kangaskhan-mega",
+        "farigiraf",
+        "basculegion",
+        "kommo-o",
+        "torkoal",
+        "vileplume"
+      ]
+    },
+    {
+      "id": "2026-W28-tournament-2",
+      "category": "tournament",
+      "rank": 2,
+      "code": "YRYU1TUSLG",
+      "name": "SleepySilver (Sitrus #63 Top4) - balance",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "delphox",
+        "kingambit",
+        "maushold",
+        "basculegion",
+        "ninetales-alola"
+      ]
+    },
+    {
+      "id": "2026-W28-tournament-3",
+      "category": "tournament",
+      "rank": 3,
+      "code": "V8PLVYE99L",
+      "name": "AlexShyness (Sitrus #63 Top8) - sun",
+      "archetype": "sun",
+      "members": [
+        "charizard-mega-y",
+        "venusaur",
+        "farigiraf",
+        "incineroar",
+        "torkoal",
+        "mawile"
+      ]
+    },
+    {
+      "id": "2026-W28-tournament-4",
+      "category": "tournament",
+      "rank": 4,
       "code": "69PKNEEC91",
       "name": "Matteo (Champion) - sun",
       "archetype": "sun",
@@ -219,9 +267,9 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-2",
+      "id": "2026-W28-tournament-5",
       "category": "tournament",
-      "rank": 2,
+      "rank": 5,
       "code": "Q1E4BY75UK",
       "name": "Chris Han - tailwind",
       "archetype": "tailwind",
@@ -235,9 +283,9 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-3",
+      "id": "2026-W28-tournament-6",
       "category": "tournament",
-      "rank": 3,
+      "rank": 6,
       "code": "M29C02QUC5",
       "name": "Anthony - trick room",
       "archetype": "trick room",
@@ -251,9 +299,9 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-4",
+      "id": "2026-W28-tournament-7",
       "category": "tournament",
-      "rank": 4,
+      "rank": 7,
       "code": "CW3XUORVYH",
       "name": "Marshyy - trick room",
       "archetype": "trick room",
@@ -267,9 +315,9 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-5",
+      "id": "2026-W28-tournament-8",
       "category": "tournament",
-      "rank": 5,
+      "rank": 8,
       "code": "V2ULYNSAFN",
       "name": "Marshyy - tailwind",
       "archetype": "tailwind",
