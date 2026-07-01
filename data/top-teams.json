@@ -1,7 +1,7 @@
 {
   "regulation": "M-B",
-  "week": "2026-W28",
-  "updatedAt": "2026-06-27",
+  "week": "2026-W26",
+  "updatedAt": "2026-07-02",
   "note": "Codes/text/ids only (IP-safe). Compiled from public sources; verify in-game.",
   "rosterGaps": [
     "conkeldurr",
@@ -11,7 +11,7 @@
   ],
   "teams": [
     {
-      "id": "2026-W28-meta-1",
+      "id": "2026-W26-meta-1",
       "category": "meta",
       "rank": 1,
       "code": "5J5YSJK4YH",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-2",
+      "id": "2026-W26-meta-2",
       "category": "meta",
       "rank": 2,
       "code": "D45J6QAUQY",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-3",
+      "id": "2026-W26-meta-3",
       "category": "meta",
       "rank": 3,
       "code": "W8N4QMGSRJ",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-4",
+      "id": "2026-W26-meta-4",
       "category": "meta",
       "rank": 4,
       "code": "BMYR5TU6TP",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-5",
+      "id": "2026-W26-meta-5",
       "category": "meta",
       "rank": 5,
       "code": "R6EFJYW89C",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-6",
+      "id": "2026-W26-meta-6",
       "category": "meta",
       "rank": 6,
       "code": "6U1TOKGHR9",
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-7",
+      "id": "2026-W26-meta-7",
       "category": "meta",
       "rank": 7,
       "code": "TR71M12XH3",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-8",
+      "id": "2026-W26-meta-8",
       "category": "meta",
       "rank": 8,
       "code": "ADBFKT26MA",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-9",
+      "id": "2026-W26-meta-9",
       "category": "meta",
       "rank": 9,
       "code": "LPUTRGJQWE",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-10",
+      "id": "2026-W26-meta-10",
       "category": "meta",
       "rank": 10,
       "code": "444PPMATZU",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-11",
+      "id": "2026-W26-meta-11",
       "category": "meta",
       "rank": 11,
       "code": "N4ETMM4WVH",
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "id": "2026-W28-meta-12",
+      "id": "2026-W26-meta-12",
       "category": "meta",
       "rank": 12,
       "code": "4N3MELX31W",
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-1",
+      "id": "2026-W26-tournament-1",
       "category": "tournament",
       "rank": 1,
       "code": "H4S1K5J6NA",
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-2",
+      "id": "2026-W26-tournament-2",
       "category": "tournament",
       "rank": 2,
       "code": "YRYU1TUSLG",
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-3",
+      "id": "2026-W26-tournament-3",
       "category": "tournament",
       "rank": 3,
       "code": "V8PLVYE99L",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-4",
+      "id": "2026-W26-tournament-4",
       "category": "tournament",
       "rank": 4,
       "code": "69PKNEEC91",
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-5",
+      "id": "2026-W26-tournament-5",
       "category": "tournament",
       "rank": 5,
       "code": "Q1E4BY75UK",
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-6",
+      "id": "2026-W26-tournament-6",
       "category": "tournament",
       "rank": 6,
       "code": "M29C02QUC5",
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-7",
+      "id": "2026-W26-tournament-7",
       "category": "tournament",
       "rank": 7,
       "code": "CW3XUORVYH",
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "id": "2026-W28-tournament-8",
+      "id": "2026-W26-tournament-8",
       "category": "tournament",
       "rank": 8,
       "code": "V2ULYNSAFN",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "id": "2026-W28-beginner-1",
+      "id": "2026-W26-beginner-1",
       "category": "beginner",
       "rank": 1,
       "code": "NCVAV65UX9",
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "id": "2026-W28-beginner-2",
+      "id": "2026-W26-beginner-2",
       "category": "beginner",
       "rank": 2,
       "code": "6B4KT2BCNS",
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "id": "2026-W28-beginner-3",
+      "id": "2026-W26-beginner-3",
       "category": "beginner",
       "rank": 3,
       "code": "386F6KPJYL",
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-1",
+      "id": "2026-W26-community-1",
       "category": "community",
       "rank": 1,
       "code": "2KTKJADG9X",
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-2",
+      "id": "2026-W26-community-2",
       "category": "community",
       "rank": 2,
       "code": "CQ5EJT6DX7",
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-3",
+      "id": "2026-W26-community-3",
       "category": "community",
       "rank": 3,
       "code": "5SU3ECU37G",
@@ -427,7 +427,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-4",
+      "id": "2026-W26-community-4",
       "category": "community",
       "rank": 4,
       "code": "CWYNPBUN15",
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-5",
+      "id": "2026-W26-community-5",
       "category": "community",
       "rank": 5,
       "code": "CTGNQ4EQSC",
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-6",
+      "id": "2026-W26-community-6",
       "category": "community",
       "rank": 6,
       "code": "YEXEDUDA7E",
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-7",
+      "id": "2026-W26-community-7",
       "category": "community",
       "rank": 7,
       "code": "TGWU77DKV5",
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-8",
+      "id": "2026-W26-community-8",
       "category": "community",
       "rank": 8,
       "code": "6HW1MPC1P6",
@@ -507,7 +507,7 @@
       ]
     },
     {
-      "id": "2026-W28-community-9",
+      "id": "2026-W26-community-9",
       "category": "community",
       "rank": 9,
       "code": "QQTBLYMXB2",

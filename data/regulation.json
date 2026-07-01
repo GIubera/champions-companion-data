@@ -10,7 +10,7 @@
     "Mega Raichu X/Y remain legal launch gifts; Raichu X sets Electric Terrain, while Raichu Y uses No Guard offense.",
     "Terrain and weather are both live-relevant; roster/usage should keep being refreshed as M-B tournaments replace M-A data."
   ],
-  "updatedAt": "2026-06-30",
+  "updatedAt": "2026-07-01",
   "usageSources": [
     "https://www.pikalytics.com/champions",
     "https://championsmeta.io/meta",
@@ -82,5 +82,5 @@
     }
   ],
   "replicaCodesNote": "Codes die if the creator edits/deletes the team: always show the verification date in the app.",
-  "dataVersion": "2026-06-30T00:21:37.282Z"
+  "dataVersion": "2026-07-01T23:12:28.286Z"
 }
