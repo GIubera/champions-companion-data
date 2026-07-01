@@ -1,7 +1,7 @@
 {
   "regulation": "M-B",
   "week": "2026-W27",
-  "updatedAt": "2026-06-25",
+  "updatedAt": "2026-07-01",
   "note": "Codes/text/ids only (IP-safe). Compiled from public sources; verify in-game.",
   "rosterGaps": [
     "conkeldurr",
@@ -14,88 +14,122 @@
       "id": "2026-W27-meta-1",
       "category": "meta",
       "rank": 1,
-      "code": "Q1E4BY75UK",
-      "name": "Chris Han / dartsvg - tailwind",
-      "archetype": "tailwind",
+      "code": "6S4J976V3W",
+      "name": "FuuSh2006 - rain",
+      "archetype": "rain",
       "members": [
-        "charizard",
-        "garchomp",
-        "whimsicott",
-        "basculegion",
-        "kingambit",
-        "greninja"
-      ]
+        "staraptor-mega",
+        "grimmsnarl",
+        "politoed",
+        "sinistcha",
+        "archaludon",
+        "mawile"
+      ],
+      "note": "Mega Staraptor rain — screens, Politoed Drizzle, Trick Room fallback via Sinistcha.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
     },
     {
       "id": "2026-W27-meta-2",
       "category": "meta",
       "rank": 2,
-      "code": "QLT4D7LYSY",
-      "name": "elm_motochika - rain",
-      "archetype": "rain",
+      "code": "9JRT0QC3ER",
+      "name": "sharuku_6242 - hyper offense",
+      "archetype": "hyper offense",
       "members": [
-        "metagross",
-        "swampert",
-        "pelipper",
-        "grimmsnarl",
-        "archaludon",
-        "sinistcha"
-      ]
+        "froslass-mega",
+        "gholdengo",
+        "kingambit",
+        "incineroar",
+        "basculegion",
+        "arcanine-hisui"
+      ],
+      "note": "Mega Froslass hyper offense — setup + heavy priority (Sucker Punch, Aqua Jet, Fake Out).",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
     },
     {
       "id": "2026-W27-meta-3",
       "category": "meta",
       "rank": 3,
-      "code": "MQ05G74QG9",
-      "name": "Anthony - balance",
-      "archetype": "balance",
+      "code": "L9DPH1GHVB",
+      "name": "Griff - sand",
+      "archetype": "sand",
       "members": [
-        "metagross",
-        "hydreigon",
-        "primarina",
-        "hippowdon",
-        "grimmsnarl",
-        "blastoise"
-      ]
+        "tyranitar-mega",
+        "glimmora",
+        "gliscor",
+        "goodra-hisui",
+        "emolga",
+        "kleavor"
+      ],
+      "note": "Master Rank ladder sand — Toxic Debris Glimmora + Sand Veil Gliscor disruption.",
+      "source": "https://x.com/GriffSniffDrift/status/2070970235851514009",
+      "verified": true
     },
     {
       "id": "2026-W27-meta-4",
       "category": "meta",
       "rank": 4,
-      "code": "QF6BN3SSLR",
-      "name": "Super Nova - rain",
-      "archetype": "rain",
+      "code": "GESXQDU396",
+      "name": "Xenagaming - sun",
+      "archetype": "sun",
       "members": [
-        "swampert",
-        "archaludon",
-        "sinistcha",
-        "mawile",
-        "pelipper",
-        "farigiraf"
-      ]
+        "charizard-mega-y",
+        "whimsicott",
+        "incineroar",
+        "basculegion",
+        "garchomp",
+        "mawile"
+      ],
+      "note": "Zard-Y sun with Whimsicott Tailwind — straightforward, strong into slower builds.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
     },
     {
       "id": "2026-W27-meta-5",
       "category": "meta",
       "rank": 5,
-      "code": "230DGLTHR2",
-      "name": "WDMichael - tailwind",
-      "archetype": "tailwind",
+      "code": "EUDBSDQL02",
+      "name": "arubega_poke - rain",
+      "archetype": "rain",
       "members": [
-        "staraptor",
-        "grimmsnarl",
-        "raichu",
-        "sinistcha",
-        "milotic",
-        "whimsicott"
-      ]
+        "whimsicott",
+        "pelipper",
+        "basculegion",
+        "swampert-mega",
+        "archaludon",
+        "floette-mega"
+      ],
+      "note": "Rain offense — Adaptability Basculegion + Mega Swampert, Floette-Eternal second stone.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
     },
     {
       "id": "2026-W27-meta-6",
       "category": "meta",
       "rank": 6,
+      "code": "41Y21B475G",
+      "name": "sasisu_memo - rain",
+      "archetype": "rain",
+      "members": [
+        "sneasler",
+        "kingambit",
+        "delphox",
+        "blastoise-mega",
+        "incineroar",
+        "sinistcha"
+      ],
+      "note": "Mega Blastoise Water Spout with double Fake Out and Sinistcha Trick Room.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-meta-7",
+      "category": "meta",
+      "rank": 7,
       "code": "5J5YSJK4YH",
-      "name": "op.gg - balance",
+      "name": "ぱるなん - balance",
       "archetype": "balance",
       "members": [
         "staraptor-mega",
@@ -107,11 +141,11 @@
       ]
     },
     {
-      "id": "2026-W27-meta-7",
+      "id": "2026-W27-meta-8",
       "category": "meta",
-      "rank": 7,
+      "rank": 8,
       "code": "D45J6QAUQY",
-      "name": "op.gg - balance",
+      "name": "O - balance",
       "archetype": "balance",
       "members": [
         "staraptor-mega",
@@ -123,11 +157,11 @@
       ]
     },
     {
-      "id": "2026-W27-meta-8",
+      "id": "2026-W27-meta-9",
       "category": "meta",
-      "rank": 8,
+      "rank": 9,
       "code": "W8N4QMGSRJ",
-      "name": "richg0ld - rain",
+      "name": "Alex - rain",
       "archetype": "rain",
       "members": [
         "swampert-mega",
@@ -139,11 +173,11 @@
       ]
     },
     {
-      "id": "2026-W27-meta-9",
+      "id": "2026-W27-meta-10",
       "category": "meta",
-      "rank": 9,
+      "rank": 10,
       "code": "BMYR5TU6TP",
-      "name": "op.gg - rain",
+      "name": "ノノミ - rain",
       "archetype": "rain",
       "members": [
         "pelipper",
@@ -155,34 +189,18 @@
       ]
     },
     {
-      "id": "2026-W27-meta-10",
-      "category": "meta",
-      "rank": 10,
-      "code": "R6EFJYW89C",
-      "name": "op.gg - balance",
-      "archetype": "balance",
-      "members": [
-        "charizard-mega-y",
-        "floette",
-        "whimsicott",
-        "kingambit",
-        "garchomp",
-        "basculegion"
-      ]
-    },
-    {
       "id": "2026-W27-meta-11",
       "category": "meta",
       "rank": 11,
-      "code": "6U1TOKGHR9",
-      "name": "op.gg - balance",
+      "code": "R6EFJYW89C",
+      "name": "kaede - balance",
       "archetype": "balance",
       "members": [
+        "charizard",
+        "floette-mega",
         "whimsicott",
         "kingambit",
-        "charizard-mega-y",
         "garchomp",
-        "floette",
         "basculegion"
       ]
     },
@@ -190,56 +208,24 @@
       "id": "2026-W27-meta-12",
       "category": "meta",
       "rank": 12,
-      "code": "TR71M12XH3",
-      "name": "op.gg - hyper offense",
-      "archetype": "hyper offense",
+      "code": "6U1TOKGHR9",
+      "name": "PokeReplay - balance",
+      "archetype": "balance",
       "members": [
-        "metagross-mega",
-        "rotom-wash",
+        "whimsicott",
+        "kingambit",
+        "charizard",
         "garchomp",
-        "talonflame",
-        "sneasler",
-        "floette"
+        "floette-mega",
+        "basculegion"
       ]
     },
     {
       "id": "2026-W27-beginner-1",
       "category": "beginner",
       "rank": 1,
-      "code": "RQFU91G7NC",
-      "name": "Trainer GEM - sun",
-      "archetype": "sun",
-      "members": [
-        "charizard",
-        "staraptor",
-        "whimsicott",
-        "grimmsnarl",
-        "garchomp",
-        "gholdengo"
-      ]
-    },
-    {
-      "id": "2026-W27-beginner-2",
-      "category": "beginner",
-      "rank": 2,
-      "code": "CE5AM8VUQS",
-      "name": "kashiwagineru - rain",
-      "archetype": "rain",
-      "members": [
-        "swampert",
-        "venusaur",
-        "sableye",
-        "pelipper",
-        "basculegion",
-        "archaludon"
-      ]
-    },
-    {
-      "id": "2026-W27-beginner-3",
-      "category": "beginner",
-      "rank": 3,
       "code": "NCVAV65UX9",
-      "name": "op.gg - balance",
+      "name": "DUBleTrouble - balance",
       "archetype": "balance",
       "members": [
         "garchomp",
@@ -251,251 +237,11 @@
       ]
     },
     {
-      "id": "2026-W27-beginner-4",
+      "id": "2026-W27-beginner-2",
       "category": "beginner",
-      "rank": 4,
-      "code": "60QCF0UFA0",
-      "name": "Jeans - rain",
-      "archetype": "rain",
-      "members": [
-        "grimmsnarl",
-        "swampert",
-        "pelipper",
-        "archaludon",
-        "sinistcha",
-        "floette-mega"
-      ]
-    },
-    {
-      "id": "2026-W27-beginner-5",
-      "category": "beginner",
-      "rank": 5,
-      "code": "ADBFKT26MA",
-      "name": "op.gg - balance",
-      "archetype": "balance",
-      "members": [
-        "whimsicott",
-        "floette-mega",
-        "basculegion",
-        "kingambit",
-        "charizard",
-        "garchomp"
-      ]
-    },
-    {
-      "id": "2026-W27-beginner-6",
-      "category": "beginner",
-      "rank": 6,
-      "code": "LPUTRGJQWE",
-      "name": "op.gg - balance",
-      "archetype": "balance",
-      "members": [
-        "maushold",
-        "delphox-mega",
-        "farigiraf",
-        "whimsicott",
-        "incineroar",
-        "annihilape"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-1",
-      "category": "tournament",
-      "rank": 1,
-      "code": "69PKNEEC91",
-      "name": "Matteo Boschmans (Champion) - sun",
-      "archetype": "sun",
-      "members": [
-        "pyroar-mega",
-        "ninetales",
-        "whimsicott",
-        "farigiraf",
-        "basculegion",
-        "floette"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-2",
-      "category": "tournament",
       "rank": 2,
-      "code": "PLOMHCBWEB",
-      "name": "PokeGrinding - trick room",
-      "archetype": "trick room",
-      "members": [
-        "primarina",
-        "farigiraf",
-        "mawile-mega",
-        "staraptor",
-        "blastoise",
-        "kingambit"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-3",
-      "category": "tournament",
-      "rank": 3,
-      "code": "M29C02QUC5",
-      "name": "Anthony - trick room",
-      "archetype": "trick room",
-      "members": [
-        "mimikyu",
-        "mawile",
-        "abomasnow",
-        "ceruledge",
-        "feraligatr",
-        "garchomp"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-4",
-      "category": "tournament",
-      "rank": 4,
-      "code": "J085DBCNWA",
-      "name": "danielcmini - snow",
-      "archetype": "snow",
-      "members": [
-        "metagross",
-        "incineroar",
-        "sneasler",
-        "ninetales-alola",
-        "hydreigon",
-        "aerodactyl"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-5",
-      "category": "tournament",
-      "rank": 5,
-      "code": "XEX629QEEY",
-      "name": "Aaron Zheng / CybertronVGC - tailwind",
-      "archetype": "tailwind",
-      "members": [
-        "staraptor",
-        "typhlosion-hisui",
-        "gholdengo",
-        "garchomp",
-        "whimsicott",
-        "basculegion"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-6",
-      "category": "tournament",
-      "rank": 6,
-      "code": "L0Y7PCC92W",
-      "name": "SplashPlateVGC - balance",
-      "archetype": "balance",
-      "members": [
-        "metagross",
-        "eelektross",
-        "gholdengo",
-        "garchomp",
-        "swampert",
-        "serperior"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-7",
-      "category": "tournament",
-      "rank": 7,
-      "code": "LW005GQ81G",
-      "name": "James Baek - tailwind",
-      "archetype": "tailwind",
-      "members": [
-        "grimmsnarl",
-        "staraptor",
-        "gholdengo",
-        "garchomp",
-        "arcanine-hisui",
-        "primarina"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-8",
-      "category": "tournament",
-      "rank": 8,
-      "code": "3K4YEDFNC6",
-      "name": "metalderk - rain",
-      "archetype": "rain",
-      "members": [
-        "metagross",
-        "swampert",
-        "archaludon",
-        "pelipper",
-        "sableye",
-        "sinistcha"
-      ]
-    },
-    {
-      "id": "2026-W27-community-1",
-      "category": "community",
-      "rank": 1,
-      "code": "8NC4A2HX10",
-      "name": "RejoVGC - tailwind",
-      "archetype": "tailwind",
-      "members": [
-        "barbaracle-mega",
-        "froslass",
-        "whimsicott",
-        "garchomp",
-        "kingambit",
-        "basculegion"
-      ]
-    },
-    {
-      "id": "2026-W27-community-2",
-      "category": "community",
-      "rank": 2,
-      "code": "FLNKNXJ46A",
-      "name": "Vio - balance",
-      "archetype": "balance",
-      "members": [
-        "pyroar",
-        "samurott-hisui",
-        "eelektross",
-        "hydreigon",
-        "sinistcha",
-        "houndstone"
-      ]
-    },
-    {
-      "id": "2026-W27-community-3",
-      "category": "community",
-      "rank": 3,
-      "code": "WCNLN7283M",
-      "name": "wjbax - tailwind",
-      "archetype": "tailwind",
-      "members": [
-        "annihilape",
-        "maushold",
-        "hydreigon",
-        "sylveon",
-        "sneasler",
-        "aerodactyl"
-      ]
-    },
-    {
-      "id": "2026-W27-community-4",
-      "category": "community",
-      "rank": 4,
-      "code": "X9MXS8VGGW",
-      "name": "Arcus Blade - tailwind",
-      "archetype": "tailwind",
-      "members": [
-        "staraptor",
-        "whimsicott",
-        "meowscarada",
-        "gengar",
-        "garchomp",
-        "basculegion"
-      ]
-    },
-    {
-      "id": "2026-W27-community-5",
-      "category": "community",
-      "rank": 5,
       "code": "6B4KT2BCNS",
-      "name": "richg0ld - hyper offense",
+      "name": "Regi - hyper offense",
       "archetype": "hyper offense",
       "members": [
         "pyroar-mega",
@@ -503,15 +249,15 @@
         "dragonite",
         "sinistcha",
         "sneasler",
-        "zoroark-hisui"
+        "zoroark"
       ]
     },
     {
-      "id": "2026-W27-community-6",
-      "category": "community",
-      "rank": 6,
+      "id": "2026-W27-beginner-3",
+      "category": "beginner",
+      "rank": 3,
       "code": "386F6KPJYL",
-      "name": "op.gg - balance",
+      "name": "りん - balance",
       "archetype": "balance",
       "members": [
         "scrafty-mega",
@@ -523,11 +269,192 @@
       ]
     },
     {
-      "id": "2026-W27-community-7",
+      "id": "2026-W27-tournament-1",
+      "category": "tournament",
+      "rank": 1,
+      "code": "KSD55G080M",
+      "name": "Matthew Henry - sun",
+      "archetype": "sun",
+      "members": [
+        "floette-mega",
+        "charizard",
+        "kingambit",
+        "whimsicott",
+        "basculegion",
+        "garchomp"
+      ],
+      "note": "Won a 900-player community tournament — the 'Big 6' sun goodstuffs (Zard-Y also carries a stone).",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-tournament-2",
+      "category": "tournament",
+      "rank": 2,
+      "code": "AH78GPXVR0",
+      "name": "UB_SLOW - balance",
+      "archetype": "balance",
+      "members": [
+        "hydreigon",
+        "metagross-mega",
+        "grimmsnarl",
+        "garchomp",
+        "charizard",
+        "toxapex"
+      ],
+      "note": "2nd place, Ruler of Origin Tour — Scarf Hydreigon + Regenerator Toxapex around a double-stone core.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-tournament-3",
+      "category": "tournament",
+      "rank": 3,
+      "code": "R1037TX51R",
+      "name": "crystal_0302 - rain",
+      "archetype": "rain",
+      "members": [
+        "grimmsnarl",
+        "swampert-mega",
+        "pelipper",
+        "archaludon",
+        "sinistcha",
+        "metagross"
+      ],
+      "note": "Top 4, Victory Road event — screens + rain with Stamina Archaludon.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-tournament-4",
+      "category": "tournament",
+      "rank": 4,
+      "code": "H4S1K5J6NA",
+      "name": "Hirseknabe (Kickoff Cup 2nd) - trick room",
+      "archetype": "trick room",
+      "members": [
+        "kangaskhan-mega",
+        "farigiraf",
+        "basculegion",
+        "kommo-o",
+        "torkoal",
+        "vileplume"
+      ]
+    },
+    {
+      "id": "2026-W27-tournament-5",
+      "category": "tournament",
+      "rank": 5,
+      "code": "YRYU1TUSLG",
+      "name": "SleepySilver (Sitrus #63 Top4) - balance",
+      "archetype": "balance",
+      "members": [
+        "staraptor-mega",
+        "delphox",
+        "kingambit",
+        "maushold",
+        "basculegion",
+        "ninetales-alola"
+      ]
+    },
+    {
+      "id": "2026-W27-tournament-6",
+      "category": "tournament",
+      "rank": 6,
+      "code": "V8PLVYE99L",
+      "name": "AlexShyness (Sitrus #63 Top8) - sun",
+      "archetype": "sun",
+      "members": [
+        "charizard-mega-y",
+        "venusaur",
+        "farigiraf",
+        "incineroar",
+        "torkoal",
+        "mawile"
+      ]
+    },
+    {
+      "id": "2026-W27-community-1",
       "category": "community",
-      "rank": 7,
+      "rank": 1,
+      "code": "43ETTKLUWS",
+      "name": "ParkerVGC - trick room",
+      "archetype": "trick room",
+      "members": [
+        "sinistcha",
+        "weavile",
+        "floette-mega",
+        "incineroar",
+        "barbaracle-mega",
+        "zoroark-hisui"
+      ],
+      "note": "Mega Barbaracle Trick Room — Sniper crits under TR, Hisuian Zoroark Illusion mind games.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-community-2",
+      "category": "community",
+      "rank": 2,
+      "code": "0LFD3YHB7A",
+      "name": "LexiconVGC - sun",
+      "archetype": "sun",
+      "members": [
+        "scrafty-mega",
+        "vileplume",
+        "staraptor",
+        "farigiraf",
+        "sylveon",
+        "torkoal"
+      ],
+      "note": "'SunRoom' — Torkoal Drought + Farigiraf Trick Room, Mega Scrafty cleans up.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-community-3",
+      "category": "community",
+      "rank": 3,
+      "code": "UN7HMTBS0X",
+      "name": "SPY_Anya - sun",
+      "archetype": "sun",
+      "members": [
+        "farigiraf",
+        "torkoal",
+        "sneasler",
+        "scrafty-mega",
+        "kingambit",
+        "pyroar"
+      ],
+      "note": "Sun + Trick Room hybrid — Mega Scrafty with Pyroar second stone.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-community-4",
+      "category": "community",
+      "rank": 4,
+      "code": "8X01N74900",
+      "name": "DreamPrince - sand",
+      "archetype": "sand",
+      "members": [
+        "pidgeot-mega",
+        "excadrill",
+        "tyranitar",
+        "tsareena",
+        "gholdengo",
+        "rotom-wash"
+      ],
+      "note": "Mega Pidgeot no-miss Hurricane over Tyranitar sand, Sand Rush Excadrill sweeps.",
+      "source": "https://devoncorp.press/resources/15-more-teams-for-pokemon-champions-regulation-mb-m-b",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-community-5",
+      "category": "community",
+      "rank": 5,
       "code": "2KTKJADG9X",
-      "name": "op.gg - balance",
+      "name": "ハンモック - balance",
       "archetype": "balance",
       "members": [
         "sceptile-mega",
@@ -539,11 +466,11 @@
       ]
     },
     {
-      "id": "2026-W27-community-8",
+      "id": "2026-W27-community-6",
       "category": "community",
-      "rank": 8,
+      "rank": 6,
       "code": "CQ5EJT6DX7",
-      "name": "op.gg - balance",
+      "name": "ぐっうみ - balance",
       "archetype": "balance",
       "members": [
         "staraptor-mega",
@@ -555,11 +482,11 @@
       ]
     },
     {
-      "id": "2026-W27-community-9",
+      "id": "2026-W27-community-7",
       "category": "community",
-      "rank": 9,
+      "rank": 7,
       "code": "5SU3ECU37G",
-      "name": "op.gg - balance",
+      "name": "kaede - balance",
       "archetype": "balance",
       "members": [
         "floette-mega",
@@ -571,51 +498,19 @@
       ]
     },
     {
-      "id": "2026-W27-community-10",
+      "id": "2026-W27-community-8",
       "category": "community",
-      "rank": 10,
-      "code": "444PPMATZU",
-      "name": "Mateuzu44p - hyper offense",
-      "archetype": "hyper offense",
+      "rank": 8,
+      "code": "CWYNPBUN15",
+      "name": "Warring_RekSai - rain",
+      "archetype": "rain",
       "members": [
-        "sylveon",
-        "garchomp",
-        "kingambit",
-        "aerodactyl-mega",
-        "sneasler",
-        "charizard"
-      ]
-    },
-    {
-      "id": "2026-W27-community-11",
-      "category": "community",
-      "rank": 11,
-      "code": "3GETRUT1DE",
-      "name": "Falkro - sand",
-      "archetype": "sand",
-      "members": [
-        "staraptor-mega",
-        "tyranitar",
-        "excadrill",
+        "swampert",
+        "pelipper",
+        "archaludon",
         "grimmsnarl",
-        "raichu",
-        "sinistcha"
-      ]
-    },
-    {
-      "id": "2026-W27-community-12",
-      "category": "community",
-      "rank": 12,
-      "code": "JT0U8TR1H0",
-      "name": "FedeCampoVGC - sun",
-      "archetype": "sun",
-      "members": [
-        "pyroar-mega",
-        "torkoal",
-        "venusaur",
-        "garchomp",
-        "aerodactyl",
-        "basculegion"
+        "sinistcha",
+        "metagross"
       ]
     }
   ]
