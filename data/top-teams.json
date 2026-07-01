@@ -1,7 +1,7 @@
 {
   "regulation": "M-B",
   "week": "2026-W27",
-  "updatedAt": "2026-07-01",
+  "updatedAt": "2026-07-02",
   "note": "Codes/text/ids only (IP-safe). Compiled from public sources; verify in-game.",
   "rosterGaps": [
     "conkeldurr",
@@ -221,6 +221,44 @@
       ]
     },
     {
+      "id": "2026-W27-meta-13",
+      "category": "meta",
+      "rank": 13,
+      "code": "QF6BN3SSLR",
+      "name": "Super Nova - rain",
+      "archetype": "rain",
+      "members": [
+        "swampert-mega",
+        "archaludon",
+        "sinistcha",
+        "mawile",
+        "pelipper",
+        "farigiraf"
+      ],
+      "note": "Mega Swampert rain with a Farigiraf Trick Room pivot — Mawile second stone.",
+      "source": "https://pokemonchampionsreplicateams.com/",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-meta-14",
+      "category": "meta",
+      "rank": 14,
+      "code": "WJ6EK8K09A",
+      "name": "Pokesports - balance",
+      "archetype": "balance",
+      "members": [
+        "sceptile-mega",
+        "rotom-heat",
+        "milotic",
+        "corviknight",
+        "mamoswine",
+        "gardevoir"
+      ],
+      "note": "Mega Sceptile Discharge core — Lightning Rod redirection with bulky backline.",
+      "source": "https://pokemonchampionsreplicateams.com/",
+      "verified": true
+    },
+    {
       "id": "2026-W27-beginner-1",
       "category": "beginner",
       "rank": 1,
@@ -267,6 +305,44 @@
         "ninetales-alola",
         "sylveon"
       ]
+    },
+    {
+      "id": "2026-W27-beginner-4",
+      "category": "beginner",
+      "rank": 4,
+      "code": "21B3H5MHTX",
+      "name": "ScroDoochi - tailwind",
+      "archetype": "tailwind",
+      "members": [
+        "primarina",
+        "whimsicott",
+        "raichu",
+        "maushold",
+        "sneasler",
+        "metagross-mega"
+      ],
+      "note": "Whimsicott Tailwind + Mega Metagross — straightforward turn-1 pressure.",
+      "source": "https://pokemonchampionsreplicateams.com/",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-beginner-5",
+      "category": "beginner",
+      "rank": 5,
+      "code": "14K9WJL5BV",
+      "name": "PokeTacticsTV - balance",
+      "archetype": "balance",
+      "members": [
+        "falinks-mega",
+        "incineroar",
+        "sinistcha",
+        "gholdengo",
+        "ninetales-alola",
+        "dragonite"
+      ],
+      "note": "Mega Falinks goodstuffs — easy to pilot, no weather homework.",
+      "source": "https://pokemonchampionsreplicateams.com/",
+      "verified": true
     },
     {
       "id": "2026-W27-tournament-1",
@@ -339,38 +415,6 @@
         "kommo-o",
         "torkoal",
         "vileplume"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-5",
-      "category": "tournament",
-      "rank": 5,
-      "code": "YRYU1TUSLG",
-      "name": "SleepySilver (Sitrus #63 Top4) - balance",
-      "archetype": "balance",
-      "members": [
-        "staraptor-mega",
-        "delphox",
-        "kingambit",
-        "maushold",
-        "basculegion",
-        "ninetales-alola"
-      ]
-    },
-    {
-      "id": "2026-W27-tournament-6",
-      "category": "tournament",
-      "rank": 6,
-      "code": "V8PLVYE99L",
-      "name": "AlexShyness (Sitrus #63 Top8) - sun",
-      "archetype": "sun",
-      "members": [
-        "charizard-mega-y",
-        "venusaur",
-        "farigiraf",
-        "incineroar",
-        "torkoal",
-        "mawile"
       ]
     },
     {
@@ -512,6 +556,63 @@
         "sinistcha",
         "metagross"
       ]
+    },
+    {
+      "id": "2026-W27-community-9",
+      "category": "community",
+      "rank": 9,
+      "code": "J4NPPJVDXF",
+      "name": "PokeGiuseppe - sand",
+      "archetype": "sand",
+      "members": [
+        "staraptor-mega",
+        "tyranitar",
+        "incineroar",
+        "excadrill",
+        "sinistcha",
+        "sylveon"
+      ],
+      "note": "Mega Staraptor over Tyranitar sand — Sand Rush Excadrill cleanup.",
+      "source": "https://pokemonchampionsreplicateams.com/",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-community-10",
+      "category": "community",
+      "rank": 10,
+      "code": "GL0B6S3RUJ",
+      "name": "PokeGiuseppe - sand",
+      "archetype": "sand",
+      "members": [
+        "corviknight",
+        "tyranitar",
+        "rotom-heat",
+        "sceptile-mega",
+        "sneasler",
+        "garchomp"
+      ],
+      "note": "Mega Sceptile sand — Corviknight Tailwind, odd-angle grass core.",
+      "source": "https://pokemonchampionsreplicateams.com/",
+      "verified": true
+    },
+    {
+      "id": "2026-W27-community-11",
+      "category": "community",
+      "rank": 11,
+      "code": "7551JEN5EW",
+      "name": "PokeGiuseppe - sun",
+      "archetype": "sun",
+      "members": [
+        "garchomp",
+        "pyroar-mega",
+        "kingambit",
+        "whimsicott",
+        "torkoal",
+        "farigiraf"
+      ],
+      "note": "Mega Pyroar 'Sun Room' — Torkoal Drought with Farigiraf Trick Room flip.",
+      "source": "https://pokemonchampionsreplicateams.com/",
+      "verified": true
     }
   ]
 }
